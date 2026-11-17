@@ -46,8 +46,16 @@ Two linked lists now preserve the business and brand names recovered from our pr
 
 Use [the competitor index](competitors/README.md) and its source/name-correction notes before repeating a catalogue review. Maker/reseller classification is distinct from the status of a SkidLabz project.
 
+### Technical research communities
+
+The [forum directory](forums/README.md), reviewed 17 November 2026, contains **78 source locations: 56 forum/support-board locations and 22 Reddit communities**. It includes technical sections, 89 sample discussion/index links, observed evidence dates and access limitations. Eight additional exact Reddit names remain unverified and are listed separately. Inaccessible boards, historical material and the confirmed Zilvia closure are labelled; directory inclusion does not establish current activity.
+
+[Research notes](forums/RESEARCH_NOTES.md) preserve practical problems around simple engine logging, recording reliability, tyre workflows, integration, instrument use and measurement trust. They also link existing decisions, including the torsion-tester validation pause, rejected generic setup app and timing-display economics. This source-directory addition changes no product status or development repository.
+
 ### Updating records
 
 Update the underlying JSON records, preserve existing IDs and decision history, add the evidence source, then run `python scripts/render_register.py`. This register update does not alter any development repository.
 
 Competitor records use `data/competitors.json` and `data/competitor_sources.json`; regenerate their two lists and evidence pages with `python scripts/render_competitors.py`.
+
+Technical community records use `data/forums.json`; regenerate the directory with `python scripts/render_forums.py`. Maintain `forums/RESEARCH_NOTES.md` as the separate, sourced interpretation.

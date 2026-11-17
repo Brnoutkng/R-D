@@ -57,6 +57,17 @@ Before repeating market/catalogue research, search [resellers](competitors/RESEL
 - Keep uncertain spellings and identities explicit. Do not invent a website, silently substitute a similar company or infer closure from a failed URL.
 - Retain pending/OEM/early-market sections as historical references; inclusion is not supplier approval, a current product recommendation or project reactivation.
 
+## Maintain technical research sources
+
+Search [the forum directory](forums/README.md) and [research notes](forums/RESEARCH_NOTES.md) before repeating community discovery. Source records are `data/forums.json`; regenerate the seven directory/index pages with `python scripts/render_forums.py`. The research notes and [finding template](templates/FORUM_FINDING_TEMPLATE.md) are maintained separately.
+
+- Preserve stable community IDs, public source URLs, observed evidence dates and access limitations. An observed date may be a sampled reply or index timestamp, not the forum's latest activity.
+- Distinguish reviewed technical text, index-only evidence, verified identity, unverified access, historical destinations and an explicit closure notice. A failed request, empty guest index or old post does not prove inactivity or closure.
+- Treat technical-section links as navigation. Constructed Reddit search links do not verify activity; retain the actual thread, category or official source that does.
+- Preserve contradictory replies, reported resolutions, adequate existing alternatives and objections to extra complexity. Support posts and maker demonstrations do not establish failure prevalence, market size or willingness to pay.
+- Link a new finding to the existing idea and decision. A new forum mention does not reactivate a paused or rejected product, approve a suggested feature or change an internal tool's commercial scope.
+- Keep public summaries short and paraphrased. Do not copy personal contact details, private group material, long posts, engineering instructions or unverified current prices/rules into product conclusions.
+
 ## Keep the catalogue scoped and useful
 
 This is a public summary. Keep detailed private designs, calibration data, manufacturing outputs, negotiated commercial records and contact/payment details in their source repositories or threads. Link to evidence without copying those details here.
