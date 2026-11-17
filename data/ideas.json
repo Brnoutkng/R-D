@@ -128,7 +128,8 @@
         "Product is not rejected merely because one sensor route failed.",
         "Display resolution is not measurement accuracy.",
         "No app, cloud, tyre-temperature or session-logging burden in V1.",
-        "Newer sample/testing updates supersede blanket no-samples wording; exact present sample inventory and full performance are not established by this review."
+        "Newer sample/testing updates supersede blanket no-samples wording; exact present sample inventory and full performance are not established by this review.",
+        "Owner's target is genuine accuracy and repeatability at approximately A$250 retail or less, materially better than cheap gauges; this is a target, not a validated achievable specification."
       ],
       "history": [
         {
@@ -138,6 +139,14 @@
         {
           "date": "2026-10-20",
           "decision": "Handover reports sample transducers believed arrived, with identity and tests unresolved."
+        },
+        {
+          "date": "2026-11-17",
+          "decision": "Owner explained the firsthand motivation: his approximately 15–16-year-old Intercomp had been exceptionally accurate in his experience, but began zero drifting in cold, damp racing conditions. A replacement around A$960–980 felt unjustifiable. A roughly A$250 Longacre disappointed him and appeared similar to inexpensive Chinese digital gauges, including foam packing. These are owner-reported experiences and price recollections, not controlled accuracy comparisons or verified current quotations."
+        },
+        {
+          "date": "2026-11-17",
+          "decision": "After inspecting the Intercomp, the owner perceived its electronics as inexpensive-looking and wants genuine accuracy and repeatability around or below A$250 retail. Appearance is not measured BOM cost, and the Longacre accuracy impression has not been independently verified. This motivation does not change sample-testing or project status."
         }
       ],
       "source_ids": [
@@ -145,7 +154,8 @@
         "R_TYRE_COST_GATE",
         "R_TYRE_SCOPE",
         "R_CONTROL",
-        "C-NOV08"
+        "C-NOV08",
+        "C-NOV17-TYRE-MOTIVATION"
       ],
       "id": "RD-003",
       "reviewed_on": "2026-11-17"
@@ -3629,3 +3639,4 @@
     }
   ]
 }
+

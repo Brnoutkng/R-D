@@ -40,6 +40,7 @@ TyreGauge, Digital tyre gauge
 - Display resolution is not measurement accuracy.
 - No app, cloud, tyre-temperature or session-logging burden in V1.
 - Newer sample/testing updates supersede blanket no-samples wording; exact present sample inventory and full performance are not established by this review.
+- Owner's target is genuine accuracy and repeatability at approximately A$250 retail or less, materially better than cheap gauges; this is a target, not a validated achievable specification.
 
 ## Decision history
 
@@ -47,6 +48,8 @@ TyreGauge, Digital tyre gauge
 | --- | --- |
 | 2026-10-06 | OEM/private-label-first investigation reopened in project control. |
 | 2026-10-20 | Handover reports sample transducers believed arrived, with identity and tests unresolved. |
+| 2026-11-17 | Owner explained the firsthand motivation: his approximately 15–16-year-old Intercomp had been exceptionally accurate in his experience, but began zero drifting in cold, damp racing conditions. A replacement around A$960–980 felt unjustifiable. A roughly A$250 Longacre disappointed him and appeared similar to inexpensive Chinese digital gauges, including foam packing. These are owner-reported experiences and price recollections, not controlled accuracy comparisons or verified current quotations. |
+| 2026-11-17 | After inspecting the Intercomp, the owner perceived its electronics as inexpensive-looking and wants genuine accuracy and repeatability around or below A$250 retail. Appearance is not measured BOM cost, and the Longacre accuracy impression has not been independently verified. This motivation does not change sample-testing or project status. |
 
 ## Recorded implementation decisions
 
@@ -57,4 +60,4 @@ TyreGauge, Digital tyre gauge
 
 ## Sources
 
-[R_TYRE_STATUS](../SOURCES.md#r_tyre_status), [R_TYRE_COST_GATE](../SOURCES.md#r_tyre_cost_gate), [R_TYRE_SCOPE](../SOURCES.md#r_tyre_scope), [R_CONTROL](../SOURCES.md#r_control), [C-NOV08](../SOURCES.md#c-nov08)
+[R_TYRE_STATUS](../SOURCES.md#r_tyre_status), [R_TYRE_COST_GATE](../SOURCES.md#r_tyre_cost_gate), [R_TYRE_SCOPE](../SOURCES.md#r_tyre_scope), [R_CONTROL](../SOURCES.md#r_control), [C-NOV08](../SOURCES.md#c-nov08), [C-NOV17-TYRE-MOTIVATION](../SOURCES.md#c-nov17-tyre-motivation)

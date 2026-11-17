@@ -630,3 +630,11 @@ Steven described recurring visor fogging in cooler Australian speedway condition
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Steven clarified that KnockMeter is not principally blocked by electronics complexity or making cost: the limited use case and expected sales are the concern. Mainstream commercially viable products take priority. This does not permanently reject KnockMeter.
+
+### C-NOV17-TYRE-MOTIVATION
+
+**Owner's firsthand tyre-gauge experience and product motivation**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Personal experience with an approximately 15–16-year-old Intercomp developing cold/damp zero drift, dissatisfaction with a roughly A$250 Longacre, and recalled Intercomp replacement price of A$960–980. Owner wants real accuracy and repeatability near or below A$250. Not a controlled benchmark, verified current price, measured component cost or validated product solution.
