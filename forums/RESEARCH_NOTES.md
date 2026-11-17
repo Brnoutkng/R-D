@@ -72,6 +72,36 @@ A [r/DirtRacing maker post](https://www.reddit.com/r/DirtRacing/comments/1xaaohe
 
 **Existing R&D boundary:** [Crew timing display](../ideas/crew-timing-display.md) retains its commercial rejection. [Timing network](../ideas/timing-network.md), [timing import](../ideas/timing-import.md) and [race logbook](../ideas/race-logbook.md) remain historical unadopted suggestions. Another timing post is not a reopening condition by itself.
 
+## Owner's firsthand market observations — 17 November 2026
+
+Recorded as given by the owner from his own experience of Australian Wingless Sprint and Sprintcar racing. These are owner observations, not surveys or measured market data. They change no product status and reopen nothing.
+
+**What is on the cars and in the pits**
+
+- Typical car electronics are a tachometer (if affordable), an oil pressure gauge, a water temperature gauge and a race receiver.
+- Every team needs a tyre pressure gauge.
+- Digital tyre bleeders and corner-weight scales are highly desirable products. Their development challenges are already recorded under [electronic bleeders](../ideas/electronic-bleeders.md) and [RaceScales](../ideas/race-scales.md).
+- Tyre groovers are reasonably common.
+- Bleeder-setting tanks are rarely seen now.
+- Individual racers rarely service their own shocks, so shock inflation gauges are not a promising Australian mainstream market.
+- Tyre durometers are rarely seen except with officials.
+- Timing lights are becoming less relevant with EFI and direct-fire ignition.
+- Weatherproof switch panels are interesting but highly competitive.
+- Solid-state battery isolators have a real, though smaller, market.
+
+**Electrical replacement parts**
+
+- Reliable Holden/GM V6 DFI modules and crank-angle sensors are increasingly difficult to obtain. Cheap aftermarket replacements reportedly fail frequently, and racers are resorting to genuine used parts from wreckers. Genuine original stock is becoming scarce.
+- A DFI module normally sells at around A$120. An advertised genuine part at A$575 reflects scarcity, not a realistic ordinary selling price. Do not treat a handful of new-old-stock parts as sustainable supply.
+- These are to be looked at as possible dependable replacement-parts opportunities, without assuming SkidLabz would manufacture them.
+- Methanol-compatible injectors are a separate, longer-term investigation. Injector calibration, engine tunes and liability make them unsuitable for immediate commercial priority.
+
+**Boundaries restated by the owner**
+
+- The compact race dash (recall tach, oil pressure and water temperature) remains [paused at display sourcing](../ideas/digital-race-dash.md). Do not restart the design.
+- The tyre gauge, electronic bleeders, receiver, RevMax and scales have documented development histories; read them before repeating work.
+- Product discovery should favour mainstream products racers already buy, including pit equipment, over obscure instruments and narrow variants of existing register ideas.
+
 ## Later investigations
 
 [Forum deep dive 01](../research/forum-deep-dive-01/REPORT.md) (17 November 2026) took four of these sources further: HoseHeads, KartPulse, Grassroots Motorsports and Speed-Talk. It tested the strongest findings against current products and small-batch costs, and records which leads were set aside and why. Read its report and [evidence file](../research/forum-deep-dive-01/EVIDENCE.md) before repeating work on those forums. It also found that HoseHeads has moved platform: the legacy thread links formerly given in theme 6 opened unrelated threads and have been replaced with current addresses.
