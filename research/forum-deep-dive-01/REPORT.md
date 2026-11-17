@@ -6,6 +6,8 @@
 
 This is a research finding. It approves no product, changes no register status, and authorises no purchase, supplier contact or engineering. Every candidate below stays a research finding unless an existing record already gives it another status.
 
+**Register state.** While this research was running, the owner recorded new direction on main (17 November 2026): a commercial screening filter, his tyre-gauge motivation and price target, and several deprioritisations. This report has been reconciled with those records, and the statuses it quotes are as they stand after that update.
+
 Money is in Australian dollars excluding GST unless marked. Working rate: A$1 ≈ US$0.69 (US$1 ≈ A$1.45), mid-November 2026. Competitor prices are web-search summaries seen on 17 November 2026 unless marked otherwise; JLCPCB/LCSC prices were fetched directly that day.
 
 ---
@@ -23,8 +25,10 @@ Money is in Australian dollars excluding GST unless marked. Working rate: A$1 �
 
 Two things deserve further, cheap investigation. Neither is a clean new product.
 
-1. **Low-pressure tyre gauge — the existing investigation (RD-003).** This is the best-supported customer problem in the whole pass: racers on three forums say they cannot trust their gauge at low pressures. Australian shelf prices leave room (a Longacre digital that sells for US$87–112 is listed at A$365). The forum evidence sharpens the requirements; it does not change the status or solve the sensor-route problem already recorded.
+1. **Low-pressure tyre gauge — the existing investigation (RD-003).** This is the best-supported customer problem in the whole pass: racers on three forums say they cannot trust their gauge at low pressures. Australian shelf prices leave room (a Longacre digital that sells for US$87–112 is listed at A$365), and the owner's own target, recorded the same day, is genuine accuracy at about A$250 retail or less. The forum evidence sharpens the requirements; it does not change the status or solve the sensor-route problem already recorded.
 2. **A simple torsion-bar consistency checker — a narrower version of the paused RD-017.** Sprint-car racers have asked for an affordable tester for 14 years, the mainstream instrument is listed at US$3,541, and the forum's own practice is to *compare* bars rather than measure absolute rate. That reframing speaks to part of the recorded validation blocker. The economics are marginal at A$150/hour, and the HoseHeads evidence was mostly not readable at source, so this earns three low-cost checks, not a build.
+
+**Against the owner's screening filter** — reachable demand where existing choices are expensive, unreliable or unavailable, and at least 100 % markup on complete COGS. Both shortlisted items fit the demand side on paper: gauges that racers do not trust, and a US$3,541 tester with no cheap alternative found on sale. Neither has yet shown that buyers *strongly* want it at a stated price. On the markup side, the torsion kit clears the target at mid-case only if owner build time is left out of COGS (section 4.6).
 
 A structural point explains most of the rejections. With owner time at A$150/hour, 150–400 development hours cost A$22,000–60,000 before any cash outlay. Recovering that over 100–150 units needs A$200–600 of contribution per unit *after* build and support labour. Sub-A$400 gadgets with an hour of owner time per unit cannot do it, however cheap the electronics are. The realistic targets are instruments where incumbents charge thousands, or derivatives that reuse a design SkidLabz already has.
 
@@ -62,6 +66,8 @@ Classification: (1) new to the register, (2) new evidence for an existing idea, 
 
 **Why someone would choose it.** In the US, not obviously: the Longacre Semi-Pro digital at [US$87–112](https://www.ogracing.com/products/longacre-semi-pro-digital-tire-gauge-0-60-psi) and Prisma at about US$250–325 are liked, with owners reporting 7–10 years of service. In Australia the same Longacre is listed at [A$365](https://revolutionracegear.com.au/product/l-acre-semi-pro-digital-0-60-psi-tyre-gauge/) — about 2.3–2.9 times the US price at the working rate, though the search tool reported that listing as well over a year old — a basic Longacre 0–15 psi analogue at [A$109](https://www.revolutionracegear.com.au/product/longacre-0-15-psi-tyre-gauge/), and an Intercomp digital at [A$606.90](https://www.speedwayspares.com.au/products/intercomp-digital-tire-gauge-0-100psi) (shown sold out). The reason to buy would be a locally supported gauge with a credible low-range accuracy statement at well under the imported price.
 
+**Owner's recorded motivation and target (17 November 2026).** The register now records that the owner's long-serving Intercomp began zero-drifting in cold, damp conditions, that a replacement at about A$960–980 felt unjustifiable, that a roughly A$250 Longacre disappointed him, and that his target is genuine accuracy and repeatability at about A$250 retail or less. The forum evidence is independent of that account and points the same way on trust. One difference is worth keeping: KartPulse owners of the Longacre digital are mostly satisfied with it. Neither his experience nor theirs is a controlled comparison. The Intercomp listing found in this pass (A$606.90, a 0–100 psi model, sold out) is lower than his recollection; model and date may differ.
+
 **Strongest evidence.** Repetition across three forums and seven years, plus real spending: racers pay US$90–400 and some keep a second gauge purely as a benchmark.
 
 **Strongest objection.** "The number is just a reference" — many racers only need repeatability, and the forums show no unhappiness with the mid-priced Longacre digital. One KartPulse poster's reaction to a US$300 gauge was "hard pass".
@@ -72,7 +78,7 @@ Classification: (1) new to the register, (2) new evidence for an existing idea, 
 
 **Cheapest sensible next step.** Add the forum requirements above to the RD-003 sample assessment. RD-003 needs a calibration reference in any case; one 0.05–0.1 % master gauge with a tyre-valve manifold would serve that and would also let SkidLabz offer a free gauge check at a race meeting. Counting how many gauges are checked, how far out they are, and how many owners then ask about a better gauge is the cheapest market test available.
 
-**Reject or pause if** the samples cannot hold about ±0.1 psi across 4–15 psi over temperature after a drop test, or the landed unit cost leaves less than the contribution shown in section 4.4 at a price near A$250–300.
+**Reject or pause if** the samples cannot hold the accuracy RD-003 sets for itself across about 4–15 psi, over temperature and after a drop test, or the complete unit cost exceeds what section 4.5 allows at the owner's A$250 retail target.
 
 ### 3.2 Torsion-bar consistency checker kit — narrower version of RD-017
 
@@ -99,6 +105,8 @@ Classification: (1) new to the register, (2) new evidence for an existing idea, 
 - *Our engineering inference, not forum evidence:* force can be checked with known weights and angle with a reference block, and two or three new bars rated once by a commercial tester would give check standards. Whether a shop in Australia offers that rating, and at what fee, is not established.
 
 This addresses the blocker in principle only. It does not show that a kit on a real car repeats well enough, and it does not show buyers would trust it. RD-017's status should not change on this evidence. The record's boundary also stands: no fatigue or remaining-life claim from rate alone.
+
+**Fit with the owner's screening filter.** Existing choices are expensive (US$3,541) and the cheap ones appear to be unavailable, and these are SkidLabz's own customers — the two conditions the filter names. What is not shown is that buyers strongly want it: the evidence is a trickle of posts, the newest from 2023.
 
 **Biggest unresolved issue.** Repeatability in a fixture the customer supplies. Bar rate rises with the fourth power of diameter, so adjacent 0.025-inch bar sizes near one inch differ by about 10 % in rate (our calculation). Telling sizes apart is therefore easy; detecting a bar that has lost a few per cent needs repeatability of about 1–2 % across removal and refitting, with bushing friction, arm flex and off-axis loading all in play.
 
@@ -190,16 +198,34 @@ Price evidence behind each column: torsion kit A$580–1,015 (US$400–700) is a
 
 **Reading.** The kit recovers its cash outlay in about ten units, so the cash risk is small. Counting owner time, it pays back in under three years only if it sells for about A$1,000 or more, needs under an hour of owner time a unit, and is developed in about 190 hours — and then only at 25–50 units a year. **Price is the sensitivity that destroys it:** at A$580 each unit loses money after labour. A complete bench fixture was not costed; its steel, machining and freight resemble the profile that led to the scales rejection (RD-018).
 
-### 4.5 Tyre gauge: price headroom only
+### 4.5 Tyre gauge: what the price points allow
 
-RD-003 has its own cost records, so no bill of materials is estimated here. The table shows only what is left for parts, calibration equipment and development at Australian price points, assuming 8 % for fees and warranty and half an hour of owner time per unit (A$75) — both **unresolved assumptions**.
+RD-003 has its own cost records, so no bill of materials is estimated here. The table shows what Australian price points allow. Two tests are applied: the owner's target of at least 100 % markup on complete COGS, taking 4.5 % for selling fees; and the amount left for materials and development after 8 % for fees and warranty and half an hour of owner time per unit (A$75). The fee, warranty and time figures are **unresolved assumptions**.
 
-| Selling price, A$ ex-GST | Equivalent shelf price inc. GST | Left for materials and development recovery |
-|---:|---:|---:|
-| 200 | 220 | 109 |
-| 250 | 275 | 155 |
-| 300 | 330 | 201 |
-| 332 | 365 (the listed Longacre Semi-Pro price) | 230 |
+| Shelf price inc. GST | Price ex-GST | Complete COGS allowed at 100 % markup | Left for materials and development recovery |
+|---:|---:|---:|---:|
+| 250 (the owner's target) | 227 | 109 | 134 |
+| 275 | 250 | 119 | 155 |
+| 330 | 300 | 143 | 201 |
+| 365 (the listed Longacre Semi-Pro price) | 332 | 158 | 230 |
+
+**Reading.** At the owner's A$250 target the complete gauge — sensor, electronics, chuck, hose, bleed valve, case, assembly and calibration — has to come in at about A$109 or less to meet the markup target. That is the number the RD-003 samples and any OEM route need to be tested against.
+
+### 4.6 Against the owner's 100 % markup target
+
+The register's filter is net selling revenue of at least twice complete COGS. Whether owner build time counts as COGS is the owner's call, so both readings are shown, at mid-case.
+
+| Mid case, A$ ex-GST | Torsion kit | V1 warning kit | V2 gauge checker | V3 spring puck | V4 kart tester |
+|---|---:|---:|---:|---:|---:|
+| Net selling revenue (price less selling fees) | 762 | 276 | 525 | 344 | 111 |
+| Complete COGS allowed at 100 % markup | 381 | 138 | 263 | 172 | 55 |
+| COGS, bought-in only (materials, inbound freight, yield, packaging) | 286 | 133 | 191 | 260 | 47 |
+| Net revenue ÷ COGS, bought-in only | 2.66× | 2.07× | 2.75× | 1.32× | 2.33× |
+| Owner build labour at A$150/h | 194 | 119 | 278 | 154 | 169 |
+| COGS including owner build labour | 480 | 252 | 469 | 414 | 216 |
+| Net revenue ÷ COGS including build labour | 1.59× | 1.09× | 1.12× | 0.83× | 0.51× |
+
+**Reading.** On bought-in cost alone, four of the five clear twice COGS. Once owner build time is counted as part of the product, none does. The torsion kit comes closest and would need either a price near A$1,000 or build time cut to roughly half an hour. This is the same conclusion as section 4.3 reached by the owner's own measure: assembly and calibration labour, not parts, decides these products.
 
 ---
 
@@ -211,21 +237,22 @@ None of these is recommended for work now. Each records the useful unresolved qu
 |---|---|---|---|
 | Replacement readout for older wired corner-scale sets | Four GRM threads, about 2021–2025, five or six owners; a US$300 repair quote; a discontinued maker ([GRM-17](https://grassrootsmotorsports.com/forum/shop-talk/making-old-discontinued-race-scales-useful-again/271888/page1/), [GRM-18](https://grassrootsmotorsports.com/forum/grm/connectorspins-for-intercomp-scales/256324/page1/)) | Speaks to part of RD-049's blocker by showing a US installed base with failing electronics. It does not establish compatible pads, a calibration method or volume. Two of four cases were fixed with a part under US$20. Search-summary evidence. | RD-049 — class 2. RD-018 unaffected |
 | Self-contained brake-pad temperature logger | One December 2025 maker build for about US$85 against commercial kits at US$1,600–2,750 ([GRM-02](https://grassrootsmotorsports.com/forum/grm/diy-brake-temperature-logging-tool-take-2/283478/page1/)) | A single maker and no stated demand. Generic four-channel thermocouple SD loggers already sell for [US$271–399](https://www.globaltestsupply.com/product/triplett-tmdl400-wall-mount-thermocouple-data-logger-sd). Temperature paint is the common answer. | RD-086 / RD-025 — class 3 |
-| Phone-free kart "dumb dash" (lap time, RPM, one temperature) | Ten KartPulse threads, 2018–2026, six or more separate askers ([KP-07](https://forums.kartpulse.com/t/simple-laptimer-and-data-logger/2944), [KP-08](https://forums.kartpulse.com/t/racing-without-a-gauge/9622), [KP-22](https://forums.kartpulse.com/t/mychron-6-discussion-comparison-reviews-etc/13272), [KP-23](https://forums.kartpulse.com/t/cheap-timing-solutions/13252)) | Budget beginners with weak willingness to pay; used MyChron and Alfano units are plentiful; a hobbyist attempt failed on the display. It meets the same display-sourcing blocker as RD-015. | RD-095 / RD-094 — class 2; timing-only is class 5 |
+| Phone-free kart "dumb dash" (lap time, RPM, one temperature) | Ten KartPulse threads, 2018–2026, six or more separate askers ([KP-07](https://forums.kartpulse.com/t/simple-laptimer-and-data-logger/2944), [KP-08](https://forums.kartpulse.com/t/racing-without-a-gauge/9622), [KP-22](https://forums.kartpulse.com/t/mychron-6-discussion-comparison-reviews-etc/13272), [KP-23](https://forums.kartpulse.com/t/cheap-timing-solutions/13252)) | Budget beginners with weak willingness to pay; used MyChron and Alfano units are plentiful; a hobbyist attempt failed on the display. It meets the same display-sourcing blocker as RD-015. | RD-095 — class 2. RD-094 was deprioritised by the owner on 17 November 2026 (phone timing is adequate competition), which matches the timing-only finding here: class 5 |
 | Cam-profile measuring electronics for a user-built stand | Twelve Speed-Talk threads, 2010–2026; complete systems "around $4,700" ([ST-16](https://www.speed-talk.com/forum/viewtopic.php?t=71472), [ST-17](https://www.speed-talk.com/forum/viewtopic.php?t=69294)) | Performance Trends sells an electronics-only kit at US$1,799 and a DIY software route exists. The value and the support load are in the analysis software. | RD-026 — class 2 / 3 |
 | Ignition-advance logging; distributor-machine refresh | Twelve or more machine owners, 2012–2025; one statement that only a discontinued Innovate box logs advance ([ST-39](https://www.speed-talk.com/forum/viewtopic.php?t=68996)) | A static vintage niche; programmable ignitions remove the need. Does not answer RD-041's doubt about reachable demand. | RD-041 — class 2 / 3 |
 | Orphaned dyno electronics and software | The most repeated complaint on Speed-Talk: 30 or more owners, 25 or more threads, 2012–2026; upgrade quotes of US$15,000–28,000 ([ST-29](https://www.speed-talk.com/forum/viewtopic.php?t=71891)) | Now served by retrofit kits from about US$5,295. Only tiny-volume adapters remain, each inviting open-ended support of 30-year-old consoles. | No record — class 1; class 5 for full retrofit |
-| Tyre-temperature and in-tyre pressure for karts | Five KartPulse threads; AiM infrared kit about US$600–660; one abandoned DIY build ([KP-04](https://forums.kartpulse.com/t/kart-tyre-temperature-data/3752), [KP-24](https://forums.kartpulse.com/t/tpms-in-karting/8347)) | The need is voiced; the advantage is not shown. "What would you do with that information?" recurs. Mounting is chassis-specific. | RD-046 — class 2 |
+| Tyre-temperature and in-tyre pressure for karts | Five KartPulse threads; AiM infrared kit about US$600–660; one abandoned DIY build ([KP-04](https://forums.kartpulse.com/t/kart-tyre-temperature-data/3752), [KP-24](https://forums.kartpulse.com/t/tpms-in-karting/8347)) | The need is voiced by kart users; the advantage is not shown. "What would you do with that information?" recurs. Mounting is chassis-specific. The owner's Speedway rejection and its recorded reasons are untouched. | RD-046 — class 2 |
 | Timing lights that can be trusted on CDI and multi-spark | Three partial Speed-Talk threads with 23, 13 and 7 authors ([ST-40](https://www.speed-talk.com/forum/viewtopic.php?t=46619)) | A cheap commodity category; nobody asked for a product; the fault is often the leads. | No record — class 1 |
 | Kart fuel-tester scarcity | One November 2025 wanted post for Digatron testers "even if they do not work" ([KP-26](https://forums.kartpulse.com/t/fuel-tester/5169)) | Unconfirmed hint that the incumbent is scarce. One search found no statement either way. A supply gap would not change the tiny official market that led to the rejection. | RD-035 — class 4 |
 
 **Evidence for products already in development** (no change to scope or status):
 
 - **Race-control receiver (RD-002).** One-way receivers are appearing in US karting: one sprint track mandated them for 2025 and another requires a named brand ([KP-21](https://forums.kartpulse.com/t/one-way-radios-in-sprint-racing/13565)). Only nine posters, and incumbents at about US$85–100 "do the job". Minor complaints are earbud quality and fit for children. A market note only; frequency and transmitter compatibility were not examined.
-- **RevMax (RD-001).** A search-summary thread says teams choose gears from the memory tach's maximum rpm (HH-26). Web-search summaries list the Tel-Tac II at US$325–360 and at A$652.80 and A$801.68 at two Australian sellers, both shown sold out. Useful price context; it adds no feature request.
+- **RevMax (RD-001).** A search-summary thread says teams choose gears from the memory tach's maximum rpm (HH-26). Web-search summaries list the Tel-Tac II at US$325–360 and at A$652.80 and A$801.68 at two Australian sellers, both shown sold out. The register now also records the owner's informal estimate that about 70 % of people in the pits he observes have no Tel-Tac, with some saying they would buy at about A$400. The listings are consistent with a price gap; they are not demand evidence, and they add no feature request.
 - **Electronic bleeders (RD-016).** The one large thread read in full shows buyers paying about US$1,000–1,200 (2015–2017 posts) for crew time saved and confidence in the set point, against US$225–360 mechanical sets that others find adequate ([HH-01](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/digital-bleeders-1031071)). Nothing clears the recorded blockers. One new consideration to check in the source project: a web-search summary reports a granted US patent on an axle-mounted solenoid design (US 9,566,833) and a later related one.
-- **Knock meter (RD-012).** One 2015 request for a stand-alone indicator, plus a technical caution: experienced builders say block-sensor knock detection is unreliable with solid-roller valvetrains and forged pistons ([ST-41](https://www.speed-talk.com/forum/viewtopic.php?t=44489)).
+- **Knock meter (RD-012).** One 2015 request for a stand-alone indicator, plus a technical caution: experienced builders say block-sensor knock detection is unreliable with solid-roller valvetrains and forged pistons ([ST-41](https://www.speed-talk.com/forum/viewtopic.php?t=44489)). Nothing here answers the owner's recorded concern about niche use and uncertain volume.
 - **PDM (RD-011).** GRM summaries show budget PDMs at about US$200 and open-source designs. That makes the commercial case harder; the parked status is unchanged.
+- **Pit helmet warmer (RD-117).** Listed by the owner after the forum work began. No evidence was gathered on it in this pass.
 
 ---
 
@@ -248,10 +275,10 @@ Full price tables, cost inputs and kill criteria are in [EVIDENCE.md section 4](
 | Idea | Finding | Register |
 |---|---|---|
 | Complete corner-weight scales | Borrow, buy used at US$350–1,000 or new at about US$600–800; DIY rigs disappoint. Reinforces the rejection. | RD-018 — class 4 |
-| Toe, alignment, rear track width, kart lasers | Tape, strings and a US$30 angle box are judged adequate; the US$315–400 kart laser set is entrenched and liked. No repeatability advantage shown. | RD-043, RD-042 — class 4 / 5 |
+| Toe, alignment, rear track width, kart lasers | Tape, strings and a US$30 angle box are judged adequate; the US$315–400 kart laser set is entrenched and liked. No repeatability advantage shown. | RD-043 parked; RD-042 deprioritised 17 November 2026 — class 4 / 5 |
 | Brake-pressure and bias gauges | GRM's main thread calls live gauges "a waste of time"; US$60 gauges cover a one-off set-up. | RD-047 — class 4 |
-| Lap timers and GPS loggers | Well served: phone apps at US$20, GPS units at US$160–200, used loggers. | RD-094 — class 5 |
-| Analogue sensors into CAN loggers | An existing four-channel module sells for US$149.95; the remaining pain is per-logger mapping and support. | RD-072, RD-019 — class 3 tending to 5 |
+| Lap timers and GPS loggers | Well served: phone apps at US$20, GPS units at US$160–200, used loggers. | RD-094, deprioritised 17 November 2026 — class 5 |
+| Analogue sensors into CAN loggers | An existing four-channel module sells for US$149.95; the remaining pain is per-logger mapping and support. | RD-072; RD-019, deprioritised 17 November 2026 — class 3 tending to 5 |
 | Fuel-used display | No request found; endurance teams use stint time and measured fills. | RD-048 — negative evidence |
 | Kill switch that spares the alternator | Nine or more threads, but they ask how to wire existing parts; solid-state isolators and PDM logic exist; car-specific and safety-critical. | No record — class 1, largely 5 |
 | Temporary recorder for track-only faults | A recurring scenario with no product request; each case was solved another way. | RD-088, RD-087 — class 2 |
@@ -260,10 +287,13 @@ Full price tables, cost inputs and kill criteria are in [EVIDENCE.md section 4](
 | Crew timing and transponders | Incumbent systems plus a phone app that already gives crews lap times. | RD-051 — class 4 |
 | Loggers in winged sprint cars | The objection is rules and analysis labour, not hardware cost. | RD-004, RD-019 — class 4 / 5 |
 | Rear-end squaring, shock dyno testing | An established squaring tool; dyno testing is bought as a service. | RD-042, RD-027 — class 5 |
-| Jet measuring, leak-down, weather meters, battery testers | Pin kits, commodity testers and existing meters cover each. | RD-039, RD-099, RD-085, RD-083 — class 4 / 5 |
+| Jet measuring, leak-down, weather meters, battery testers | Pin kits, commodity testers and existing meters cover each. | RD-039, RD-099, RD-083; RD-085, deprioritised 17 November 2026 — class 4 / 5 |
 | Blow-by, whistler and capacity checking, rod-bolt stretch, sonic testers, valve run-out, flow-bench electronics | Speed-Talk adds nothing that addresses any recorded reason; each has adequate products. | RD-037, RD-033/034, RD-021, RD-024, RD-040, RD-023 — class 4 / 5 |
 | EGT, wideband and AFR tools | Answered with existing brands; one expert objection to EGT on constant-flow injection. | RD-025, RD-082–084 — class 5 |
-| Cool-suit controllers, budget race radios, small-engine dyno electronics | DIY or existing vendors cover them; not electronics-led, or tiny and support-heavy. | No record or name only — class 1 / 5 |
+| Driver cooling (cool-suit systems) | A strong DIY culture at US$80–100 a box; nobody asked for a controller. | RD-121, dropped 17 November 2026 — class 4 |
+| Chassis noise finders | Knock-off sets with poor sensors, a US$40 DIY route and an established product. | RD-118, dropped 17 November 2026 — class 4 |
+| Preset tyre inflators and inflator gauges | Kart racers already use inflator gauges; no gap voiced. | RD-119, dropped 17 November 2026 — class 4 |
+| Budget race radios, small-engine dyno electronics | Existing vendors cover them; regulatory, tiny and support-heavy. | No record or name only — class 1 / 5 |
 
 ---
 
@@ -282,6 +312,7 @@ Further points:
 - **Manufacturer and retailer pages could not be opened** from the research environment. Competitor prices are therefore search-result summaries, with the link each summary came from. JLCPCB and LCSC prices were read directly.
 - **Register corrections found along the way.** The three HoseHeads sample links in the forum directory now open unrelated threads. Working locations for two are given in section 3.2; the Tech Talk board appears not to have been migrated. The directory's note that Speed-Talk's registered sections are closed to guests did not hold on the day.
 - **Independence.** Each of the four validations was run separately and briefed to refute the idea. The torsion-bar assessment and all tables in section 4 are the coordinator's own work and have not had the same independent challenge.
+- **The register moved during the research.** Ten owner updates landed on main on 17 November 2026 after the forum work had been briefed. The researchers and validators worked from the earlier register; this report and the register links in the evidence file were reconciled afterwards. Thread-level "Register" lines in the ledger keep the classes assigned at the time.
 - **Not done:** no accounts, posts, messages, vendor contact or purchases. Private groups and social media, where current sprint-car technical talk has probably moved, were outside scope.
 
 ---
@@ -294,7 +325,7 @@ All are proposals for the owner to accept or decline.
 |---|---|---|---|---|
 | 1 | Decide whether a comparative, consistency-only specification answers the RD-017 validation concern | 15 minutes | None | Whether the torsion lead is alive at all |
 | 2 | On an ordinary browser, re-read the linked HoseHeads torsion threads and check current availability and price of the Maxim X-Check, AccuForce, Maxwell, Intercomp 100451 and any tester under US$800 | 1–2 hours | None | Whether a cheap satisfactory tester already exists — the main kill criterion |
-| 3 | Add the forum-derived gauge requirements to the RD-003 sample assessment (range, low-end accuracy statement, settle time, drop robustness, no memory) | 30 minutes | None | Keeps RD-003 testing against what users say they want |
+| 3 | Add the forum-derived gauge requirements to the RD-003 sample assessment (range, low-end accuracy statement, settle time, drop robustness, no memory), and test complete cost against about A$109 at the owner's A$250 retail target | 30 minutes | None | Keeps RD-003 testing against what users say they want and what the price allows |
 | 4 | Bench trial of in-car torsion-bar measurement with equipment already on hand: two or three bars, ten remove-and-refit cycles each | Half a day | None if equipment is on hand | Whether about 2–3 % repeatability is reachable without a dedicated fixture |
 | 5 | Ask eight to ten racers and shops at meetings: do you test bars, how, what do you pay, would you pay about A$800–1,000 for a kit | Spread over two or three meetings | None | Willingness to pay, the weakest part of the torsion evidence |
 | 6 | When RD-003 acquires its calibration reference, run a free gauge check at one meeting and record gauges checked, errors found and enquiries | One meeting | Within RD-003's own decisions | Market test for RD-003; final check on RD-092 |

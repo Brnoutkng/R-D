@@ -2160,43 +2160,48 @@ This candidate was **not** given an independent validation. The forum evidence i
 
 ## 5. Links to matching R&D ideas and decisions
 
-Recorded statuses are quoted as they stand in the register on 17 November 2026. None is changed by this research.
+Recorded statuses are quoted as they stand on main after the owner's updates of 17 November 2026, which landed while this research was running. None is changed by this research. "Register" lines inside the thread ledger and the validations keep the classes the researchers assigned; they worked from the register as it stood before those updates.
 
 ### Findings with an existing record
 
 | Finding | Record | Class | Recorded status | Does the evidence address the recorded reason or blocker? |
 |---|---|---|---|---|
-| Low-pressure gauge trust | [RD-003](../../ideas/tyre-gauge.md); DEC-011, DEC-012, DEC-013, DEC-040 | 2 | Investigation / samples | No for DEC-011, DEC-012 and DEC-040. Supports DEC-013: the gauges with memory and app features are the ones with reported data-loss faults. |
+| Low-pressure gauge trust | [RD-003](../../ideas/tyre-gauge.md); DEC-011, DEC-012, DEC-013, DEC-040 | 2 | Investigation / samples | No for DEC-011, DEC-012 and DEC-040. Supports DEC-013: the gauges with memory and app features are the ones with reported data-loss faults. Consistent with the owner's motivation and A$250 retail target recorded on 17 November 2026; KartPulse owners of the Longacre digital are mostly satisfied, which differs from his experience. |
 | Tyre-gauge checker | [RD-092](../../ideas/gauge-calibrator.md) | 3 | Unadopted suggestion | No. Its condition is a user-selected requirement and a worthwhile advantage; nobody asked for a checker. |
 | Torsion-bar consistency checker | [RD-017](../../ideas/torsion-bar-tester.md) | 2 and 3 | Paused — validation | Partly, in principle only: users frame the need as comparison, and force and angle can each be checked from first principles. Not demonstrated. |
 | Electronic tyre bleeders | [RD-016](../../ideas/electronic-bleeders.md); DEC-036 to DEC-039 | 2 | Paused — feasibility | No. Maintenance complaints about mechanical bleeders are consistent with DEC-037. Adds a patent point to check in the source project. |
 | Engine-protection warning module | [RD-089](../../ideas/warning-module.md), [RD-090](../../ideas/compact-engine-monitor.md); [RD-032](../../ideas/engine-guard.md); DEC-019 | 2 | Unadopted suggestions; RD-032 dropped | No. RD-032's reason is not recorded in detail; the "engine protection" framing runs against DEC-019. |
 | Load-cell valve-spring force tester | [RD-020](../../ideas/valve-spring-checker.md) | 4 (3 as a bench reference) | Rejected — commercial | No. "Many alternatives exist" is strengthened; expected sales remain unevidenced. The record already notes a basic load-cell-and-display comparison. |
 | Kart ignition and start-circuit tester | [RD-029](../../ideas/race-ignition-diagnostics.md), [RD-083](../../ideas/battery-tester.md) | 3 | Deprioritised; unadopted suggestion | The recorded reasons apply: no access to representative equipment, weak differentiation. "Tiny market" applies less, but no purchase intent was found. |
-| Phone-free kart dash | [RD-095](../../ideas/kart-instrument.md), [RD-094](../../ideas/gps-lap-timer.md); [RD-015](../../ideas/digital-race-dash.md), DEC-044 | 2 | Unadopted suggestions; RD-015 paused — sourcing | No. It meets the same display-sourcing blocker. |
+| Phone-free kart dash | [RD-095](../../ideas/kart-instrument.md), [RD-094](../../ideas/gps-lap-timer.md); [RD-015](../../ideas/digital-race-dash.md), DEC-044 | 2 | RD-095 unadopted suggestion; RD-094 deprioritised 17 November 2026; RD-015 paused — sourcing | No. It meets the same display-sourcing blocker, and timing alone is well served, as the owner's RD-094 judgement says. |
 | Readout for existing scale pads | [RD-049](../../ideas/scale-reader.md) | 2 | Earlier scope rejected; later scope unapproved | Partly: shows a US installed base with failing electronics. Does not establish compatible pads, a calibration method or volume. |
 | Complete corner scales | [RD-018](../../ideas/race-scales.md) | 4 | Rejected — commercial | No. Cheap new sets, a used market and occasional use reinforce it. |
 | Brake-pad temperature logger | [RD-086](../../ideas/temperature-recorder.md), [RD-025](../../ideas/egt-monitor.md), [RD-071](../../ideas/surface-temperature.md) | 3 | Unadopted suggestions; research only | No blocker recorded. Demand is not shown: one maker. |
-| Tyre temperature, kart TPMS | [RD-046](../../ideas/tyre-temperature.md) | 2 | Earlier scope rejected; later scope unapproved | The need is voiced by kart and circuit users; the "specific capture advantage" is not shown. |
+| Tyre temperature, kart TPMS | [RD-046](../../ideas/tyre-temperature.md) | 2 | Earlier scope rejected; later scope unapproved | The need is voiced by kart and circuit users; the "specific capture advantage" is not shown. The owner's Speedway reasons recorded on 17 November 2026 are untouched. |
 | One-way receivers in karting | [RD-002](../../ideas/receiver.md) | 2 | Active development | Market note only. |
-| Memory tach as the gearing tool; Tel-Tac pricing | [RD-001](../../ideas/revmax.md) | 2 | Active development | Consistent with the product premise; no feature request. |
-| Knock monitoring on loud engines | [RD-012](../../ideas/knock-meter.md); DEC-019 | 2 | Parked — priority | Adds a technical caution about block sensors with solid-roller valvetrains. |
+| Memory tach as the gearing tool; Tel-Tac pricing | [RD-001](../../ideas/revmax.md) | 2 | Active development | Consistent with the product premise; no feature request. The Australian Tel-Tac listings sit alongside the owner's recorded pit observations and about A$400 price point; they are not demand evidence. |
+| Knock monitoring on loud engines | [RD-012](../../ideas/knock-meter.md); DEC-019 | 2 | Parked — priority / go-no-go | Adds a technical caution about block sensors with solid-roller valvetrains. Does not answer the owner's recorded concern about niche use and uncertain volume. |
 | Budget PDMs | [RD-011](../../ideas/pdm.md) | 2 | Parked — priority / go-no-go | Competition has grown; nothing else changes. |
 | Cam-profile measuring | [RD-026](../../ideas/cam-angle-tool.md); distinct from [RD-036](../../ideas/cam-legality.md) | 2 / 3 | Research only | Buyers are builders, not officials; no volume evidence. |
 | Distributor machines, advance logging | [RD-041](../../ideas/distributor-tester.md) | 2 / 3 | Research only | Shows the niche exists; does not answer the doubt about reachable demand. |
 | Mechanical-injection checks | [RD-028](../../ideas/mfi-service-tester.md) | 2 tending to 5 | Deprioritised | Weakly: US questions, not purchases. Nothing on equipment access. |
 | Magneto timing box | [RD-030](../../ideas/magneto-timer.md) | 5 | Deprioritised | No. |
-| Toe, alignment, squaring | [RD-043](../../ideas/toe-tool.md), [RD-042](../../ideas/chassis-alignment.md), [RD-061](../../ideas/angle-meter.md) | 4 / 5 | Parked | No repeatability or usability advantage over the simple method was shown. |
+| Toe, alignment, squaring | [RD-043](../../ideas/toe-tool.md), [RD-042](../../ideas/chassis-alignment.md), [RD-061](../../ideas/angle-meter.md) | 4 / 5 | RD-043 parked; RD-042 deprioritised 17 November 2026; RD-061 sourcing only | No repeatability or usability advantage over the simple method was shown, consistent with the owner's tape-measure objection. |
 | Brake-pressure gauges | [RD-047](../../ideas/brake-pressure-tester.md) | 4 | Earlier scope rejected; later scope unapproved | Leans against. |
 | Fuel-used display; fuel dipstick | [RD-048](../../ideas/fuel-used-display.md) | Negative; 5 | Research only | No request found; an electronic dipstick product was praised. |
 | Crew timing, transponders, club timing | [RD-051](../../ideas/crew-timing-display.md), [RD-115](../../ideas/timing-network.md) | 4 | Rejected; advised against | Reinforced: a phone app already gives crews lap times. |
-| Loggers and channel expansion | [RD-004](../../ideas/racelogger.md), [RD-019](../../ideas/wideband-logger.md), [RD-087](../../ideas/general-data-recorder.md), [RD-072](../../ideas/sensor-hub.md) | 2 to 5 | Internal tool; paused — scope; unadopted | No "one function only" request found; existing modules cover channel expansion. |
-| Lap timers | [RD-094](../../ideas/gps-lap-timer.md), [RD-113](../../ideas/video-sync.md) | 5 | Unadopted suggestions | Well served. |
+| Loggers and channel expansion | [RD-004](../../ideas/racelogger.md), [RD-019](../../ideas/wideband-logger.md), [RD-087](../../ideas/general-data-recorder.md), [RD-072](../../ideas/sensor-hub.md) | 2 to 5 | RD-004 internal tool; RD-019 deprioritised 17 November 2026; others unadopted | No "one function only" request found; existing modules cover channel expansion. GRM shows a remaining non-OBD niche, which is the niche the owner already judged small. |
+| Lap timers | [RD-094](../../ideas/gps-lap-timer.md), [RD-113](../../ideas/video-sync.md) | 5 | RD-094 deprioritised 17 November 2026; RD-113 unadopted | Well served, consistent with the owner's judgement. |
 | Fuel-legality tester | [RD-035](../../ideas/fuel-legality.md) | 4 | Rejected — commercial | Not addressed. A possible shortage of the incumbent meter is unconfirmed. |
-| Jet measuring; leak-down; weather meter; battery tester | [RD-039](../../ideas/jet-comparator.md), [RD-099](../../ideas/leakdown-tester.md), [RD-085](../../ideas/weather-meter.md), [RD-083](../../ideas/battery-tester.md) | 4 / 5 | Rejected; unadopted | No. |
+| Jet measuring; leak-down; weather meter; battery tester | [RD-039](../../ideas/jet-comparator.md), [RD-099](../../ideas/leakdown-tester.md), [RD-085](../../ideas/weather-meter.md), [RD-083](../../ideas/battery-tester.md) | 4 / 5 | Rejected; unadopted; RD-085 deprioritised 17 November 2026 | No. |
 | Blow-by; whistler and capacity; rod-bolt stretch; sonic; valve run-out; flow-bench electronics | [RD-037](../../ideas/blow-by-meter.md), [RD-033](../../ideas/whistler-compression.md), [RD-034](../../ideas/capacity-checker.md), [RD-021](../../ideas/rod-bolt-stretch.md), [RD-024](../../ideas/sonic-thickness.md), [RD-040](../../ideas/valve-runout.md), [RD-023](../../ideas/flow-bench-processor.md) | 4 / 5 | Rejected or research only | No. |
 | EGT; wideband and AFR | RD-025, [RD-082](../../ideas/portable-afr.md), [RD-084](../../ideas/basic-afr-gauge.md) | 5 | Research only; unadopted | No; one expert objection to EGT on constant-flow injection. |
 | Shock and bar dyno testing | [RD-027](../../ideas/shock-dyno.md) | 5 | Parked | Bought as a service. |
+| Driver cooling (cool-suit systems) | [RD-121](../../ideas/driver-cooling.md) | 4 | Dropped — scope/owner decision (17 November 2026) | No. GRM shows a strong DIY culture and no request for a controller. |
+| Chassis noise finders | [RD-118](../../ideas/chassis-noise-finder.md) | 4 | Dropped — scope/owner decision (17 November 2026) | No. GRM mentions knock-off sets with poor sensors, a US$40 DIY route and an established product. |
+| Preset tyre inflators, inflator gauges | [RD-119](../../ideas/preset-tyre-inflator.md) | 4 | Dropped — scope/owner decision (17 November 2026) | No. Kart racers already use inflator gauges (KP-27); no gap voiced. |
+| Solid-state relays | [RD-022](../../ideas/plug-in-ssr.md) | — | Deprioritised (17 November 2026) | No demand evidence found; one GRM caution that solid-state devices can fail closed. |
+| Pit helmet warmer | [RD-117](../../ideas/pit-helmet-warmer.md) | — | Research only | Listed after the forum work began; no evidence gathered in this pass. |
 
 ### Findings with no register record
 
@@ -2208,7 +2213,7 @@ Recorded here so they are not rediscovered. None is proposed as a new record.
 | Timing lights on CDI and multi-spark ignitions | 1 | Commodity category; no product request. |
 | Kill switch that stops the engine without harming the alternator | 1, largely 5 | A wiring-knowledge problem; solid-state isolators exist. |
 | Small-engine dyno electronics kit | 1 against the register; 5 in the market | A forum member already sells one in small batches. |
-| Cool-suit controllers; budget race radios | 1 / 5 | DIY or existing vendors; not electronics-led. |
+| Budget race radios | 1 / 5 | Existing vendors; regulatory and support-heavy. |
 | Micro-sprint electric fuel pump running after a crash | 1, weak | One 2009 post, search-summary grade; generic cut-offs exist; safety-critical. |
 
 ## 6. Searches and sections that produced little useful evidence
