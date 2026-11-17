@@ -686,3 +686,11 @@ Steven judged these suggestions unsuitable for the current mainstream shortlist:
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Reachable niches are acceptable where desire is strong and existing options are expensive, unreliable or unavailable. Target is at least 100% markup on complete COGS, equivalent to 50% gross margin before other costs when revenue is twice COGS. Owner's informal pit observation is roughly 70% without Tel-Tac and some stated interest near $400; not survey data, orders or general market statistics. Pad costs remain the complete-scales blocker.
+
+### C-NOV17-WEATHER
+
+**Owner assessment of dedicated weather/air-density tuning meters**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven judged a dedicated tuning meter not a mainstream win because of modern EFI, seeing a shrinking market mainly in mechanical injection. This records his commercial assessment, not measured market statistics or a universal technical claim.

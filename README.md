@@ -24,7 +24,7 @@ A shared record of the ideas we have discussed, where each one reached, and why 
 
 The catalogue now contains **120 entries**, covering **13 accessible development repositories**, relevant branches and recovered chat discussions. It also preserves **45 detailed decisions** about rejected, superseded or deferred approaches.
 
-The [main register](REGISTER.md) contains **73 records** with their current or recorded disposition. A separate [research suggestions page](RESEARCH_SUGGESTIONS.md) preserves **47 historical suggestions that were not established as adopted projects**.
+The [main register](REGISTER.md) contains **74 records** with their current or recorded disposition. A separate [research suggestions page](RESEARCH_SUGGESTIONS.md) preserves **46 historical suggestions that were not established as adopted projects**.
 
 Those 120 entries include commercial product ideas, internal workshop and race tools, companion software, variants, accessories, resale opportunities, historical projects and suggestions that were never adopted. They are **not 120 active products**.
 
@@ -76,6 +76,7 @@ python scripts/render_register.py
 This is a **public repository**. It records general product concepts, status, reasons and source references. Detailed engineering, calibration data, commercial records and manufacturing files remain in their existing private sources. A link to a private repository does not grant access to it.
 
 **Initial review:** 17 November 2026, Australia/Melbourne. Each entry retains its own evidence date; the review date does not make older information newly confirmed.
+
 
 
 

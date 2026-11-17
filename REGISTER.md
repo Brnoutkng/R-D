@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**73 primary records** are listed here. **47 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**74 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -64,6 +64,7 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-049 — Limited reader for existing scale pads](ideas/scale-reader.md) | Earlier scope rejected; later scope unapproved | Original retrofit market rejected; later alternative suggestion unapproved | No dedicated repo found | Earlier owner rejected retrofit demand because local racers generally did not own suitable scales. Later low-cost reader research did not establish a new market or owner approval. |
 | [RD-050 — Electronic stack / throttle balancing tool](ideas/throttle-balancer.md) | Research only | Brand-research follow-on suggestion; no development started | No dedicated repo found | RayTech research suggested an opportunity, but no chosen measuring head, customer advantage or costed product was established. |
 | [RD-051 — MYLAPS-compatible live crew timing display](ideas/crew-timing-display.md) | Rejected — commercial | Researched and rejected on commercial scale | No dedicated repo found | Owner did not expect sufficient unit sales to support the recurring data/licensing and support economics. |
+| [RD-085 — Weather / air-density meter](ideas/weather-meter.md) | Deprioritised | Research suggestion only; not an approved project | No dedicated repo found | Owner does not see a dedicated weather/air-density tuning meter as a mainstream commercial win: in his judgment modern EFI narrows the remaining market, mainly toward mechanical injection. This is his market assessment, not quantified evidence of a universal decline or the absence of other uses. |
 | [RD-094 — GPS lap timer](ideas/gps-lap-timer.md) | Deprioritised | Research suggestion only; not an approved project | No dedicated repo found | Owner does not consider a standalone lap timer a mainstream shortlist opportunity, citing MyLaps and Race Monitor on phones as adequate competition for the use he has in mind. |
 | [RD-118 — Chassis noise finder](ideas/chassis-noise-finder.md) | Dropped — scope/owner decision | Assistant suggestion discussed and declined; no development established | No dedicated repo found | Steven rejected this suggestion as an occasional workshop-use tool rather than a core, frequently needed race-day product. He is seeking recurring essential electronics useful across motorsport disciplines. |
 | [RD-119 — Preset tyre inflator](ideas/preset-tyre-inflator.md) | Dropped — scope/owner decision | Suggestion discussed and declined for current shortlist; no development established | No dedicated repo found | Owner rejected it for the current shortlist because it competes with what he sees as an approximately $5 chuck plus an existing gauge. |

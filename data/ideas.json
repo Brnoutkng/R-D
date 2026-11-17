@@ -2705,26 +2705,32 @@
       "slug": "weather-meter",
       "name": "Weather / air-density meter",
       "aliases": [],
-      "category": "Unadopted research suggestions",
+      "category": "Workshop and race tools",
       "kind": "product",
-      "status": "historical-unadopted",
+      "status": "deprioritized",
       "stage": "Research suggestion only; not an approved project",
       "summary": "A portable race weather/air-density instrument.",
-      "reason": "An earlier assistant recap placed generic versions low in the queue. Original owner decision/reason was not fully recovered; do not silently promote it.",
+      "reason": "Owner does not see a dedicated weather/air-density tuning meter as a mainstream commercial win: in his judgment modern EFI narrows the remaining market, mainly toward mechanical injection. This is his market assessment, not quantified evidence of a universal decline or the absence of other uses.",
       "repo": null,
       "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
-      "evidence_date": null,
-      "basis": "Historical assistant research suggestion",
-      "confidence": "low",
-      "next_step": "Retain the existing decision; no new development action is implied by this register.",
-      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "evidence_date": "2026-11-17",
+      "basis": "Historical suggestion plus direct owner commercial-priority assessment",
+      "confidence": "high for owner assessment; market size not independently verified",
+      "next_step": "Keep off the current shortlist; no development or further investigation implied.",
+      "reopen_trigger": "Explicit owner reconsideration supported by a reachable paying use case and a worthwhile advantage over existing options.",
       "boundaries": [
         "Preserved so the suggestion is not presented as new next time.",
         "Not a current product commitment."
       ],
-      "history": [],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner deprioritized the dedicated weather/air-density tuning meter: sees modern EFI reducing the opportunity and remaining demand mainly in mechanical injection."
+        }
+      ],
       "source_ids": [
-        "C-NOV04"
+        "C-NOV04",
+        "C-NOV17-WEATHER"
       ],
       "id": "RD-085",
       "reviewed_on": "2026-11-17"
