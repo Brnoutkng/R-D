@@ -694,3 +694,11 @@ Reachable niches are acceptable where desire is strong and existing options are 
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Steven judged a dedicated tuning meter not a mainstream win because of modern EFI, seeing a shrinking market mainly in mechanical injection. This records his commercial assessment, not measured market statistics or a universal technical claim.
+
+### C-NOV17-DRIVER-COOLING
+
+**Owner rejects driver-cooling suggestion on scope**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven considered newly suggested driver cooling too mechanical and potentially safety/approval-oriented. No specific approval requirement was verified. This does not reject the separate pit helmet-warmer idea.

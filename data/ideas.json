@@ -3793,6 +3793,40 @@
         "C-NOV17-MARKET-JUDGMENTS"
       ],
       "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "RD-121",
+      "slug": "driver-cooling",
+      "name": "Driver cooling equipment",
+      "aliases": [],
+      "category": "Pit equipment",
+      "kind": "product",
+      "status": "rejected-scope",
+      "stage": "New assistant suggestion declined; no development established",
+      "summary": "Driver-cooling equipment suggested during product brainstorming.",
+      "reason": "Steven rejected this suggestion as too mechanical and potentially safety/approval-oriented for his intended scope. Specific approval requirements were not established.",
+      "repo": null,
+      "repo_state": "New decision record only; no approved development project established.",
+      "evidence_date": "2026-11-17",
+      "basis": "Direct owner response to assistant suggestion",
+      "confidence": "high for owner decision; regulatory requirements unverified",
+      "next_step": "Retain the scope rejection; do not start development or approval research.",
+      "reopen_trigger": "Explicit owner reconsideration of a materially different scope.",
+      "boundaries": [
+        "Do not claim a particular certification or approval is legally required; that was not verified.",
+        "This rejection is distinct from the pit helmet-warmer concept, which remains on the research idea list.",
+        "No prior approval, prototype or development progress is implied."
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner rejected the newly suggested driver-cooling direction as too mechanical and potentially safety/approval-oriented for his scope."
+        }
+      ],
+      "source_ids": [
+        "C-NOV17-DRIVER-COOLING"
+      ],
+      "reviewed_on": "2026-11-17"
     }
   ]
 }

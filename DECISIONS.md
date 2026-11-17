@@ -52,6 +52,7 @@ Check the reason and reopening condition before repeating a search. A rejected c
 | [RD-118 — Chassis noise finder](ideas/chassis-noise-finder.md) | Dropped — scope/owner decision | Steven rejected this suggestion as an occasional workshop-use tool rather than a core, frequently needed race-day product. He is seeking recurring essential electronics useful across motorsport disciplines. | Explicit owner reconsideration based on a materially different recurring race-day use case; no further investigation is currently requested. |
 | [RD-119 — Preset tyre inflator](ideas/preset-tyre-inflator.md) | Dropped — scope/owner decision | Owner rejected it for the current shortlist because it competes with what he sees as an approximately $5 chuck plus an existing gauge. | Explicit owner reconsideration supported by a differentiated recurring customer need. |
 | [RD-120 — Brake-fluid testing tool](ideas/brake-fluid-tester.md) | Dropped — scope/owner decision | Owner rejected the current suggestion as infrequently needed and competing with common testers he estimates at approximately $2.80. | Explicit owner reconsideration supported by a differentiated recurring customer need. |
+| [RD-121 — Driver cooling equipment](ideas/driver-cooling.md) | Dropped — scope/owner decision | Steven rejected this suggestion as too mechanical and potentially safety/approval-oriented for his intended scope. Specific approval requirements were not established. | Explicit owner reconsideration of a materially different scope. |
 
 ## Implementation and scope decisions
 

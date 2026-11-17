@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**74 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**75 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -75,6 +75,7 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | Idea | Where it stands | Stage reached | Repository | Why / remaining gate |
 | --- | --- | --- | --- | --- |
 | [RD-117 — Pit helmet warmer](ideas/pit-helmet-warmer.md) | Research only | Owner-proposed concept; research requested, no design or prototype | No dedicated repo found | Steven reports recurring visor fogging and believes existing helmet warmers are expensive or difficult to obtain. Availability, broader demand and effectiveness remain to be independently checked; this is not a development commitment. |
+| [RD-121 — Driver cooling equipment](ideas/driver-cooling.md) | Dropped — scope/owner decision | New assistant suggestion declined; no development established | No dedicated repo found | Steven rejected this suggestion as too mechanical and potentially safety/approval-oriented for his intended scope. Specific approval requirements were not established. |
 
 ## Supporting resale products
 
