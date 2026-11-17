@@ -614,3 +614,91 @@ Type: repository. Source date: not individually established.
 [Open source](https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/mechanical/REVMAX_FRONT_FACE_MANUFACTURING.md)
 
 Historical process decisions; later procurement and design updates supersede old waiting states.
+
+### C-NOV17-HELMET
+
+**Owner proposal: pit helmet warmer for cool-weather visor fogging**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven described recurring visor fogging in cooler Australian speedway conditions and proposed researching a helmet warmer. His impression of expensive or hard-to-obtain alternatives is owner-reported, not a verified market finding. No build approval. Latest clarification: gentle heat on a stand between sessions for first-lap cold-visor fogging; add to list only, no large investigation. USB power is an open question.
+
+### C-NOV17-PRIORITY
+
+**Owner clarification: mainstream commercial demand before niche instruments**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven clarified that KnockMeter is not principally blocked by electronics complexity or making cost: the limited use case and expected sales are the concern. Mainstream commercially viable products take priority. This does not permanently reject KnockMeter.
+
+### C-NOV17-TYRE-MOTIVATION
+
+**Owner's firsthand tyre-gauge experience and product motivation**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Personal experience with an approximately 15–16-year-old Intercomp developing cold/damp zero drift, dissatisfaction with a roughly A$250 Longacre, and recalled Intercomp replacement price of A$960–980. Owner wants real accuracy and repeatability near or below A$250. Not a controlled benchmark, verified current price, measured component cost or validated product solution.
+
+### C-NOV17-SSR-PRIORITY
+
+**Owner decision: plug-in SSR later add-on, not current priority**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven explicitly deprioritized the plug-in SSR because of Chinese competition and perceived viability, while retaining it as a possible later add-on. Focus remains mainstream tech dashes, gauges, tools and pit equipment. This records owner judgment, not an independently measured market verdict.
+
+### C-NOV17-LOGGER-PRIORITY
+
+**Owner decision: standalone engine logger not a mainstream shortlist priority**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven cited existing logging in aftermarket ECU and factory tuning ecosystems, including PCMTEC on a BA Falcon as an example. He views the remaining older-carburetted niche as smaller/shrinking. This is a commercial-priority judgment, not quantified market research or a rejection of all logging. Personal relationship details are not needed in this public catalogue.
+
+### C-NOV17-PYROMETER
+
+**Owner's Speedway pyrometer rejection rationale**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven described rapid tyre cooling after leaving the track, wet track/water, reported logging prohibitions in his classes, and live external sensing complexity. These reinforce his existing Speedway rejection, do not establish universal class rules, and do not reopen the idea.
+
+### C-NOV17-NOISE
+
+**Owner declines chassis noise finder suggestion**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven rejected a chassis noise finder suggestion as occasional workshop equipment rather than a core recurring race-day need. He seeks recurring essential electronics across disciplines. This is not a global rejection of workshop tools, nor evidence the suggestion was previously a registered product.
+
+### C-NOV17-MARKET-JUDGMENTS
+
+**Owner screening of inflator, lap timer, brake-fluid tester and chassis squaring**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven judged these suggestions unsuitable for the current mainstream shortlist: preset inflation competes with an approximately $5 chuck plus gauge; phone MyLaps/Race Monitor reduce his perceived standalone timer opportunity; a common brake tester costs around $2.80 and is infrequently needed; chassis squaring competes with an approximately $2 tape and low willingness to pay (his approximately $35 example). These are his estimates and judgments, not independently verified current prices, currency conversions, universal user behaviour or evidence that unlike instruments perform identically. Cheap brake-fluid pens must not be conflated with actual boiling-point testers.
+
+### C-NOV17-COMMERCIAL-FILTER
+
+**Owner commercial filter: reachable demand and complete-product markup**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Reachable niches are acceptable where desire is strong and existing options are expensive, unreliable or unavailable. Target is at least 100% markup on complete COGS, equivalent to 50% gross margin before other costs when revenue is twice COGS. Owner's informal pit observation is roughly 70% without Tel-Tac and some stated interest near $400; not survey data, orders or general market statistics. Pad costs remain the complete-scales blocker.
+
+### C-NOV17-WEATHER
+
+**Owner assessment of dedicated weather/air-density tuning meters**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven judged a dedicated tuning meter not a mainstream win because of modern EFI, seeing a shrinking market mainly in mechanical injection. This records his commercial assessment, not measured market statistics or a universal technical claim.
+
+### C-NOV17-DRIVER-COOLING
+
+**Owner rejects driver-cooling suggestion on scope**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven considered newly suggested driver cooling too mechanical and potentially safety/approval-oriented. No specific approval requirement was verified. This does not reject the separate pit helmet-warmer idea.

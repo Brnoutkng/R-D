@@ -23,7 +23,7 @@ LABELS={
  'mixed-scope':'Earlier scope rejected; later scope unapproved',
  'historical-unadopted':'Historical suggestion — unadopted', 'superseded':'Superseded / reference'
 }
-CATS=['Core products','Workshop and race tools','Supporting resale products','Software and internal tools',
+CATS=['Core products','Workshop and race tools','Pit equipment','Supporting resale products','Software and internal tools',
       'Future variants and accessories','Historical reference','Business infrastructure','Unadopted research suggestions']
 
 def cell(value): return str(value or 'Not established').replace('|','\\|').replace('\n',' ')
@@ -136,3 +136,4 @@ for s in evidence['sources']:
     lines += [s.get('notes',''),'']
 write('SOURCES.md',lines)
 print(json.dumps(dict(records=len(ideas),primary=len(main),unadopted=len(history),decisions=len(decisions),sources=len(sources),status_counts=Counter(i['status'] for i in ideas)),indent=2))
+

@@ -2,7 +2,7 @@
 
 These ideas were raised in research or early naming discussions. Their inclusion preserves history; it does not make them approved products, rejected owner decisions or current development work.
 
-48 records · [Main register](REGISTER.md) · [Source limitations](SOURCES.md)
+46 records · [Main register](REGISTER.md) · [Source limitations](SOURCES.md)
 
 | Idea | What was proposed | Evidence / disposition |
 | --- | --- | --- |
@@ -23,7 +23,6 @@ These ideas were raised in research or early naming discussions. Their inclusion
 | [RD-082 — Portable AFR monitor](ideas/portable-afr.md) | A portable air-fuel measurement tool, related to the wideband/logger family. | Research ranked this lower because differentiation/fit was weak; no owner rejection or adopted development direction was established. |
 | [RD-083 — Basic automotive battery tester](ideas/battery-tester.md) | A generic workshop tester considered in brand research. | Research ranked this lower because differentiation/fit was weak; no owner rejection or adopted development direction was established. |
 | [RD-084 — Basic AFR gauge](ideas/basic-afr-gauge.md) | A simple standalone AFR display product. | Research ranked this lower because differentiation/fit was weak; no owner rejection or adopted development direction was established. |
-| [RD-085 — Weather / air-density meter](ideas/weather-meter.md) | A portable race weather/air-density instrument. | An earlier assistant recap placed generic versions low in the queue. Original owner decision/reason was not fully recovered; do not silently promote it. |
 | [RD-086 — Temperature data recorder](ideas/temperature-recorder.md) | A general recording instrument for race temperatures. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
 | [RD-087 — General standalone data recorder](ideas/general-data-recorder.md) | A broad data-recording category overlapping the existing logger family; no separate chosen scope. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
 | [RD-088 — General pressure tester](ideas/general-pressure-tester.md) | A workshop pressure-testing category with no selected application. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
@@ -32,7 +31,6 @@ These ideas were raised in research or early naming discussions. Their inclusion
 | [RD-091 — Lambda-to-CAN controller](ideas/lambda-can.md) | A wideband/lambda interface for compatible CAN systems. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
 | [RD-092 — Gauge / pressure calibrator](ideas/gauge-calibrator.md) | A workshop instrument for checking existing gauges. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
 | [RD-093 — Standalone shift light](ideas/shift-light.md) | A focused RPM-based shift indication product. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
-| [RD-094 — GPS lap timer](ideas/gps-lap-timer.md) | A standalone GPS-based timing instrument. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
 | [RD-095 — Kart instrument](ideas/kart-instrument.md) | An instrument concept for a broader karting market. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
 | [RD-096 — Matching water / oil instruments](ideas/matching-gauges.md) | A possible family of matching digital race gauges. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
 | [RD-097 — Waterproof gauge panel](ideas/waterproof-gauge-panel.md) | A simpler grouped-instrument alternative discussed alongside a full dash. | Raised during research; no owner adoption, separate development repo or completed feasibility decision was found. |
