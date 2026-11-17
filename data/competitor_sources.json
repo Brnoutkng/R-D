@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-17",
+  "sources": [
+    {
+      "id": "H01",
+      "title": "Owner request for two competitor lists",
+      "dates": "17 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Current conversation: the owner explicitly named Rocket Industries, VPW, Smiley’s Race Parts, Longacre, Intercomp and AFCO and requested separate reseller and manufacturer lists."
+    },
+    {
+      "id": "H02",
+      "title": "Broad product and catalogue review",
+      "dates": "4 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H03",
+      "title": "Mid-market motorsport product review",
+      "dates": "2 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H04",
+      "title": "Sprintcar driveline parts and Australian retail references",
+      "dates": "7 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation: business and brand names only. Private purchasing arrangements and unrelated transaction details are omitted."
+    },
+    {
+      "id": "H05",
+      "title": "Tyre-gauge market and retailer comparison",
+      "dates": "11 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H06",
+      "title": "Tyre-gauge OEM and donor-product research",
+      "dates": "24–25 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversations and saved gauge research. Supplier/OEM attribution is not independently established by an old sourcing suggestion."
+    },
+    {
+      "id": "H07",
+      "title": "Scales, setup tools and recall-tach references",
+      "dates": "14–16 September 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H08",
+      "title": "Race receiver and helmet/communications sourcing",
+      "dates": "15–21 September 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversations and SkidLabz_Rechargeable_Speedway_Receiver_Feasibility.docx. The saved report explicitly identifies the US Speedway Motors Nitro Bee listing."
+    },
+    {
+      "id": "H09",
+      "title": "Side products and finished-product sourcing",
+      "dates": "21–22 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversations, SkidLabz_Side_Products.md and SkidLabz_Side_Products_Sourcing_2026-10-22.xlsx. These preserve comparison and sourcing names, not approved supplier relationships."
+    },
+    {
+      "id": "H10",
+      "title": "Knock-monitor market review",
+      "dates": "24 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H11",
+      "title": "Race receiver alternatives",
+      "dates": "5 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H12",
+      "title": "Electronic and mechanical tyre bleeders",
+      "dates": "24–25 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered product discussion and feasibility summary. Personal allegations, unverified business-closure assertions and current race-rule claims are omitted."
+    },
+    {
+      "id": "H13",
+      "title": "Wideband controllers and motorsport data loggers",
+      "dates": "4 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H14",
+      "title": "Race timing and lap-data integration",
+      "dates": "12 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H15",
+      "title": "Cylinder heads, pistons and performance-parts sellers",
+      "dates": "22 June 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Older general performance-parts discussion. These are adjacent market references, not evidence that each business competes with the current electronics range."
+    },
+    {
+      "id": "H16",
+      "title": "Workshop, engine inspection and instrumentation ideas",
+      "dates": "4 October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H17",
+      "title": "Software, calculators and race-team applications",
+      "dates": "4 August 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H18",
+      "title": "Early performance-market and branding research",
+      "dates": "28 March 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Earlier assistant-proposed research/following accounts. Product businesses are retained as historical references only; this was not a completed competitive product assessment. Personalities, media, teams and events are excluded."
+    },
+    {
+      "id": "H19",
+      "title": "Motion Raceworks and RIFE product-range research",
+      "dates": "12 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H20",
+      "title": "PLEX Tuning and compact monitoring research",
+      "dates": "November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered owner request and associated product ideas. The exact original thread date was not recovered for every statement."
+    },
+    {
+      "id": "H21",
+      "title": "RayTech Automotive and throttle/AFR tools",
+      "dates": "14–15 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H22",
+      "title": "Street Hit GPS hardware and dyno-software comparisons",
+      "dates": "5–14 September; 2 October; 4 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H23",
+      "title": "Gauge donor mechanisms and small valves",
+      "dates": "25 September 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered sourcing discussion. Complete donor-product brands are retained; component-only valve vendors are outside the competitor lists."
+    },
+    {
+      "id": "H24",
+      "title": "Race-scale OEM investigation",
+      "dates": "September–October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered supplier names from the scale/pad study. Supplier identity, complete-product scope, quality and commercial suitability were not established for every lead."
+    },
+    {
+      "id": "H25",
+      "title": "Later product-tool and website research",
+      "dates": "2 October; 3–4 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered conversation summary; the original conversation URL was not supplied. Historical inclusion is established, but older assistant claims are not treated as current product facts."
+    },
+    {
+      "id": "H26",
+      "title": "Tuning-service and calibration-business references",
+      "dates": "July–October 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered historical names: NOS Racing Parts, Weber/Webber Racing Parts or Industries, and Trigg. Exact identities and maker/reseller roles are unresolved; no calibration details are reproduced."
+    },
+    {
+      "id": "H27",
+      "title": "Unresolved naming, receiver-lineage and website references",
+      "dates": "2 August; 20 October; 5 November 2026",
+      "kind": "recovered_conversation",
+      "urls": [],
+      "note": "Recovered summaries also name Tune Works Newcastle, DNK TuneWorks and ECU-Forge in a naming discussion; PitCrewRacing and Klein Electronics in an unconfirmed receiver-lineage investigation; and BKTI Components as a website/branding reference. These are retained separately without declaring verified competitors or an OEM relationship."
+    },
+    {
+      "id": "R01",
+      "title": "SkidLabz-RaceLogger/README.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/8e39b18ebf1b6e1c363713411570802eb71fe040/README.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R02",
+      "title": "SkidLabz-ECU-Development/apps/RaceCal/docs/RACEFUEL_RACECAL_RESEARCH_FINDINGS_2026-08-14.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/apps/RaceCal/docs/RACEFUEL_RACECAL_RESEARCH_FINDINGS_2026-08-14.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R03",
+      "title": "SkidLabz-KnockMeter/docs/sourcing/PARTS_AND_COSTING_REV_A_2026-10-25.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/docs/sourcing/PARTS_AND_COSTING_REV_A_2026-10-25.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R04",
+      "title": "SkidLabz-KnockMeter/docs/engineering/SENSOR_COST_CASE_AND_T_CHARGER_REVIEW_2026-10-26.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/docs/engineering/SENSOR_COST_CASE_AND_T_CHARGER_REVIEW_2026-10-26.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R05",
+      "title": "SkidLabz-ECU-Development/apps/LogWorks/docs/LOGWORKS_WORKFLOW_UI_RESEARCH.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/apps/LogWorks/docs/LOGWORKS_WORKFLOW_UI_RESEARCH.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R06",
+      "title": "SkidLabz-RaceCal/docs/RACECAL_PROJECT_SUMMARY.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/docs/RACECAL_PROJECT_SUMMARY.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R07",
+      "title": "SkidLabz-TyreGauge/README.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-TyreGauge/blob/fe75912285a8cd8673b403b2005528b4d5bfa257/README.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R08",
+      "title": "SkidLabz-SprintTach/docs/rpm-input.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-SprintTach/blob/b434cb3ebe15b130900a18362d1c31acd34502ee/docs/rpm-input.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R09",
+      "title": "SkidLabz-Street-Hit-App/docs/RACEBOX_VERIFIED_PROFILE.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-Street-Hit-App/blob/d831ab01ca5e34ebe90b8b1102f5036eed79281f/docs/RACEBOX_VERIFIED_PROFILE.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R10",
+      "title": "SkidLabz-RaceCal/CHANGELOG.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/CHANGELOG.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R11",
+      "title": "SkidLabz-KnockMeter/research/stage9/Knockometer_Stage9_Schematic_Readiness_20261025.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/research/stage9/Knockometer_Stage9_Schematic_Readiness_20261025.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R12",
+      "title": "SkidLabz-RaceLogger/apps/LogWorks/README.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/8e39b18ebf1b6e1c363713411570802eb71fe040/apps/LogWorks/README.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R13",
+      "title": "SkidLabz-SprintTach/docs/competitors.md",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-SprintTach/blob/b434cb3ebe15b130900a18362d1c31acd34502ee/docs/competitors.md"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    },
+    {
+      "id": "R14",
+      "title": "SkidLabz-ECU-Development/SKIDLABZ_PROJECT_CONTROL.yaml",
+      "dates": "Pinned repository version reviewed 17 November 2026",
+      "kind": "repository",
+      "urls": [
+        "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/SKIDLABZ_PROJECT_CONTROL.yaml"
+      ],
+      "note": "Private source repository; this public catalogue retains only the general business/product reference. A link does not grant access."
+    }
+  ]
+}

@@ -40,4 +40,14 @@ Main is not equally current in every source repo: important R2 receiver, Street 
 
 ## Maintenance
 
+### Competitor references
+
+Two linked lists now preserve the business and brand names recovered from our product discussions: [resellers and distributors](competitors/RESELLERS.md) and [manufacturers and product brands](competitors/MANUFACTURERS.md). The initial recovery contains 207 historical records, including separately labelled software, OEM leads, adjacent markets and unresolved names. It is not a list of 207 verified competitors or approved suppliers.
+
+Use [the competitor index](competitors/README.md) and its source/name-correction notes before repeating a catalogue review. Maker/reseller classification is distinct from the status of a SkidLabz project.
+
+### Updating records
+
 Update the underlying JSON records, preserve existing IDs and decision history, add the evidence source, then run `python scripts/render_register.py`. This register update does not alter any development repository.
+
+Competitor records use `data/competitors.json` and `data/competitor_sources.json`; regenerate their two lists and evidence pages with `python scripts/render_competitors.py`.

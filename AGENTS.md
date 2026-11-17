@@ -47,6 +47,16 @@ Review the generated entry and indexes for correct status, links and counts. Gen
 
 Follow the owner's **main-only workflow** for this repository. Keep completed or in-progress catalogue work and `CURRENT_STATE.md` coherent on main; do not create routine development branches.
 
+## Maintain the two competitor lists
+
+Before repeating market/catalogue research, search [resellers](competitors/RESELLERS.md) and [manufacturers/product brands](competitors/MANUFACTURERS.md), including aliases. Their source records are `data/competitors.json` and `data/competitor_sources.json`; regenerate the four pages in `competitors/` with `python scripts/render_competitors.py`.
+
+- Separate evidence that a name was historically mentioned from evidence that classifies its current business role. New web results alone do not establish a past discussion.
+- Preserve manufacturer, own-brand supplier, reseller, software, historical benchmark and OEM-lead distinctions. Do not claim that every own-brand item is manufactured in-house.
+- Group product aliases under the evidenced brand. Keep related brands searchable with their parent relationship stated; cross-listed mixed businesses have one underlying record.
+- Keep uncertain spellings and identities explicit. Do not invent a website, silently substitute a similar company or infer closure from a failed URL.
+- Retain pending/OEM/early-market sections as historical references; inclusion is not supplier approval, a current product recommendation or project reactivation.
+
 ## Keep the catalogue scoped and useful
 
 This is a public summary. Keep detailed private designs, calibration data, manufacturing outputs, negotiated commercial records and contact/payment details in their source repositories or threads. Link to evidence without copying those details here.

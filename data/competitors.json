@@ -1,0 +1,4753 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-17",
+  "timezone": "Australia/Melbourne",
+  "scope": "Historically mentioned businesses and product brands recovered from available chat summaries, saved research and the accessible repository review. Not a full export of all conversations or a current competitor ranking.",
+  "records": [
+    {
+      "id": "rocket-industries",
+      "name": "Rocket Industries",
+      "aliases": [
+        "Rocket"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Performance-parts catalogue, broad product review and workshop ignition tools.",
+      "historical_sources": [
+        "H01",
+        "H02",
+        "H15",
+        "H16"
+      ],
+      "role": "Multi-brand automotive performance distributor/wholesaler; also a manufacturer",
+      "relationship": "retail_reference",
+      "website": "https://rocketindustries.com.au/",
+      "classification_sources": [
+        "https://rocketindustries.com.au/about-us",
+        "https://rocketindustries.com.au/disclaimer"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Manufacturer/distributor mix; Aeroflow relationship is recorded in the maker list.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "vpw-australia",
+      "name": "VPW Australia",
+      "aliases": [
+        "VPW"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Performance-parts catalogue, scales and engine-inspection/tool comparisons.",
+      "historical_sources": [
+        "H01",
+        "H02",
+        "H15",
+        "H16"
+      ],
+      "role": "Multi-brand automotive and motorcycle performance retailer/distributor",
+      "relationship": "retail_reference",
+      "website": "https://www.vpw.com.au/",
+      "classification_sources": [
+        "https://www.vpw.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Proflow is a related own brand; do not treat every stocked brand as made by VPW.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "ian-boettcher-race-parts",
+      "name": "Ian Boettcher Race Parts",
+      "aliases": [
+        "IBRP",
+        "Ian Bochetta Race Parts"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Speedway catalogue and sprintcar driveline parts.",
+      "historical_sources": [
+        "H02",
+        "H04"
+      ],
+      "role": "Multi-brand motorsport parts retailer/distributor with race-car fabrication services",
+      "relationship": "retail_reference",
+      "website": "https://www.ibrp.com.au/",
+      "classification_sources": [
+        "https://www.ibrp.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Boettcher is the verified business spelling; Bochetta is retained as a historical transcript alias.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "queensland-speedway-spares",
+      "name": "Queensland Speedway Spares",
+      "aliases": [
+        "QSS",
+        "Speedway Spares"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Speedway parts, setup equipment and race supplies.",
+      "historical_sources": [
+        "H02",
+        "H04",
+        "H07"
+      ],
+      "role": "Multi-brand speedway parts retailer/importer; speedway division of Performance Wholesale Australia",
+      "relationship": "retail_reference",
+      "website": "https://www.speedwayspares.com.au/",
+      "classification_sources": [
+        "https://performancewholesale.com.au/pages/queensland-speedway-spares"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Division of Performance Wholesale. The speedwayspares.com.au-backed Speedway Spares mention is merged here.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "australian-racing-products",
+      "name": "Australian Racing Products",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Scales/setup tools and sprintcar parts sourcing.",
+      "historical_sources": [
+        "H04",
+        "H07"
+      ],
+      "role": "Multi-brand racing-parts and equipment retailer with an own-branded range",
+      "relationship": "retail_reference",
+      "website": "https://australianracingproducts.com.au/",
+      "classification_sources": [
+        "https://australianracingproducts.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Separate from Barnier Race Parts and the ambiguous historical label Australian Racing Parts.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "motorsport-parts-australia",
+      "name": "Motorsport Parts Australia",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Scales and motorsport setup-equipment retail comparison.",
+      "historical_sources": [
+        "H07"
+      ],
+      "role": "Motorsport parts retailer/supplier",
+      "relationship": "retail_reference",
+      "website": "https://motorsportpartsaustralia.com.au/",
+      "classification_sources": [
+        "https://motorsportpartsaustralia.com.au/about/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "revolution-racegear",
+      "name": "Revolution Racegear",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Scales, setup equipment and side-product/racewear comparisons.",
+      "historical_sources": [
+        "H07",
+        "H09"
+      ],
+      "role": "Multi-brand motorsport safety and accessories retailer with its own RPM Racewear brand",
+      "relationship": "retail_reference",
+      "website": "https://www.revolutionracegear.com.au/",
+      "classification_sources": [
+        "https://www.revolutionracegear.com.au/about-us-revolution/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "parr-motor-sports",
+      "name": "Parr Motor Sports",
+      "aliases": [
+        "Parr Motorsports"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Side-product, workshop and race-parts comparison.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Multi-brand speedway/racing-parts retailer",
+      "relationship": "retail_reference",
+      "website": "https://www.parrmotorsports.com.au/",
+      "classification_sources": [
+        "https://www.parrmotorsports.com.au/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "mhr-performance-parts",
+      "name": "MHR Performance Parts",
+      "aliases": [
+        "MHR Racing"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Tyre-gauge retail comparison.",
+      "historical_sources": [
+        "H05"
+      ],
+      "role": "Speedway and performance-parts retailer",
+      "relationship": "retail_reference",
+      "website": "https://www.mhracing.com.au/",
+      "classification_sources": [
+        "https://www.mhracing.com.au/pages/about-us"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "speed-parts",
+      "name": "Speed Parts",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Sprintcar driveline parts sourcing.",
+      "historical_sources": [
+        "H04"
+      ],
+      "role": "Multi-brand automotive/performance-parts and accessories retailer",
+      "relationship": "retail_reference",
+      "website": "https://www.speedparts.com.au/",
+      "classification_sources": [
+        "https://www.speedparts.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "jd-race-parts",
+      "name": "JD Race Parts",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Australian open-wheel/speedway parts sourcing.",
+      "historical_sources": [
+        "H04"
+      ],
+      "role": "Speedway parts retailer/dealer, specialising in open-wheel components",
+      "relationship": "retail_reference",
+      "website": null,
+      "classification_sources": [
+        "https://premierspeedway.com.au/jd-race-parts-track-championship-resumes/"
+      ],
+      "verification_status": "primary_partner_role_verified_own_website_unverified",
+      "qualification": "Role supported by its speedway sponsorship partner; canonical independent website not confirmed.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "rolan-australia",
+      "name": "Rolan Australia",
+      "aliases": [
+        "Rolan"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Australian performance-parts sourcing.",
+      "historical_sources": [
+        "H04"
+      ],
+      "role": "Automotive parts and accessories retailer",
+      "relationship": "retail_reference",
+      "website": "https://www.rolan.com.au/",
+      "classification_sources": [
+        "https://www.rolan.com.au/about"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "superformance",
+      "name": "Superformance",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Cylinder-head and general performance-parts comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance-parts retailer/supplier and custom vehicle builder/fabrication business",
+      "relationship": "retail_reference",
+      "website": "https://www.superformance.com.au/",
+      "classification_sources": [
+        "https://www.superformance.com.au/about_us"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "performance-wholesale-australia",
+      "name": "Performance Wholesale Australia",
+      "aliases": [
+        "Performance Wholesale"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Performance-parts distribution and catalogue reference.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance engine-parts importer/distributor and supplier to automotive trade and motorsport",
+      "relationship": "retail_reference",
+      "website": "https://performancewholesale.com.au/",
+      "classification_sources": [
+        "https://performancewholesale.com.au/pages/about-us-1"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "QSS is its speedway division; both names remain searchable.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "total-performance-australia",
+      "name": "Total Performance Australia",
+      "aliases": [
+        "Total Performance"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Cylinder-head and performance-parts retail comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance and competition engine/car-parts retailer/supplier",
+      "relationship": "retail_reference",
+      "website": "https://www.totalperformance.net.au/",
+      "classification_sources": [
+        "https://www.totalperformance.net.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "streetfx-motorsport",
+      "name": "StreetFX Motorsport",
+      "aliases": [
+        "StreetFX",
+        "StreetFX Motorsports & Graphics"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Performance-parts retail/distribution comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Multi-brand automotive performance-parts retailer/distributor",
+      "relationship": "retail_reference",
+      "website": "https://www.streetfx.com.au/",
+      "classification_sources": [
+        "https://www.streetfx.com.au/about"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "efi-solutions",
+      "name": "EFI Solutions",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Side-product and motorsport-parts retail comparison.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "OEM and aftermarket automotive performance-parts retailer, including EFI components",
+      "relationship": "retail_reference",
+      "website": "https://www.efisolutions.com.au/",
+      "classification_sources": [
+        "https://www.efisolutions.com.au/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "pro1-race-parts",
+      "name": "Pro1 Race Parts",
+      "aliases": [
+        "Pro 1 Race Parts"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Race receivers and side-product retail comparison.",
+      "historical_sources": [
+        "H08",
+        "H09"
+      ],
+      "role": "Multi-brand speedway and motorsport-parts retailer/supplier with own-branded offerings",
+      "relationship": "retail_reference",
+      "website": "https://pro1raceparts.com.au/",
+      "classification_sources": [
+        "https://pro1raceparts.com.au/about/",
+        "https://kencoracing.com.au/terms/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Kenco’s official terms record a relationship to Pro1.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "kenco-racing-products",
+      "name": "Kenco Racing Products",
+      "aliases": [
+        "Kenco"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Tyre-groover and setup-tool source.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Race-parts brand and trade/wholesale supplier",
+      "relationship": "retail_reference",
+      "website": "https://kencoracing.com.au/",
+      "classification_sources": [
+        "https://kencoracing.com.au/",
+        "https://kencoracing.com.au/terms/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Official site presents trade/wholesale supply; linked to Pro1 Race Parts.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "barnier-race-parts",
+      "name": "Barnier Race Parts",
+      "aliases": [
+        "BRP",
+        "Australian Racing Parts (historical mislabel)"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Raceceiver source identified by raceparts.com.au.",
+      "historical_sources": [
+        "H08"
+      ],
+      "role": "Multi-brand speedway parts and accessories retailer/supplier",
+      "relationship": "retail_reference",
+      "website": "https://www.raceparts.com.au/",
+      "classification_sources": [
+        "https://www.raceparts.com.au/about-1"
+      ],
+      "verification_status": "verified_official_name_corrected",
+      "qualification": "The recorded domain resolves to Barnier Race Parts. Do not merge it with Australian Racing Products.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "raceline-motorsport-racewear",
+      "name": "Raceline Motorsport Racewear",
+      "aliases": [
+        "Raceline Racewear"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Race receiver and helmet/tear-off retail source.",
+      "historical_sources": [
+        "H08",
+        "H09"
+      ],
+      "role": "Multi-brand motorsport racewear, safety-equipment and accessories online retailer/distributor",
+      "relationship": "retail_reference",
+      "website": "https://raceline-racewear.com.au/",
+      "classification_sources": [
+        "https://raceline-racewear.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "mwm-racing",
+      "name": "MWM Racing",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Nitro Bee receiver retail source.",
+      "historical_sources": [
+        "H08"
+      ],
+      "role": "Motorsport radio-communications system integrator, kit/accessory seller and third-party receiver retailer",
+      "relationship": "retail_reference",
+      "website": "https://www.mwmracing.com.au/",
+      "classification_sources": [
+        "https://www.mwmracing.com.au/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "harris-race-radios",
+      "name": "Harris Race Radios",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "international",
+      "discussion_context": "Driver communications, receiver products and accessories.",
+      "historical_sources": [
+        "H08"
+      ],
+      "role": "Motorsport communications specialist, retailer/distributor and system integrator with own-developed accessories and own-branded receiver products",
+      "relationship": "retail_reference",
+      "website": "https://harrisraceradios.com/",
+      "classification_sources": [
+        "https://harrisraceradios.com/pages/about-harris-race-radios"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Mixed third-party dealer, integrator and own-product supplier; underlying manufacture of each radio is not established.",
+      "also_listed_in": [
+        "manufacturers"
+      ],
+      "topics": []
+    },
+    {
+      "id": "tilley-motorsport-spares",
+      "name": "Tilley Motorsport Spares",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Workshop tools, instrumentation and broader motorsport catalogue.",
+      "historical_sources": [
+        "H25"
+      ],
+      "role": "Automotive and motorsport-parts/apparel retailer",
+      "relationship": "retail_reference",
+      "website": "https://tilleymotorsportspares.com.au/",
+      "classification_sources": [
+        "https://tilleymotorsportspares.com.au/terms-conditions/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "racer-industries",
+      "name": "Racer Industries",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Workshop instruments and motorsport equipment comparison.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "Specialist motorsport parts and equipment retailer/supplier",
+      "relationship": "retail_reference",
+      "website": "https://www.racerindustries.com.au/",
+      "classification_sources": [
+        "https://www.racerindustries.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "autosport",
+      "name": "Autosport",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Australian motorsport-tool and racewear catalogue.",
+      "historical_sources": [
+        "H25"
+      ],
+      "role": "Multi-brand motorsport parts, racewear, safety-equipment and tools retailer/supplier",
+      "relationship": "retail_reference",
+      "website": "https://www.autosport.com.au/",
+      "classification_sources": [
+        "https://www.autosport.com.au/about-us"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Australian retailer at autosport.com.au, not the media business or Autosport Labs.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "ozwide-tools",
+      "name": "Ozwide Tools",
+      "aliases": [
+        "OzwideTools"
+      ],
+      "primary_list": "resellers",
+      "section": "australia",
+      "discussion_context": "Specialist workshop/engine testing tools.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "Specialty automotive tool retailer/distributor and supplier",
+      "relationship": "retail_reference",
+      "website": "https://www.ozwidetools.com.au/",
+      "classification_sources": [
+        "https://www.ozwidetools.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "smiley-s-racing-products",
+      "name": "Smiley’s Racing Products",
+      "aliases": [
+        "Smiley’s Race Parts",
+        "Smiley’s Race Products",
+        "Smileys"
+      ],
+      "primary_list": "resellers",
+      "section": "international",
+      "discussion_context": "Speedway race-parts catalogue and broad product review.",
+      "historical_sources": [
+        "H01",
+        "H02",
+        "H03"
+      ],
+      "role": "US circle-track and speedway parts retailer/distributor; exact historical-name match remains unconfirmed",
+      "relationship": "retail_reference",
+      "website": "https://www.smileysracing.com/",
+      "classification_sources": [
+        "https://www.kse-racing.com/shopcontent.asp?type=Dealers"
+      ],
+      "verification_status": "primary_role_verified_historical_identity_ambiguous",
+      "qualification": "Verified candidate is the US/Texas business. The older shorthand does not establish whether every mention meant that business; retain the identity qualification.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "speedway-motors-us",
+      "name": "Speedway Motors (US)",
+      "aliases": [
+        "Speedway Motors"
+      ],
+      "primary_list": "resellers",
+      "section": "international",
+      "discussion_context": "US race receiver listing, tach harness, scales/setup and cubic-inch tester references.",
+      "historical_sources": [
+        "H07",
+        "H08",
+        "H16"
+      ],
+      "role": "US multi-brand motorsport retailer and own-product supplier.",
+      "relationship": "retail_reference",
+      "website": "https://www.speedwaymotors.com/",
+      "classification_sources": [
+        "https://www.speedwaymotors.com/Rugged-Radios-Nitro-Bee-X-Xtreme-UHF-Race-Receiver%2C509408.html"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "The saved receiver report explicitly identifies this US listing. It does not resolve the separate Queensland label.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "jegs",
+      "name": "JEGS",
+      "aliases": [
+        "JEGS High Performance"
+      ],
+      "primary_list": "resellers",
+      "section": "international",
+      "discussion_context": "Oil-filter cutters and rod-bolt stretch-gauge comparison.",
+      "historical_sources": [
+        "H09",
+        "H16"
+      ],
+      "role": "Multi-brand automotive performance-parts retailer with an own-branded product range",
+      "relationship": "retail_reference",
+      "website": "https://www.jegs.com/",
+      "classification_sources": [
+        "https://www.jegs.com/about-us"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Multi-brand retailer with own-labelled tools; a JEGS listing alone does not establish who made an item.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "pegasus-auto-racing-supplies",
+      "name": "Pegasus Auto Racing Supplies",
+      "aliases": [
+        "Pegasus"
+      ],
+      "primary_list": "resellers",
+      "section": "international",
+      "discussion_context": "Tyre-gauge retail comparison.",
+      "historical_sources": [
+        "H05"
+      ],
+      "role": "Motorsport parts, equipment and tools retailer/supplier",
+      "relationship": "retail_reference",
+      "website": "https://www.pegasusautoracing.com/",
+      "classification_sources": [
+        "https://www.pegasusautoracing.com/about.asp"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "repco",
+      "name": "Repco",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "general_sources",
+      "discussion_context": "General retail price/market-position reference.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "Automotive aftermarket parts, accessories and workshop-tools retailer/trade supplier",
+      "relationship": "peripheral_sourcing_reference",
+      "website": "https://www.repco.com.au/",
+      "classification_sources": [
+        "https://www.repco.com.au/about-us"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Included as a sourcing/reference business; this mention alone does not establish direct competition with a finished SkidLabz product.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "kogan",
+      "name": "Kogan",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "general_sources",
+      "discussion_context": "Oil-filter cutter sourcing/listing reference.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Broad online retailer with own brands and a third-party marketplace",
+      "relationship": "peripheral_sourcing_reference",
+      "website": "https://www.kogan.com/au/",
+      "classification_sources": [
+        "https://www.kogan.com/au/kogan-marketplace/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Included as a sourcing/reference business; this mention alone does not establish direct competition with a finished SkidLabz product.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "harfington",
+      "name": "Harfington",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "general_sources",
+      "discussion_context": "Oil-filter cutter and general workshop-tool sourcing.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Broad online maintenance, repair, hardware and spare-parts retailer/platform",
+      "relationship": "peripheral_sourcing_reference",
+      "website": "https://www.harfington.com/",
+      "classification_sources": [
+        "https://www.harfington.com/pages/about-harfington"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Included as a sourcing/reference business; this mention alone does not establish direct competition with a finished SkidLabz product.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "specialist-tools-australia",
+      "name": "Specialist Tools Australia",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "general_sources",
+      "discussion_context": "Oil-filter cutter/tool sourcing.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Specialist automotive tools retailer/supplier with own-labelled and third-party ranges",
+      "relationship": "peripheral_sourcing_reference",
+      "website": "https://www.specialisttools.com.au/",
+      "classification_sources": [
+        "https://www.specialisttools.com.au/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Included as a sourcing/reference business; this mention alone does not establish direct competition with a finished SkidLabz product.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "supercheap-auto",
+      "name": "Supercheap Auto",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "general_sources",
+      "discussion_context": "Retail source for a knock-sensor candidate.",
+      "historical_sources": [
+        "H06",
+        "R11"
+      ],
+      "role": "Broad automotive aftermarket parts, accessories and tools retailer",
+      "relationship": "peripheral_sourcing_reference",
+      "website": "https://www.supercheapauto.com.au/",
+      "classification_sources": [
+        "https://superretailgroup.com.au/supercheap-auto/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Included as a sourcing/reference business; this mention alone does not establish direct competition with a finished SkidLabz product.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "bar-tek",
+      "name": "BAR-TEK",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "general_sources",
+      "discussion_context": "Retail/reference host for knock-sensor information.",
+      "historical_sources": [
+        "H06",
+        "R03"
+      ],
+      "role": "Performance-parts retailer/supplier with its own engine-tuning product development/brand",
+      "relationship": "peripheral_sourcing_reference",
+      "website": "https://www.bar-tek.com/",
+      "classification_sources": [
+        "https://www.bar-tek.com/brands/bar-tek/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Included as a sourcing/reference business; this mention alone does not establish direct competition with a finished SkidLabz product.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "efi-hardware",
+      "name": "EFI Hardware",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "general_sources",
+      "discussion_context": "Sensor-connector retail source in KnockMeter research.",
+      "historical_sources": [
+        "H06",
+        "R03"
+      ],
+      "role": "EFI hardware manufacturer, custom component maker and parts retailer/supplier",
+      "relationship": "peripheral_sourcing_reference",
+      "website": "https://www.efihardware.com/",
+      "classification_sources": [
+        "https://www.efihardware.com/about"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Included as a sourcing/reference business; this mention alone does not establish direct competition with a finished SkidLabz product.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "bosch-motorsport-shop-australia",
+      "name": "Bosch Motorsport Shop Australia",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "general_sources",
+      "discussion_context": "Sensor-connector retail source in KnockMeter research.",
+      "historical_sources": [
+        "H06",
+        "R03"
+      ],
+      "role": "Bosch Australia's manufacturer-operated motorsport product webshop",
+      "relationship": "peripheral_sourcing_reference",
+      "website": "https://www.bosch-motorsport-shop.com.au/",
+      "classification_sources": [
+        "https://www.bosch-motorsport-shop.com.au/terms_of_use"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Official shop terms identify Robert Bosch (Australia) Pty Ltd as operator. The historical mention is a component-retail source, not evidence of a direct competing instrument.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "speedway-motors-queensland",
+      "name": "Speedway Motors Queensland",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "unresolved",
+      "discussion_context": "Name used in the broad speedway catalogue review.",
+      "historical_sources": [
+        "H02"
+      ],
+      "role": "Unresolved historical business label",
+      "relationship": "retail_reference",
+      "website": null,
+      "classification_sources": [
+        "https://www.speedwayspares.com.au/collections/speedway-motors"
+      ],
+      "verification_status": "unresolved_identity",
+      "qualification": "No distinct business established. QSS carries Speedway Motors products, but that does not prove this historical label means QSS or a separate Queensland company.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "clarksons-race-products",
+      "name": "Clarksons Race Products",
+      "aliases": [
+        "Clarkso’s Race Products"
+      ],
+      "primary_list": "resellers",
+      "section": "unresolved",
+      "discussion_context": "Name used in the broad speedway catalogue review.",
+      "historical_sources": [
+        "H02"
+      ],
+      "role": "Unresolved historical business label",
+      "relationship": "retail_reference",
+      "website": null,
+      "classification_sources": [
+        "https://clarkosraceparts.com/pages/about-us"
+      ],
+      "verification_status": "unresolved_identity",
+      "qualification": "Exact identity unverified. Clarko’s Race Parts / Clarkos Performance is a possible spelling correction only; it is not silently substituted.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "nos-racing-parts",
+      "name": "NOS Racing Parts",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "unresolved",
+      "discussion_context": "Historical ready-made tune or tuning-service reference.",
+      "historical_sources": [
+        "H26"
+      ],
+      "role": "Service/business name retained; exact identity and seller/maker role unverified.",
+      "relationship": "historical_service_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Keep the recovered spelling visible; do not map to a similarly named company without further evidence.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "weber-webber-racing-parts-or-industries",
+      "name": "Weber / Webber Racing Parts or Industries",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "unresolved",
+      "discussion_context": "Historical ready-made tune or tuning-service reference.",
+      "historical_sources": [
+        "H26"
+      ],
+      "role": "Service/business name retained; exact identity and seller/maker role unverified.",
+      "relationship": "historical_service_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Keep the recovered spelling visible; do not map to a similarly named company without further evidence.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "trigg",
+      "name": "Trigg",
+      "aliases": [],
+      "primary_list": "resellers",
+      "section": "unresolved",
+      "discussion_context": "Historical ready-made tune or tuning-service reference.",
+      "historical_sources": [
+        "H26"
+      ],
+      "role": "Service/business name retained; exact identity and seller/maker role unverified.",
+      "relationship": "historical_service_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Keep the recovered spelling visible; do not map to a similarly named company without further evidence.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "longacre-racing-products",
+      "name": "Longacre Racing Products",
+      "aliases": [
+        "Longacre"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Scales, tyre gauges, setup tools and workshop testers.",
+      "historical_sources": [
+        "H01",
+        "H02",
+        "H03",
+        "H05",
+        "H07",
+        "H16"
+      ],
+      "role": "Manufacturer and own-product racing equipment brand: scales, gauges, alignment and setup tools.",
+      "relationship": "product_benchmark",
+      "website": "https://longacreracing.com/",
+      "classification_sources": [
+        "https://longacreracing.com/pages/about-us"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "intercomp",
+      "name": "Intercomp",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Tyre gauges, scales and force/travel test equipment.",
+      "historical_sources": [
+        "H01",
+        "H02",
+        "H03",
+        "H05",
+        "H07",
+        "H16",
+        "R07"
+      ],
+      "role": "Manufacturer of racing scales, precision gauges and alignment/test equipment.",
+      "relationship": "product_benchmark",
+      "website": "https://www.intercompracing.com/",
+      "classification_sources": [
+        "https://www.intercompcompany.com/racing-scales.html"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "afco-racing-products",
+      "name": "AFCO Racing Products",
+      "aliases": [
+        "AFCO"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Suspension, shock and broader race-product catalogue.",
+      "historical_sources": [
+        "H01",
+        "H03"
+      ],
+      "role": "Manufacturer and distributor of racing suspension, shocks, springs, cooling and brake products.",
+      "relationship": "product_benchmark",
+      "website": "https://afcoracing.com/",
+      "classification_sources": [
+        "https://afcoracing.com/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "joes-racing-products",
+      "name": "JOES Racing Products",
+      "aliases": [
+        "JOES",
+        "Joe’s Racing"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Setup/workshop tools and race components.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "Manufacturer of racing components and setup/workshop equipment; also operates a specialist retail channel.",
+      "relationship": "product_benchmark",
+      "website": "https://www.joesracing.com/",
+      "classification_sources": [
+        "https://www.joesracing.com/who-we-are/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [
+        "resellers"
+      ],
+      "topics": []
+    },
+    {
+      "id": "quickcar-racing-products",
+      "name": "QuickCar Racing Products",
+      "aliases": [
+        "QuickCar",
+        "QuickTach2"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Recall tachs, instrumentation and race electrical products.",
+      "historical_sources": [
+        "H02",
+        "H03",
+        "H07"
+      ],
+      "role": "Own-brand racing instrumentation, electrical equipment and tools supplier.",
+      "relationship": "product_benchmark",
+      "website": "https://www.quickcar.com/",
+      "classification_sources": [
+        "https://www.quickcar.com/"
+      ],
+      "verification_status": "verified-official-brand-manufacturing-scope-unconfirmed",
+      "qualification": "Own-brand supplier verified; no blanket claim that every catalogue item is made in-house.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "tel-tac",
+      "name": "Tel-Tac",
+      "aliases": [
+        "Tel Tac",
+        "Tel-Tac II",
+        "Oval Track Pro",
+        "OTP"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Self-powered and recall tachometer benchmark.",
+      "historical_sources": [
+        "H07",
+        "R13"
+      ],
+      "role": "Racing digital tachometer brand, including the Tel-Tac II and Oval Track Pro multi-recall tachometer.",
+      "relationship": "product_benchmark",
+      "website": null,
+      "classification_sources": [
+        "https://quickracingproducts.com/OTP_Instuctions_.pdf"
+      ],
+      "verification_status": "verified-primary-product-manual-current-company-site-unconfirmed",
+      "qualification": "Oval Track Pro/OTP is confirmed by a Tel-Tac installation manual. It is not a separate company and is not assigned to QuickCar. Current standalone company site unverified.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "raceceiver",
+      "name": "RACEceiver",
+      "aliases": [
+        "Innovative Spectator Products",
+        "Fusion Plus",
+        "Element",
+        "Hybrid",
+        "Classic"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "One-way race-control receiver benchmark.",
+      "historical_sources": [
+        "H03",
+        "H08",
+        "H11"
+      ],
+      "role": "Own-product manufacturer/developer of one-way race-control receivers and associated driver communication systems.",
+      "relationship": "product_benchmark",
+      "website": "https://raceceiver.com/",
+      "classification_sources": [
+        "https://raceceiver.com/pages/about-us"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "RACEceiver is the product brand of Innovative Spectator Products; receiver models are aliases, not separate competitors.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "rugged-radios",
+      "name": "Rugged Radios",
+      "aliases": [
+        "Nitro Bee",
+        "Nitro Bee Xtreme"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Nitro Bee Xtreme race receiver benchmark.",
+      "historical_sources": [
+        "H08",
+        "H11"
+      ],
+      "role": "Designer and manufacturer of communication systems; maker/brand of the Nitro Bee Xtreme race receiver.",
+      "relationship": "product_benchmark",
+      "website": "https://www.ruggedradios.com/",
+      "classification_sources": [
+        "https://www.ruggedradios.com/pages/rugged-careers",
+        "https://www.ruggedradios.com/products/nitro-bee-x-uhf-race-receiver"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Nitro Bee Xtreme is a Rugged Radios product, not a separate company or a QuickCar product.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "swindell-bleeders",
+      "name": "Swindell Bleeders",
+      "aliases": [
+        "Swindell",
+        "Swindell Pro",
+        "Swindell Group"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Electronic tyre-bleeder benchmark.",
+      "historical_sources": [
+        "H12"
+      ],
+      "role": "Designer and maker of electronic motorsport tyre bleeders.",
+      "relationship": "product_benchmark",
+      "website": "https://www.swindellgroup.com/",
+      "classification_sources": [
+        "https://www.jeffswindell.com/"
+      ],
+      "verification_status": "verified-official-identity",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "conroy-pneu-control",
+      "name": "Conroy Pneu Control",
+      "aliases": [
+        "Conroy"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Mechanical/pneumatic tyre bleeders.",
+      "historical_sources": [
+        "H12"
+      ],
+      "role": "Maker and brand of axle-mounted pneumatic/diaphragm tyre-pressure bleeders and associated parts.",
+      "relationship": "product_benchmark",
+      "website": "https://www.conroypneucontrol.com/",
+      "classification_sources": [
+        "https://www.conroypneucontrol.com/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "motion-raceworks",
+      "name": "Motion Raceworks",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Product-range review: sensors, electrical and practical racing accessories.",
+      "historical_sources": [
+        "H19"
+      ],
+      "role": "Manufacturer of performance/racing components with its own engineering, machining, fabrication and assembly; also sells complementary parts.",
+      "relationship": "product_benchmark",
+      "website": "https://motionraceworks.com/",
+      "classification_sources": [
+        "https://motionraceworks.com/pages/about-us"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [
+        "resellers"
+      ],
+      "topics": []
+    },
+    {
+      "id": "rife-sensors",
+      "name": "RIFE Sensors",
+      "aliases": [
+        "RIFE"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Motorsport sensor and sensor-block product range.",
+      "historical_sources": [
+        "H19"
+      ],
+      "role": "Motion Raceworks sensor/electronics brand with in-house design and manufacture documented for its motorsport sensors.",
+      "relationship": "product_benchmark",
+      "website": "https://motionraceworks.com/collections/rife-sensors",
+      "classification_sources": [
+        "https://motionraceworks.com/products/rife-magnetic-crank-trigger-hall-effect-sensor-flying-lead"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "RIFE is a Motion Raceworks brand. Retained as a separate searchable product brand, not presented as an unrelated company.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "plex-tuning",
+      "name": "PLEX Tuning",
+      "aliases": [
+        "PLEX"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Knock monitoring, compact instruments and direct-input engine monitoring.",
+      "historical_sources": [
+        "H20"
+      ],
+      "role": "Developer and manufacturer of motorsport and engine-calibration electronics, including knock monitors, display/loggers and power-distribution products.",
+      "relationship": "product_benchmark",
+      "website": "https://www.plex-tuning.com/",
+      "classification_sources": [
+        "https://www.plex-tuning.com/our-company/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "raytech-automotive",
+      "name": "RayTech Automotive",
+      "aliases": [
+        "SynchroKing",
+        "LambdaKing",
+        "Sniff Stick",
+        "LambdaGauge"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "SynchroKing vacuum balancers and portable lambda/AFR tools.",
+      "historical_sources": [
+        "H21"
+      ],
+      "role": "Australian tuning-instrument designer and maker: SynchroKing vacuum balancers and LambdaKing air-fuel-ratio meters.",
+      "relationship": "product_benchmark",
+      "website": "https://raytechautomotive.com/",
+      "classification_sources": [
+        "https://raytechautomotive.com/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "computech",
+      "name": "Computech",
+      "aliases": [
+        "RaceBase"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Weather, logging, engine tools and RaceBase software.",
+      "historical_sources": [
+        "H02",
+        "H03",
+        "H17"
+      ],
+      "role": "Developer/own-product supplier of racing weather stations, data acquisition, exhaust-temperature instruments and racing software; also a specialist retailer.",
+      "relationship": "product_benchmark",
+      "website": "https://computech.com/",
+      "classification_sources": [
+        "https://computech.com/about/",
+        "https://computech.com/products/racing-software/"
+      ],
+      "verification_status": "verified-official-developer-and-retailer",
+      "qualification": "RaceBase is grouped under this company, not counted as a separate maker.",
+      "also_listed_in": [
+        "resellers"
+      ],
+      "topics": []
+    },
+    {
+      "id": "b-g-racing",
+      "name": "B-G Racing",
+      "aliases": [
+        "Brown & Geeson",
+        "BG Racing"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Setup, alignment, weighing and pit/workshop equipment.",
+      "historical_sources": [
+        "H02"
+      ],
+      "role": "Motorsport equipment brand of manufacturer Brown & Geeson, covering setup, alignment, weighing, workshop and pit equipment.",
+      "relationship": "product_benchmark",
+      "website": "https://www.bg-racing.co.uk/",
+      "classification_sources": [
+        "https://www.bg-racing.co.uk/about-us-bgracing"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "wehrs-machine-racing-products",
+      "name": "Wehrs Machine & Racing Products",
+      "aliases": [
+        "Wehrs Machine",
+        "Circle Track App"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Setup tools and the Circle Track App software reference.",
+      "historical_sources": [
+        "H03",
+        "H17"
+      ],
+      "role": "Manufacturer of machined racing components and setup/workshop equipment.",
+      "relationship": "product_benchmark",
+      "website": "https://wehrsmachine.com/",
+      "classification_sources": [
+        "https://wehrsmachine.com/about/",
+        "https://circletrackapp.com/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Circle Track App is grouped under this company, not counted as a separate maker.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "performance-trends",
+      "name": "Performance Trends",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Spring testing, Quick Cam Checker and engineering software.",
+      "historical_sources": [
+        "H02",
+        "H16",
+        "H17"
+      ],
+      "role": "Motorsport engineering software developer and producer of data-acquisition/test hardware.",
+      "relationship": "product_benchmark",
+      "website": "https://www.performancetrends.com/",
+      "classification_sources": [
+        "https://www.performancetrends.com/index.html"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "split-second",
+      "name": "Split Second",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Programmable signal calibration, piggybacks and interfaces.",
+      "historical_sources": [
+        "H02",
+        "H16"
+      ],
+      "role": "Automotive electronics developer/product brand for programmable signal calibration and related engine-management interfaces.",
+      "relationship": "product_benchmark",
+      "website": "https://splitsec.com/",
+      "classification_sources": [
+        "https://splitsec.com/wp-content/uploads/datasheets/PSC1-002_ds.pdf"
+      ],
+      "verification_status": "verified-official-product-document-main-pages-unavailable",
+      "qualification": "Identity verified through official product documentation. An older recollection of closure is not carried forward as a fact.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "hepfner-racing-products",
+      "name": "Hepfner Racing Products",
+      "aliases": [
+        "HRP"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Setup/race parts and pit equipment.",
+      "historical_sources": [
+        "H07"
+      ],
+      "role": "Manufacturer of motorsport components, pit/trailer accessories and stands; also offers selected products from other brands.",
+      "relationship": "product_benchmark",
+      "website": "https://www.hrpracing.com/",
+      "classification_sources": [
+        "https://www.hrpracing.com/aboutus"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [
+        "resellers"
+      ],
+      "topics": []
+    },
+    {
+      "id": "tibill-s-race-parts",
+      "name": "TiBill’s Race Parts",
+      "aliases": [
+        "TiBill’s",
+        "Ti Bills Race Parts",
+        "TiBill’s Injectors and Race Parts"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Setup-block comparison and own race-parts range.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Own-product race-parts manufacturer and specialist seller, including titanium bolts and components for dirt oval racing.",
+      "relationship": "product_benchmark",
+      "website": "https://www.tibillsraceparts.com/",
+      "classification_sources": [
+        "https://www.tibillsraceparts.com/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "bratt-race-engineering",
+      "name": "Bratt Race Engineering",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Setup blocks and race-product comparison.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Own-product developer and direct seller, motorsport-parts retailer, and engineering/suspension service business",
+      "relationship": "product_benchmark",
+      "website": "https://brattraceengineering.com.au/",
+      "classification_sources": [
+        "https://brattraceengineering.com.au/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "",
+      "also_listed_in": [
+        "resellers"
+      ],
+      "topics": []
+    },
+    {
+      "id": "proform",
+      "name": "PROFORM",
+      "aliases": [
+        "Proform"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Scales, ring filers and spring testers.",
+      "historical_sources": [
+        "H03",
+        "H07",
+        "H16"
+      ],
+      "role": "Engineer/manufacturer and own-product automotive aftermarket brand covering engine-building tools, scales, components and accessories.",
+      "relationship": "product_benchmark",
+      "website": "https://www.proformparts.com/",
+      "classification_sources": [
+        "https://www.proformparts.com/about"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "allstar-performance",
+      "name": "Allstar Performance",
+      "aliases": [
+        "Allstar"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Side-product, workshop and setup-tool comparison.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Own-brand supplier of specialist motorsport parts, tools and shop, trailer and track equipment.",
+      "relationship": "product_benchmark",
+      "website": "https://allstarperformance.com/",
+      "classification_sources": [
+        "https://allstarperformance.com/about-us/"
+      ],
+      "verification_status": "verified-official-brand-manufacturing-scope-unconfirmed",
+      "qualification": "Own-brand parts supplier; manufacturing of every stocked item is not established.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "motion-pro",
+      "name": "Motion Pro",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Workshop-tool and engine-test market references.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "manufacturer / product brand — specialty powersport workshop tools and controls",
+      "relationship": "product_benchmark",
+      "website": "https://www.motionpro.com/",
+      "classification_sources": [
+        "https://www.motionpro.com/about-motion-pro"
+      ],
+      "verification_status": "verified_primary_manufacturer",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "kestrel",
+      "name": "Kestrel",
+      "aliases": [
+        "Nielsen-Kellerman"
+      ],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Racing weather and air-density instruments.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "manufacturer-backed product brand — handheld environmental and racing weather instruments",
+      "relationship": "product_benchmark",
+      "website": "https://kestrelinstruments.com/",
+      "classification_sources": [
+        "https://kestrelinstruments.com/nk/about-kestrel"
+      ],
+      "verification_status": "verified_primary_brand_manufacturer_relationship",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "gauge-innovations",
+      "name": "Gauge Innovations",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "race_tools",
+      "discussion_context": "Automotive monitoring/alarm gauge references.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "manufacturer / product brand — automotive monitoring and alarm gauges",
+      "relationship": "product_benchmark",
+      "website": "https://gaugeinnovations.com/",
+      "classification_sources": [
+        "https://gaugeinnovations.com/"
+      ],
+      "verification_status": "verified_primary_manufacturer",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "gtr-developments",
+      "name": "GTR Developments",
+      "aliases": [
+        "GTR"
+      ],
+      "primary_list": "manufacturers",
+      "section": "legacy",
+      "discussion_context": "Historical digital sprintcar/midget tyre-bleeder benchmark.",
+      "historical_sources": [
+        "H02",
+        "H12"
+      ],
+      "role": "Historical digital sprintcar/midget tyre-bleeder brand; current manufacturer site and business status unverified.",
+      "relationship": "legacy_product_benchmark",
+      "website": null,
+      "classification_sources": [
+        "https://www.manualslib.com/manual/2212545/Gtr-Sprintcar-Bleeders.html"
+      ],
+      "verification_status": "historical-product-identity-verified-current-official-site-unresolved",
+      "qualification": "Current company site and supply status unverified. Do not use gtrdevelopments.com as a motorsport link: it now describes an unrelated property business.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "rebco",
+      "name": "REBCO",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "legacy",
+      "discussion_context": "Historical gauges, scales, pyrometers and setup tools.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "historical racing setup-tool / instrument product brand; current operating status unresolved",
+      "relationship": "legacy_product_benchmark",
+      "website": "https://www.rebcoperformance.com/",
+      "classification_sources": [
+        "https://images.carid.com/rebco/products/pdf/rebco-product-catalog.pdf"
+      ],
+      "verification_status": "historical_primary_catalogue_verified_current_official_site_and_ownership_unverified",
+      "qualification": "Brand-authored historical catalogue verified; live official site, ownership and current manufacture unverified.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "triple-x-race-co-candidate-for-triplex-race-parts",
+      "name": "Triple X Race Co (candidate for “Triplex Race Parts”)",
+      "aliases": [
+        "Triplex Race Parts",
+        "Triple X"
+      ],
+      "primary_list": "manufacturers",
+      "section": "unresolved",
+      "discussion_context": "Historic race-parts/setup sourcing label.",
+      "historical_sources": [
+        "H07"
+      ],
+      "role": "Racing chassis/components manufacturer with direct online sales and some third-party products",
+      "relationship": "historical_identity_qualified",
+      "website": "https://www.triplexraceparts.com/",
+      "classification_sources": [
+        "https://www.triplexraceparts.com/aboutus.php"
+      ],
+      "verification_status": "official_candidate_verified_historical_label_needs_confirmation",
+      "qualification": "The supplied domain is the maker/direct seller Triple X Race Co. Mapping every old “Triplex” mention to it is still qualified.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "14point7",
+      "name": "14Point7",
+      "aliases": [
+        "14point7",
+        "Spartan",
+        "Spartan 3 OEM"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Spartan wideband controllers; also a RaceLogger integration reference.",
+      "historical_sources": [
+        "H13",
+        "R01"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.14point7.com/",
+      "classification_sources": [
+        "https://www.14point7.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "A product brand and integration supplier; the mention is not solely a direct competitive comparison.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "aem-performance-electronics",
+      "name": "AEM Performance Electronics",
+      "aliases": [
+        "AEM"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Wideband/AFR and logging market reference.",
+      "historical_sources": [
+        "H13"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.aemelectronics.com/",
+      "classification_sources": [
+        "https://www.aemelectronics.com/brands/aem/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "aim",
+      "name": "AiM",
+      "aliases": [
+        "AiM Sportline",
+        "Aim Technologies",
+        "EVO6L"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Dashes, data loggers and motorsport analysis.",
+      "historical_sources": [
+        "H03",
+        "H13",
+        "H17"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.aim-sportline.com/",
+      "classification_sources": [
+        "https://www.aim-sportline.com/us/products-all.htm"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "The historical AiM/Aim Technologies shorthand is grouped as a product-family reference; no separate legal-entity identity is inferred.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "autosport-labs",
+      "name": "Autosport Labs",
+      "aliases": [
+        "RaceCapture",
+        "RaceCapture/Pro"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "RaceCapture hardware/logging comparison.",
+      "historical_sources": [
+        "H13"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.autosportlabs.com/",
+      "classification_sources": [
+        "https://www.autosportlabs.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Separate from the Australian Autosport retailer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "daytona-sensors",
+      "name": "Daytona Sensors",
+      "aliases": [
+        "WEGO"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "WEGO IV Dual wideband and engine-logging reference.",
+      "historical_sources": [
+        "H13"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://daytona-sensors.com/",
+      "classification_sources": [
+        "https://daytona-sensors.com/about-us/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "ecumaster",
+      "name": "ECUMaster",
+      "aliases": [
+        "EMU",
+        "Data Master"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "ECU, calibration and data-analysis workflow comparison.",
+      "historical_sources": [
+        "H17",
+        "R05"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.ecumaster.com/",
+      "classification_sources": [
+        "https://www.ecumaster.com/company/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "fueltech",
+      "name": "FuelTech",
+      "aliases": [
+        "FT450"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "ECU/calibration and logged-run workflow reference.",
+      "historical_sources": [
+        "H17",
+        "R05"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.fueltech.net/",
+      "classification_sources": [
+        "https://www.fueltech.net/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "fwlrtuning",
+      "name": "FWLRtuning",
+      "aliases": [
+        "FWLR Tuning",
+        "Knock Detective"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Knock Detective Gen 2 benchmark.",
+      "historical_sources": [
+        "H10"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.fwlrtuning.com/",
+      "classification_sources": [
+        "https://www.fwlrtuning.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "haltech",
+      "name": "Haltech",
+      "aliases": [
+        "NSP",
+        "iC-7",
+        "Knock Ears"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "ECU/calibration workflow, iC-7 dash and knock-listening references.",
+      "historical_sources": [
+        "H02",
+        "H16",
+        "H17",
+        "R05"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.haltech.com/",
+      "classification_sources": [
+        "https://support.haltech.com/portal/en/kb/articles/elite-vms-vms-t-overview"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "holley",
+      "name": "Holley",
+      "aliases": [
+        "Holley EFI"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "EFI and tuning-interface benchmark for RaceCal.",
+      "historical_sources": [
+        "H17",
+        "R06"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.holley.com/",
+      "classification_sources": [
+        "https://www.holley.com/brands/holley_efi/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "hp-tuners",
+      "name": "HP Tuners",
+      "aliases": [
+        "HPTuners"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Earlier performance-electronics business reference.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.hptuners.com/",
+      "classification_sources": [
+        "https://www.hptuners.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Historical market/branding reference; a detailed SkidLabz comparison is not established.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "innovate-motorsports",
+      "name": "Innovate Motorsports",
+      "aliases": [
+        "LM-2",
+        "Innovate LogWorks"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "LM-2 portable lambda/RPM logger and wideband products.",
+      "historical_sources": [
+        "H13",
+        "H21"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.innovatemotorsports.com/",
+      "classification_sources": [
+        "https://www.innovatemotorsports.com/shop-all/data-acquisition.html"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Innovate’s LogWorks software is distinct from the independent SkidLabz LogWorks project.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "kperformance",
+      "name": "KPerformance",
+      "aliases": [
+        "Tiny Knock Controller"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Tiny Knock Controller reference.",
+      "historical_sources": [
+        "H10"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://kperformance.be/",
+      "classification_sources": [
+        "https://kperformance.be/Tiny-Knock-Controller"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Own Tiny products plus third-party dealership; the parent product brand is kept searchable.",
+      "also_listed_in": [
+        "resellers"
+      ],
+      "topics": []
+    },
+    {
+      "id": "link-ecu",
+      "name": "Link ECU",
+      "aliases": [
+        "Link",
+        "PCLink",
+        "G4+ KnockBlock",
+        "KnockBlock"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "KnockBlock, ECU tuning and log-analysis workflow.",
+      "historical_sources": [
+        "H10",
+        "H17",
+        "R05"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://linkecu.com/",
+      "classification_sources": [
+        "https://linkecu.com/tech-articles/knockblock-explained/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "maxxecu",
+      "name": "MaxxECU",
+      "aliases": [
+        "MTune"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "ECU, fuel-model and data-analysis workflow comparison.",
+      "historical_sources": [
+        "H17",
+        "R05"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.maxxecu.com/",
+      "classification_sources": [
+        "https://www.maxxecu.com/webhelp/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "microtech-efi",
+      "name": "MicroTech EFI",
+      "aliases": [
+        "Microtech",
+        "EGT-8"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Standalone dash and EGT-8 instrumentation.",
+      "historical_sources": [
+        "H02",
+        "H16"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://microtechefi.com/",
+      "classification_sources": [
+        "https://microtechefi.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "motec",
+      "name": "MoTeC",
+      "aliases": [
+        "M1 Tune",
+        "i2"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "ECU calibration and i2 analysis workflow comparison.",
+      "historical_sources": [
+        "H17",
+        "R05"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.motec.com.au/",
+      "classification_sources": [
+        "https://www.motec.com.au/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "msd",
+      "name": "MSD",
+      "aliases": [
+        "MSD Ignition"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Ignition/tach signal compatibility and ignition-test instruments.",
+      "historical_sources": [
+        "H16",
+        "H25",
+        "R08"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.holley.com/brands/msd/",
+      "classification_sources": [
+        "https://www.holley.com/brands/msd/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "mylaps",
+      "name": "MYLAPS",
+      "aliases": [
+        "Speedhive",
+        "Orbits"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Timing systems and integration with lap-data/software.",
+      "historical_sources": [
+        "H14",
+        "H17"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://mylaps.com/",
+      "classification_sources": [
+        "https://help.mylaps.com/s/timing-and-scoring?language=en_US"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Speedhive/Orbits are products/services. RMonitor is a protocol/reference, not another manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "phormula",
+      "name": "Phormula",
+      "aliases": [
+        "KS-4"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "KS-4 knock-monitor comparison.",
+      "historical_sources": [
+        "H10",
+        "H16"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://phormula.com/",
+      "classification_sources": [
+        "https://phormula.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "race-technology",
+      "name": "Race Technology",
+      "aliases": [
+        "DL1",
+        "DL1 CLUB"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "DL1 CLUB logger reference.",
+      "historical_sources": [
+        "H13"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.race-technology.com/",
+      "classification_sources": [
+        "https://www.race-technology.com/wiki/index.php/DL1MK3/FAQ"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "racepak",
+      "name": "Racepak",
+      "aliases": [
+        "Racepak Data",
+        "RACEPAKDATA"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Earlier performance data-logging brand reference.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.holley.com/brands/",
+      "classification_sources": [
+        "https://www.holley.com/brands/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Brand retained from earlier market/branding research; this is not a completed current product comparison.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "racing-electronics",
+      "name": "Racing Electronics",
+      "aliases": [
+        "REceiver PRO"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "REceiver PRO race-control receiver reference.",
+      "historical_sources": [
+        "H11"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://racingelectronics.com/",
+      "classification_sources": [
+        "https://racingelectronics.com/collections/promo-code-exclusions/products/receiver-pro-miniature-uhf-for-professional-racers"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "stack",
+      "name": "Stack",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Instrumentation/dash and race-tool market reference.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.stackltd.com/",
+      "classification_sources": [
+        "https://www.stackltd.com/product_thumbs.html"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "zeitronix",
+      "name": "Zeitronix",
+      "aliases": [
+        "ZT-2",
+        "ZT-4"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "ZT-2/ZT-4 wideband/logging comparison.",
+      "historical_sources": [
+        "H13"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://zeitronix.com/",
+      "classification_sources": [
+        "https://zeitronix.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "tech-edge",
+      "name": "Tech Edge",
+      "aliases": [
+        "TechEdge",
+        "WBo2"
+      ],
+      "primary_list": "manufacturers",
+      "section": "legacy",
+      "discussion_context": "3A2/3B1/3H1 wideband/logger references and existing log-file integration.",
+      "historical_sources": [
+        "H13",
+        "R12"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.wbo2.com/",
+      "classification_sources": [
+        "https://www.wbo2.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Official website carries a 3 February 2026 notice announcing closure of the wideband business. Retain as a historical/integration benchmark, not an assumed current supply route.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "adaptronic",
+      "name": "Adaptronic",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "legacy",
+      "discussion_context": "Earlier ECU and fuel/spark-model comparison.",
+      "historical_sources": [
+        "H17",
+        "R02"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.haltech.com/adaptronic/",
+      "classification_sources": [
+        "https://www.haltech.com/adaptronic/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Haltech’s official notice states Adaptronic brand operations were wrapped up on 15 May 2022. Preserve as a legacy benchmark.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "racebox",
+      "name": "RaceBox",
+      "aliases": [
+        "RaceBox Mini",
+        "RaceBox Mini S",
+        "RaceBox Micro"
+      ],
+      "primary_list": "manufacturers",
+      "section": "gps",
+      "discussion_context": "GPS/acceleration measurement competitor and Street Hit data/reference hardware.",
+      "historical_sources": [
+        "H22",
+        "R09"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.racebox.pro/",
+      "classification_sources": [
+        "https://www.racebox.pro/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "dragy",
+      "name": "Dragy",
+      "aliases": [
+        "DRG70-C",
+        "Dragy Pro"
+      ],
+      "primary_list": "manufacturers",
+      "section": "gps",
+      "discussion_context": "GPS acceleration and interval-performance benchmark.",
+      "historical_sources": [
+        "H22"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.godragy.com/",
+      "classification_sources": [
+        "https://www.godragy.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "racelogic-vbox",
+      "name": "Racelogic / VBOX",
+      "aliases": [
+        "Racelogic",
+        "VBOX",
+        "PerformanceBox",
+        "PerformanceBox Touch"
+      ],
+      "primary_list": "manufacturers",
+      "section": "gps",
+      "discussion_context": "PerformanceBox and VBOX GPS measurement references.",
+      "historical_sources": [
+        "H22"
+      ],
+      "role": "Motorsport electronics developer / finished-product brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.vboxmotorsport.co.uk/",
+      "classification_sources": [
+        "https://www.vboxmotorsport.co.uk/downloads/manuals/RLPB_Manual-English.pdf"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "arp",
+      "name": "ARP",
+      "aliases": [
+        "Automotive Racing Products"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Rod-bolt stretch gauge comparison.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "fastener manufacturer and branded engine-assembly tool supplier",
+      "relationship": "product_benchmark",
+      "website": "https://arp-bolts.com/",
+      "classification_sources": [
+        "https://arp-bolts.com/manufacturing/overview"
+      ],
+      "verification_status": "verified_primary_manufacturer_and_branded_tool",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "katech",
+      "name": "Katech",
+      "aliases": [
+        "Whistler",
+        "KAT-A0250-G"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Whistler compression-ratio inspection instrument.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "manufacturer / product brand — engine components and inspection instruments",
+      "relationship": "product_benchmark",
+      "website": "https://katechengines.com/",
+      "classification_sources": [
+        "https://katechengines.com/i-30497781-katech-whistler-compression-ratio-tester.html"
+      ],
+      "verification_status": "verified_primary_official_product_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "digatron",
+      "name": "Digatron",
+      "aliases": [
+        "DigatronDirect",
+        "FT-64",
+        "DT-15"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "FT-64/DT-15 fuel-testing instruments.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "motorsport instrument product brand; factory-authorized direct sales channel",
+      "relationship": "product_benchmark",
+      "website": "https://digatrondirect.com/",
+      "classification_sources": [
+        "https://digatrondirect.com/manuals"
+      ],
+      "verification_status": "verified_primary_brand_and_authorized_channel_current_manufacturing_entity_unconfirmed",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "calibrated-performance",
+      "name": "Calibrated Performance",
+      "aliases": [
+        "LAM2"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "LAM2 lambda/EGT module reference.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "own product brand plus reseller / dealer and electronics integrator",
+      "relationship": "product_benchmark",
+      "website": "https://calibratedperformance.com.au/",
+      "classification_sources": [
+        "https://calibratedperformance.com.au/products/cp-lam2"
+      ],
+      "verification_status": "verified_primary_mixed_product_brand_and_dealer",
+      "qualification": "Own LAM2 product brand plus MoTeC/Bosch dealership. Current LAM2 page describes pre-orders; this register does not establish delivered stock.",
+      "also_listed_in": [
+        "resellers"
+      ],
+      "topics": []
+    },
+    {
+      "id": "powertrain-control-solutions",
+      "name": "Powertrain Control Solutions",
+      "aliases": [
+        "PCS",
+        "A-EGT2000"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Eight-channel EGT box.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "motorsport electronics product brand — eight-channel EGT module",
+      "relationship": "product_benchmark",
+      "website": "https://powertraincontrolsolutions.com/",
+      "classification_sources": [
+        "https://powertraincontrolsolutions.com/download/Released/Public/Manuals/8-Channel_EGT_Module_User_Guide.pdf"
+      ],
+      "verification_status": "verified_primary_identity_and_product",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "fuel-injection-enterprises",
+      "name": "Fuel Injection Enterprises",
+      "aliases": [
+        "FIE"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Magnetic pickup/crank-trigger test tool.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "ignition / fuel-system product brand and specialist manufacturer-supplier",
+      "relationship": "product_benchmark",
+      "website": "https://fuelinjectionent.com/",
+      "classification_sources": [
+        "https://fuelinjectionent.myshopify.com/products/ignition-trigger-tester"
+      ],
+      "verification_status": "verified_primary_identity_and_product_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "vibromera",
+      "name": "Vibromera",
+      "aliases": [
+        "Balanset-1A"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Balanset-1A balancing/vibration instrument.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "manufacturer / product brand — portable rotor balancing and vibration instruments",
+      "relationship": "product_benchmark",
+      "website": "https://vibromera.eu/",
+      "classification_sources": [
+        "https://vibromera.eu/product/balanset-1/"
+      ],
+      "verification_status": "verified_primary_manufacturer_and_product",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "dakota-digital",
+      "name": "Dakota Digital",
+      "aliases": [
+        "SGI-100BT"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "SGI-100BT signal-interface/instrumentation reference.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "manufacturer / product brand — electronic vehicle instrumentation",
+      "relationship": "product_benchmark",
+      "website": "https://www.dakotadigital.com/",
+      "classification_sources": [
+        "https://www.dakotadigital.com/"
+      ],
+      "verification_status": "verified_primary_manufacturer",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "redarc",
+      "name": "REDARC",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Vehicle gauges and monitoring reference.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "manufacturer / product brand — vehicle electronics; historical 52 mm gauge range",
+      "relationship": "product_benchmark",
+      "website": "https://www.redarcelectronics.com/",
+      "classification_sources": [
+        "https://www.redarcelectronics.com/us/about-us",
+        "https://www.redarcelectronics.com/us/discover/gauge-range-end-of-life-notification/"
+      ],
+      "verification_status": "verified_primary_manufacturer_relevant_gauge_range_discontinued",
+      "qualification": "Current electronics maker; the official notice discontinues the 52 mm gauge range from 28 January 2026. Only that product range is qualified.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "powerhouse",
+      "name": "Powerhouse",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Engine displacement tester and workshop-tool reference.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "Engine-building and measuring-tool brand represented in the official COMP Cams catalogue.",
+      "relationship": "product_benchmark",
+      "website": "https://www.compcams.com/products/engine-tools.html",
+      "classification_sources": [
+        "https://www.compcams.com/pro-head-cylinder-head-cc-kit-0-125cc.html"
+      ],
+      "verification_status": "verified-official-brand-historical-tester-current-status-unconfirmed",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "van-alstine",
+      "name": "Van Alstine",
+      "aliases": [
+        "V100"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "V100 tyre-groover comparison.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Manufacturer of tyre groovers, sipers and specialty cutting/marking equipment.",
+      "relationship": "product_benchmark",
+      "website": "https://w.vanalstinemfg.com/",
+      "classification_sources": [
+        "https://w.vanalstinemfg.com/"
+      ],
+      "verification_status": "verified-official-indexed-page",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "kinsler-fuel-injection",
+      "name": "Kinsler Fuel Injection",
+      "aliases": [
+        "Kinsler"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Uni-Syn/stack-airflow method discussed alongside throttle balancing.",
+      "historical_sources": [
+        "H21"
+      ],
+      "role": "Fuel-injection product brand and specialist supplier.",
+      "relationship": "product_benchmark",
+      "website": "https://kinsler.com/",
+      "classification_sources": [
+        "https://kinsler.com/Price_List_Kinsler_Fuel_Injection/HTML/88/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "An airflow-method/product-source reference; do not infer ownership of the Uni-Syn brand.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "penske-racing-shocks",
+      "name": "Penske Racing Shocks",
+      "aliases": [
+        "Penske"
+      ],
+      "primary_list": "manufacturers",
+      "section": "engine_tools",
+      "discussion_context": "Suspension/shock-test equipment market reference.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "Suspension product manufacturer/brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.penskeshocks.com/",
+      "classification_sources": [
+        "https://www.penskeshocks.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "roehrig-engineering",
+      "name": "Roehrig Engineering",
+      "aliases": [
+        "Roehrig"
+      ],
+      "primary_list": "manufacturers",
+      "section": "legacy",
+      "discussion_context": "Shock-dyno/test-equipment market reference.",
+      "historical_sources": [
+        "H03"
+      ],
+      "role": "Historical shock-testing equipment name.",
+      "relationship": "product_benchmark",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Current brand/operator and website not independently resolved in this review; retain the historical label.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "precision-measurement",
+      "name": "Precision Measurement",
+      "aliases": [
+        "Precision Measurement Supply Store"
+      ],
+      "primary_list": "manufacturers",
+      "section": "unresolved",
+      "discussion_context": "P&G-style engine cubic-inch tester.",
+      "historical_sources": [
+        "H16"
+      ],
+      "role": "engine-tool supplier / possible product brand — manufacturing role unresolved",
+      "relationship": "product_benchmark",
+      "website": "https://precisionmeasurementsupplystore.weebly.com/tools.html",
+      "classification_sources": [
+        "https://precisionmeasurementsupplystore.weebly.com/tools.html"
+      ],
+      "verification_status": "partial_primary_product_match_identity_and_manufacturer_role_unresolved",
+      "qualification": "Matching self-published product store found; exact legal entity and manufacturer-versus-supplier role remain unverified.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "m-w",
+      "name": "M&W",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "unresolved",
+      "discussion_context": "Tall/Rite Hite chassis setup-block reference.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical setup-block label; possible M&W Aluminum Products match, unconfirmed for these blocks.",
+      "relationship": "product_benchmark",
+      "website": null,
+      "classification_sources": [
+        "https://www.govinfo.gov/content/pkg/FR-2019-03-19/pdf/2019-05050.pdf"
+      ],
+      "verification_status": "partial-historical-manufacturer-verified-setup-block-attribution-unresolved",
+      "qualification": "M&W Aluminum Products is a possible historical match; the exact setup-block attribution is unresolved. Do not conflate with M&W Ignitions.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "kwik-change-products",
+      "name": "Kwik Change Products",
+      "aliases": [
+        "Kwik Change"
+      ],
+      "primary_list": "manufacturers",
+      "section": "unresolved",
+      "discussion_context": "Mechanical bleeder/pressure-control references.",
+      "historical_sources": [
+        "H12"
+      ],
+      "role": "Historically named bleeder product brand.",
+      "relationship": "product_benchmark",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Current official company identity and manufacturing scope were not established; third-party catalogues alone are not used to assert a factory relationship.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "tps-willy-willy",
+      "name": "TPS / Willy Willy",
+      "aliases": [
+        "TPS",
+        "Willy Willy"
+      ],
+      "primary_list": "manufacturers",
+      "section": "unresolved",
+      "discussion_context": "Legacy in-axle tyre-pressure pump system.",
+      "historical_sources": [
+        "H12"
+      ],
+      "role": "Historical system/product name; maker unresolved.",
+      "relationship": "product_benchmark",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "vtac-vmac",
+      "name": "VTAC / VMAC",
+      "aliases": [
+        "VTAC",
+        "VMAC"
+      ],
+      "primary_list": "manufacturers",
+      "section": "unresolved",
+      "discussion_context": "Older self-powered magneto tach reference.",
+      "historical_sources": [
+        "H07"
+      ],
+      "role": "Uncertain historical product/brand spelling; maker unresolved.",
+      "relationship": "product_benchmark",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "racing-optics",
+      "name": "Racing Optics",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Helmet tear-off brand and sourcing comparison.",
+      "historical_sources": [
+        "H08",
+        "H09"
+      ],
+      "role": "Manufacturer of laminated optical tear-offs and protective film systems for helmets, visors and windscreens.",
+      "relationship": "adjacent_product_or_fitment_reference",
+      "website": "https://www.racingoptics.com/",
+      "classification_sources": [
+        "https://www.racingoptics.com/about-us/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "bell-racing",
+      "name": "Bell Racing",
+      "aliases": [
+        "Bell"
+      ],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Helmet/visor tear-off fitment reference.",
+      "historical_sources": [
+        "H08",
+        "H09"
+      ],
+      "role": "Designer and manufacturer of auto-racing and karting helmets, with associated visor/tear-off accessories.",
+      "relationship": "adjacent_product_or_fitment_reference",
+      "website": "https://www.bellracing.com/",
+      "classification_sources": [
+        "https://www.us.bellracing.com/technology-innovation/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "simpson-race-products",
+      "name": "Simpson Race Products",
+      "aliases": [
+        "Simpson"
+      ],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Helmet/tear-off fitment and racewear/communications retail context.",
+      "historical_sources": [
+        "H08",
+        "H09"
+      ],
+      "role": "Designer and manufacturer of motorsport driver-safety products, including helmets and associated equipment.",
+      "relationship": "adjacent_product_or_fitment_reference",
+      "website": "https://www.simpsonraceproducts.com/",
+      "classification_sources": [
+        "https://www.simpsonraceproducts.com/about_us/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "tenopex-plastics-optima",
+      "name": "Tenopex Plastics / Optima+",
+      "aliases": [
+        "Tenopex",
+        "Optima+"
+      ],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Tear-off sourcing and OEM alternatives.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Optical materials and finished tear-off manufacturer/brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.tenopexplastics.com/",
+      "classification_sources": [
+        "https://www.tenopexplastics.com/optima-tearoffs"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "vampire-tear-offs",
+      "name": "Vampire Tear-Offs",
+      "aliases": [
+        "Vampire"
+      ],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Helmet tear-off alternative.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Finished optical tear-off product developer/manufacturer.",
+      "relationship": "product_benchmark",
+      "website": "https://vampiretearoffs.com/",
+      "classification_sources": [
+        "https://vampiretearoffs.com/about/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "fk-visors",
+      "name": "FK Visors",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Helmet visor/tear-off alternative.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Visor and tear-off manufacturer/brand.",
+      "relationship": "product_benchmark",
+      "website": "https://www.fkvisors.com/",
+      "classification_sources": [
+        "https://www.fkvisors.com/en/technologies/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "jaco",
+      "name": "JACO",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Finished tyre-gauge brand comparison during OEM research.",
+      "historical_sources": [
+        "H06"
+      ],
+      "role": "Own-brand tyre-gauge and inflation products.",
+      "relationship": "product_benchmark",
+      "website": "https://jacosuperiorproducts.com/",
+      "classification_sources": [
+        "https://jacosuperiorproducts.com/collections/tire-pressure-gauges"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "No supplier/OEM relationship to another named manufacturer is established.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "slime",
+      "name": "Slime",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Finished tyre-gauge brand reference.",
+      "historical_sources": [
+        "H06"
+      ],
+      "role": "Own-brand tyre-care/gauge products.",
+      "relationship": "product_benchmark",
+      "website": "https://slime.com/",
+      "classification_sources": [
+        "https://slime.com/collections/tire-gauges"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "tiretek",
+      "name": "TireTek",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products",
+      "discussion_context": "Finished tyre-gauge/inflator brand reference.",
+      "historical_sources": [
+        "H06"
+      ],
+      "role": "Own-brand tyre gauges and inflation products.",
+      "relationship": "product_benchmark",
+      "website": "https://tire-tek.com/",
+      "classification_sources": [
+        "https://tire-tek.com/pages/about-us"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "motamec",
+      "name": "Motamec",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products_pending",
+      "discussion_context": "Complete tyre gauge examined as a bleed-mechanism donor/reference.",
+      "historical_sources": [
+        "H23"
+      ],
+      "role": "Historically named finished-product brand/source; manufacturing scope unverified.",
+      "relationship": "adjacent_product_or_donor_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Kept as a historical product reference. A brand name or retailer listing does not establish an in-house manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "grandpaw",
+      "name": "GrandPaw",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products_pending",
+      "discussion_context": "Complete inflator examined as a bleed-mechanism donor/reference.",
+      "historical_sources": [
+        "H23"
+      ],
+      "role": "Historically named finished-product brand/source; manufacturing scope unverified.",
+      "relationship": "adjacent_product_or_donor_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Kept as a historical product reference. A brand name or retailer listing does not establish an in-house manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "blackridge",
+      "name": "Blackridge",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products_pending",
+      "discussion_context": "Complete pressure gauge examined as a bleed-mechanism donor/reference.",
+      "historical_sources": [
+        "H23"
+      ],
+      "role": "Historically named finished-product brand/source; manufacturing scope unverified.",
+      "relationship": "adjacent_product_or_donor_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Kept as a historical product reference. A brand name or retailer listing does not establish an in-house manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "speedvision",
+      "name": "Speedvision",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products_pending",
+      "discussion_context": "Helmet tear-off brand/source alternative.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historically named finished-product brand/source; manufacturing scope unverified.",
+      "relationship": "adjacent_product_or_donor_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Kept as a historical product reference. A brand name or retailer listing does not establish an in-house manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "clear-track",
+      "name": "Clear Track",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products_pending",
+      "discussion_context": "Helmet tear-off sourcing lead.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historically named finished-product brand/source; manufacturing scope unverified.",
+      "relationship": "adjacent_product_or_donor_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Kept as a historical product reference. A brand name or retailer listing does not establish an in-house manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "toledo",
+      "name": "Toledo",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "side_products_pending",
+      "discussion_context": "Oil-filter cutter/tool brand reference.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historically named finished-product brand/source; manufacturing scope unverified.",
+      "relationship": "adjacent_product_or_donor_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Kept as a historical product reference. A brand name or retailer listing does not establish an in-house manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "proflow",
+      "name": "Proflow",
+      "aliases": [
+        "Proflow Performance Products"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Cylinder heads and broader performance-parts range.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Automotive performance-product brand and direct supplier, associated with VPW",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.proflow.com.au/",
+      "classification_sources": [
+        "https://www.proflow.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Official company page identifies Proflow as a VPW Group company. Adjacent performance-parts reference.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "aeroflow",
+      "name": "Aeroflow",
+      "aliases": [
+        "Aeroflow Performance"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Cylinder heads, fittings and side-product references.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance-parts design/manufacturing brand with direct product catalogue; a Rocket Industries brand",
+      "relationship": "adjacent_market_reference",
+      "website": "https://aeroflowperformance.com/",
+      "classification_sources": [
+        "https://aeroflowperformance.com/about-us",
+        "https://aeroflowperformance.com/terms-and-conditions"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Official terms identify Aeroflow as a Rocket Industries brand. Adjacent performance-parts reference.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "air-flow-research",
+      "name": "Air Flow Research",
+      "aliases": [
+        "AFR"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Cylinder-head comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance cylinder-head manufacturer and product brand",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.airflowresearch.com/",
+      "classification_sources": [
+        "https://www.airflowresearch.com/about-us"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "edelbrock",
+      "name": "Edelbrock",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Cylinder-head comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance automotive parts designer, manufacturer and distributor",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.edelbrock.com/",
+      "classification_sources": [
+        "https://www.edelbrock.com/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "trick-flow",
+      "name": "Trick Flow",
+      "aliases": [
+        "Trick Flow Specialties"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Cylinder-head comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance engine-component brand and supplier",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.trickflow.com/",
+      "classification_sources": [
+        "https://www.trickflow.com/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "chi-heads",
+      "name": "CHI Heads",
+      "aliases": [
+        "CHI",
+        "Cylinder Head Innovations"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Cylinder-head comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Australian performance cylinder-head and intake-manifold manufacturer",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.chiheads.com.au/",
+      "classification_sources": [
+        "https://www.chiheads.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "yella-terra",
+      "name": "Yella Terra",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Cylinder-head/valvetrain market reference.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance engine-parts manufacturer and direct seller",
+      "relationship": "adjacent_market_reference",
+      "website": "https://store.yellaterra.com.au/",
+      "classification_sources": [
+        "https://store.yellaterra.com.au/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "crow-cams",
+      "name": "Crow Cams",
+      "aliases": [
+        "Crow"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Camshaft/performance-parts reference.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Camshaft and valvetrain product manufacturer/supplier",
+      "relationship": "adjacent_market_reference",
+      "website": "https://crowcams.com.au/",
+      "classification_sources": [
+        "https://crowcams.com.au/about-us"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "ross-racing-pistons",
+      "name": "Ross Racing Pistons",
+      "aliases": [
+        "Ross"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Piston brand comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Forged racing-piston manufacturer and direct supplier",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.rosspistons.com/",
+      "classification_sources": [
+        "https://www.rosspistons.com/about/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "racetec-autotec",
+      "name": "RaceTec / AutoTec",
+      "aliases": [
+        "RaceTec",
+        "AutoTec",
+        "RaceTec Pistons"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Piston brand/range comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Piston manufacturer with RaceTec and AutoTec product ranges",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.racetecpistons.com/",
+      "classification_sources": [
+        "https://www.racetecpistons.com/customer-support-faqs/cs12"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "AutoTec is grouped with the RaceTec product offering; the two historical names remain searchable.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "cp-carrillo",
+      "name": "CP-Carrillo",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Piston/rod brand comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Performance piston and connecting-rod manufacturer/supplier",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.cp-carrillo.com/",
+      "classification_sources": [
+        "https://www.cp-carrillo.com/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "arias",
+      "name": "Arias",
+      "aliases": [
+        "Arias Pistons"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Piston brand comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Piston product brand offered within CP-Carrillo",
+      "relationship": "adjacent_market_reference",
+      "website": "https://www.cp-carrillo.com/pt-3545-arias-pistons.html",
+      "classification_sources": [
+        "https://www.cp-carrillo.com/pt-3545-arias-pistons.html"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Historical piston brand; the current CP-Carrillo official site includes Arias in its product offering.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "uem-icon",
+      "name": "UEM / ICON",
+      "aliases": [
+        "UEM",
+        "ICON",
+        "United Engine & Machine"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Piston brand/range comparison.",
+      "historical_sources": [
+        "H15"
+      ],
+      "role": "Piston manufacturer; ICON is its forged-performance piston brand",
+      "relationship": "adjacent_market_reference",
+      "website": "https://uempistons.com/",
+      "classification_sources": [
+        "https://uempistons.com/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "ICON is a United Engine & Machine piston brand; grouped as one historical brand/maker relationship.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "dmi",
+      "name": "DMI",
+      "aliases": [
+        "Diversified Machine Inc."
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Sprintcar driveline product reference.",
+      "historical_sources": [
+        "H04"
+      ],
+      "role": "Racing drivetrain and chassis-component manufacturer",
+      "relationship": "adjacent_market_reference",
+      "website": "https://diversifiedracing.com/",
+      "classification_sources": [
+        "https://diversifiedracing.com/about-us/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "winters",
+      "name": "Winters",
+      "aliases": [
+        "Winters Performance Products"
+      ],
+      "primary_list": "manufacturers",
+      "section": "adjacent_engine_parts",
+      "discussion_context": "Sprintcar driveline product reference.",
+      "historical_sources": [
+        "H04"
+      ],
+      "role": "Quick-change rear-end, transmission and driveline-component manufacturer",
+      "relationship": "adjacent_market_reference",
+      "website": "https://wintersperformance.com/",
+      "classification_sources": [
+        "https://wintersperformance.com/"
+      ],
+      "verification_status": "verified_official",
+      "qualification": "Older/adjacent performance-parts context; no direct overlap with the current SkidLabz electronics range is implied.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "efi-analytics-megalogviewer",
+      "name": "EFI Analytics / MegaLogViewer",
+      "aliases": [
+        "EFI Analytics",
+        "MegaLogViewer"
+      ],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "VE-analysis confidence and fuel-map/logging workflow.",
+      "historical_sources": [
+        "H17",
+        "R05"
+      ],
+      "role": "Software developer and automotive data-log analysis product family for engine-tuning work.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.efianalytics.com/MegaLogViewer/",
+      "classification_sources": [
+        "https://www.efianalytics.com/MegaLogViewerHD/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Software/reference product, not a physical equipment manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "tunerpro",
+      "name": "TunerPro",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "ROM editor/calibration-interface benchmark.",
+      "historical_sources": [
+        "H17",
+        "R06"
+      ],
+      "role": "Automotive calibration-editing software project; TunerPro RT adds supported real-time acquisition and hardware-interfacing functions.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.tunerpro.net/",
+      "classification_sources": [
+        "https://www.tunerpro.net/WebHelp/source/tunerprooverview.htm"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Software/reference product, not a physical equipment manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "winlog",
+      "name": "WinLog",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Automotive log-file format and analysis integration.",
+      "historical_sources": [
+        "H13",
+        "R12"
+      ],
+      "role": "Historical automotive display/data-logging software by Justin Luton, linked with Tech Edge wideband logging and other automotive data sources.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.devtechnics.com/winlog.htm",
+      "classification_sources": [
+        "https://wbo2.com/sw/log.htm"
+      ],
+      "verification_status": "verified-historical-product-identity-current-site-unavailable",
+      "qualification": "Automotive WinLog/DevTechnics reference identified through official Tech Edge and Zeitronix documentation. Current publisher-site availability unverified; unrelated Windows/industrial products are excluded.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "race-monitor",
+      "name": "Race Monitor",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Live/lap-data and timing-integration reference.",
+      "historical_sources": [
+        "H14",
+        "H17"
+      ],
+      "role": "Live race-timing application and service for racers and spectators, including feeds using the RMonitor protocol.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.race-monitor.com/",
+      "classification_sources": [
+        "https://www.race-monitor.com/Home/Tracks"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Software/reference product, not a physical equipment manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "myracepass",
+      "name": "MyRacePass",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Race-team/meeting software market reference.",
+      "historical_sources": [
+        "H17"
+      ],
+      "role": "Motorsport software/service platform providing race-management tools and a driver/fan app for event information, results and live timing.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.myracepass.com/",
+      "classification_sources": [
+        "https://support.myracepass.com/hc/en-us/articles/115002422987-Race-Management-Overview"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Software/reference product, not a physical equipment manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "wallace-racing",
+      "name": "Wallace Racing",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Motorsport calculator/reference-site benchmark.",
+      "historical_sources": [
+        "H17"
+      ],
+      "role": "Publisher of automotive and motorsport web calculators and technical reference tools.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.wallaceracing.com/Calculators.htm",
+      "classification_sources": [
+        "https://www.wallaceracing.com/calculators-race.htm"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Software/reference product, not a physical equipment manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "einstein-motors",
+      "name": "Einstein Motors",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Motorsport calculator/reference-site benchmark.",
+      "historical_sources": [
+        "H17"
+      ],
+      "role": "Engine-science educational website and developer/publisher of engine-design calculators.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.einsteinmotors.com.au/calculators",
+      "classification_sources": [
+        "https://www.einsteinmotors.com.au/calculators"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Software/reference product, not a physical equipment manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "pitlogic",
+      "name": "PitLogic",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Race-team logbook/setup app reference.",
+      "historical_sources": [
+        "H17"
+      ],
+      "role": "Race-team management software for setup records, notes, inventory, maintenance and related racing calculations.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.pitlogic.com/",
+      "classification_sources": [
+        "https://www.pitlogic.com/about"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Software/reference product, not a physical equipment manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "omni-calculator",
+      "name": "Omni Calculator",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "General calculator-product/reference benchmark.",
+      "historical_sources": [
+        "H17"
+      ],
+      "role": "Developer/publisher of a general-purpose online calculator platform and associated applications.",
+      "relationship": "software_or_reference_product",
+      "website": "https://www.omnicalculator.com/",
+      "classification_sources": [
+        "https://www.omnicalculator.com/about-us"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Software/reference product, not a physical equipment manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "perfexpert",
+      "name": "PerfExpert",
+      "aliases": [
+        "Performance Expert"
+      ],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Mobile dyno and run-analysis comparison.",
+      "historical_sources": [
+        "H22"
+      ],
+      "role": "Software developer/product brand; not a physical manufacturer.",
+      "relationship": "product_benchmark",
+      "website": "https://www.perfexpert-app.com/",
+      "classification_sources": [
+        "https://www.perfexpert-app.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "racechrono",
+      "name": "RaceChrono",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Motorsport lap/data-analysis software comparison.",
+      "historical_sources": [
+        "H22"
+      ],
+      "role": "Software developer/product brand; not a physical manufacturer.",
+      "relationship": "product_benchmark",
+      "website": "https://racechrono.com/",
+      "classification_sources": [
+        "https://racechrono.com/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "pushlapp",
+      "name": "Pushlapp",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "Track-session/lap-analysis app reference.",
+      "historical_sources": [
+        "H22"
+      ],
+      "role": "Software developer/product brand; not a physical manufacturer.",
+      "relationship": "product_benchmark",
+      "website": "https://pushlapp.com/en/",
+      "classification_sources": [
+        "https://pushlapp.com/en/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "ecuplex-dyno",
+      "name": "ECUPlex Dyno",
+      "aliases": [
+        "ECUPlex"
+      ],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "GPS road-dyno software reference.",
+      "historical_sources": [
+        "H22"
+      ],
+      "role": "Software developer/product brand; not a physical manufacturer.",
+      "relationship": "product_benchmark",
+      "website": "https://ecuplex.com/dyno",
+      "classification_sources": [
+        "https://ecuplex.com/dyno"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "gpsdyno-pro",
+      "name": "GPSdyno PRO",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "GPS road-dyno software reference.",
+      "historical_sources": [
+        "H22"
+      ],
+      "role": "Software developer/product brand; not a physical manufacturer.",
+      "relationship": "product_benchmark",
+      "website": "https://gpsdyno.com/en/",
+      "classification_sources": [
+        "https://gpsdyno.com/en/"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "powertora",
+      "name": "Powertora",
+      "aliases": [
+        "powerta"
+      ],
+      "primary_list": "manufacturers",
+      "section": "software",
+      "discussion_context": "GPS road-dyno, coast-down and repeated-run comparison.",
+      "historical_sources": [
+        "H22"
+      ],
+      "role": "Historically discussed dyno software/app brand.",
+      "relationship": "product_benchmark",
+      "website": "https://play.google.com/store/apps/details?hl=en&id=app.powertora",
+      "classification_sources": [
+        "https://play.google.com/store/apps/details?hl=en&id=app.powertora"
+      ],
+      "verification_status": "verified_primary_product_or_brand",
+      "qualification": "Developer-published app listing verified; the standalone site could not be opened during this review. Software, not a physical manufacturer.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "ningbo-godeson",
+      "name": "Ningbo Godeson",
+      "aliases": [
+        "Godeson",
+        "DGH01-A40R2"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Complete tyre-gauge OEM candidate.",
+      "historical_sources": [
+        "H06"
+      ],
+      "role": "Designer and manufacturer of tyre-pressure gauges and automotive tyre tools, offering OEM/private-label supply.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": "https://www.godesontools.com/",
+      "classification_sources": [
+        "https://www.godesontools.com/"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "yuyao-shanfu",
+      "name": "Yuyao Shanfu",
+      "aliases": [
+        "Shanfu"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Complete tyre-gauge OEM candidate.",
+      "historical_sources": [
+        "H06"
+      ],
+      "role": "Manufacturer of tyre-pressure gauges, inflator guns and tyre-pressure monitoring products.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": "https://www.sfutools.com/",
+      "classification_sources": [
+        "https://www.sfutools.com/about"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "zhongshan-safeway",
+      "name": "Zhongshan Safeway",
+      "aliases": [
+        "Safeway",
+        "SINOTEK (historical gauge alias)"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Digital tyre-gauge/inflator OEM candidate.",
+      "historical_sources": [
+        "H06"
+      ],
+      "role": "Developer and manufacturer of digital pressure gauges and tyre-inflation products.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": "https://www.safewaytech.cn/",
+      "classification_sources": [
+        "https://www.safewaytech.cn/"
+      ],
+      "verification_status": "verified-official-company-sinotek-alias-partially-verified",
+      "qualification": "Official digital-gauge/inflator supplier verified. The historical SINOTEK gauge alias is only partly resolved; do not merge it with the separate SINOTEK/Promata TPMS business. No approved supplier relationship is established.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "runleader",
+      "name": "Runleader",
+      "aliases": [
+        "Run Leader",
+        "Ningbo Jiangbei Run Leader Electronics"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Self-powered tach/hour-meter OEM candidate.",
+      "historical_sources": [
+        "H07"
+      ],
+      "role": "Developer and manufacturer of hour meters, tachometers, battery indicators, electronic gauges and controllers, including customized OEM/ODM products.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": "https://www.runleader.com/",
+      "classification_sources": [
+        "https://runleader.com/index.php/about.html?mid=1"
+      ],
+      "verification_status": "verified-official",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "searon-technology",
+      "name": "Searon Technology",
+      "aliases": [
+        "Searon",
+        "SRL-012"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "SRL-012 tach/hour-meter OEM candidate.",
+      "historical_sources": [
+        "H07"
+      ],
+      "role": "Historically referenced tachometer/hour-meter brand; current official manufacturer identity remains unresolved.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "unresolved-official-source",
+      "qualification": "Historical SRL-012 tach candidate; official company/product identity remains unresolved.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "yunyi",
+      "name": "Yunyi",
+      "aliases": [
+        "YK100b"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "YK100b complete tyre-gauge candidate.",
+      "historical_sources": [
+        "H06",
+        "R14"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "saintbond",
+      "name": "Saintbond",
+      "aliases": [
+        "SAINTBOND",
+        "Ningbo Saintbond"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Race scales/pads OEM candidate.",
+      "historical_sources": [
+        "H07",
+        "H24"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "brans",
+      "name": "Brans",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Race-scale/pad sourcing candidate.",
+      "historical_sources": [
+        "H24"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "ningbo-goldshine",
+      "name": "Ningbo Goldshine",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Race-scale/pad sourcing candidate.",
+      "historical_sources": [
+        "H07"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "xiamen-kuanyi",
+      "name": "Xiamen Kuanyi",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Race-scale/pad sourcing candidate.",
+      "historical_sources": [
+        "H07"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "lucky-star",
+      "name": "Lucky Star",
+      "aliases": [
+        "Fuzhou Lucky Star"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Race-scale/pad sourcing candidate.",
+      "historical_sources": [
+        "H24"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "kingztape",
+      "name": "Kingztape",
+      "aliases": [
+        "Shenzhen Jingzhi Packaging Products"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Helmet tear-off OEM/branding candidate.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "forlong",
+      "name": "Forlong",
+      "aliases": [
+        "Xi’an Forlong"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Tyre circumference/stagger tape candidate.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "wintape",
+      "name": "Wintape",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Tyre/stagger or workshop tape source.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "luxxwares",
+      "name": "Luxxwares",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Fractional workshop-tape source.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "perfect-measuring",
+      "name": "Perfect Measuring",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Fraction-marked tape/case-branding candidate.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "tianjin-lion",
+      "name": "Tianjin Lion",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Imperial/fraction tape candidate.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "vook",
+      "name": "VOOK",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Fraction-marked workshop-tape candidate.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "foshan-crs",
+      "name": "Foshan CRS",
+      "aliases": [
+        "CRS"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Adjustable chassis setup-block source.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "shenzhen-casdony",
+      "name": "Shenzhen Casdony",
+      "aliases": [
+        "Casdony"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Oil-filter cutter source.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "epman-ruian-ep",
+      "name": "EPMAN / Ruian EP",
+      "aliases": [
+        "EPMAN",
+        "Ruian EP"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "AN spanner/private-label tool source.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "durowelder-bai-ott-duropower",
+      "name": "DuroWelder / BAI-OTT / DuroPower",
+      "aliases": [
+        "DuroWelder",
+        "BAI-OTT",
+        "DuroPower"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Tyre-groover sourcing names.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "shenzhen-dongtai-sponge",
+      "name": "Shenzhen Dongtai Sponge",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Mechanic mat sourcing lead.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "etopoo-shenzhen-ruiqi",
+      "name": "ETOPOO / Shenzhen Ruiqi",
+      "aliases": [
+        "ETOPOO",
+        "Shenzhen Ruiqi"
+      ],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Digital angle-meter source.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "shenzhen-qiansheng",
+      "name": "Shenzhen Qiansheng",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "oem_leads",
+      "discussion_context": "Safety-wire plier sourcing lead.",
+      "historical_sources": [
+        "H09"
+      ],
+      "role": "Historical reference; exact maker/seller identity or role needs verification.",
+      "relationship": "historical_oem_or_sourcing_lead",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Historical lead only: supplier selection, manufacturing scope, product quality and suitability are not established by inclusion. Grouped historical labels are not proof of common legal ownership.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "banks-power",
+      "name": "Banks Power",
+      "aliases": [
+        "BanksPower"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "garrett-motion",
+      "name": "Garrett Motion",
+      "aliases": [
+        "GarrettMotion"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "stanton-racing-engines",
+      "name": "Stanton Racing Engines",
+      "aliases": [
+        "StantonEngines"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "melling-select",
+      "name": "Melling Select",
+      "aliases": [
+        "MellingSelect"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "gaugeguru",
+      "name": "GaugeGuru",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "doctorturbojoe",
+      "name": "DoctorTurboJoe",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "tohaucrank",
+      "name": "TohauCrank",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "roserageturbos",
+      "name": "RoseRageTurbos",
+      "aliases": [],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "s-w-race-cars",
+      "name": "S&W Race Cars",
+      "aliases": [
+        "SWRACECARS"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "hellion-turbo",
+      "name": "Hellion Turbo",
+      "aliases": [
+        "HELLIONTURBO"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "turbokits-com",
+      "name": "TurboKits.com",
+      "aliases": [
+        "TurboKitsdotcom"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "pac-performance",
+      "name": "Pac Performance",
+      "aliases": [
+        "Pacperformance"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "dandy-engines",
+      "name": "Dandy Engines",
+      "aliases": [
+        "dandyengines"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    },
+    {
+      "id": "cfm-racing",
+      "name": "CFM Racing",
+      "aliases": [
+        "CFMRACING"
+      ],
+      "primary_list": "manufacturers",
+      "section": "early_business_references",
+      "discussion_context": "Business/brand account named in early SkidLabz performance-market research.",
+      "historical_sources": [
+        "H18"
+      ],
+      "role": "Historical business/brand reference; exact identity and manufacturer/reseller role not verified.",
+      "relationship": "early_marketing_reference",
+      "website": null,
+      "classification_sources": [],
+      "verification_status": "historical_mention_only",
+      "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
+      "also_listed_in": [],
+      "topics": []
+    }
+  ],
+  "exclusions": [
+    {
+      "group": "Component and fabrication suppliers",
+      "note": "Semiconductor, connector, display, valve-only, PCB, enclosure and machining vendors are outside these competitor lists unless a relevant finished-product brand was actually compared. Examples from the recovered material include Bosch sensors, NiceRF modules, Switchcraft, C&K, Waveshare, Nextion, Amflo/Interstate valve leads and generic fabrication vendors. Inclusion in a BOM is not a competitor finding."
+    },
+    {
+      "group": "Protocols and open-source reference projects",
+      "note": "RMonitor is not a company. Speeduino, rusEFI, SLC-Free/TinyWB, OWBC, oelprinz BL49, mck1117, hbarylskyi LSU4.9 ESP32 and Tuner-DAQ-Box are engineering/project references, not established manufacturer businesses in this review."
+    },
+    {
+      "group": "Marketplaces",
+      "note": "AliExpress, Alibaba and generic marketplace listings were sourcing channels, not identified manufacturers. Kogan is retained as a named retail/marketplace business because it was a specific tool source."
+    },
+    {
+      "group": "Teams, media, events and individuals",
+      "note": "Motorsport personalities, media accounts, race teams, events and governing bodies were not reclassified as product competitors. Examples include MotiveDVD, Premiair Racing, Summernats and Speedcars Australia."
+    },
+    {
+      "group": "Unadopted product names and unproven relationships",
+      "note": "SkidLabz naming suggestions are not existing competitors. Possible OEM/private-label relationships, including a suspected factory behind a named brand, are not asserted without evidence."
+    }
+  ],
+  "unclassified_mentions": [
+    {
+      "names": [
+        "Tune Works Newcastle",
+        "DNK TuneWorks",
+        "ECU-Forge"
+      ],
+      "context": "2 August naming/brand discussion; external-business identity is ambiguous among proposed project names.",
+      "historical_sources": [
+        "H27"
+      ]
+    },
+    {
+      "names": [
+        "PitCrewRacing",
+        "Klein Electronics"
+      ],
+      "context": "5 November receiver-lineage investigation; no OEM or brand relationship is established. Rugged Radios remains the verified Nitro Bee brand.",
+      "historical_sources": [
+        "H27"
+      ]
+    },
+    {
+      "names": [
+        "BKTI Components"
+      ],
+      "context": "20 October website/branding reference; product competition and exact business role were not established.",
+      "historical_sources": [
+        "H27"
+      ]
+    }
+  ]
+}

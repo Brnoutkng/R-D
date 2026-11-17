@@ -14,6 +14,8 @@ A shared record of the ideas we have discussed, where each one reached, and why 
 | Which ideas were only research suggestions? | [Unadopted research suggestions](RESEARCH_SUGGESTIONS.md) |
 | Where did a status or decision come from? | [Sources and repository coverage](SOURCES.md) |
 | Which older statements were corrected or superseded? | [Reconciliation notes](RECONCILIATION.md) |
+| Which resellers and race shops have we already discussed? | [Resellers and distributors](competitors/RESELLERS.md) |
+| Which manufacturers and product brands have we already discussed? | [Manufacturers and product brands](competitors/MANUFACTURERS.md) |
 | How do we add an idea without losing its history? | [Idea template](templates/IDEA_TEMPLATE.md) |
 
 ## What is in this register
@@ -25,6 +27,12 @@ The [main register](REGISTER.md) contains **68 records** with their current or r
 Those 116 entries include commercial product ideas, internal workshop and race tools, companion software, variants, accessories, resale opportunities, historical projects and suggestions that were never adopted. They are **not 116 active products**.
 
 The review includes the material that could be recovered. It is not a complete export of every past chat, deleted branch or private discussion. Missing dates and uncertain decisions remain explicit.
+
+## Competitor and market-reference lists
+
+The [competitor register](competitors/README.md) keeps the recovered business names in two places: **[resellers/distributors](competitors/RESELLERS.md)** and **[manufacturers/product brands](competitors/MANUFACTURERS.md)**. Each record gives the discussion context, aliases, role evidence and qualifications. Businesses with both roles are cross-listed from one underlying record.
+
+The initial recovery contains **207 business, brand and historical reference records**. These include software, adjacent markets, OEM sourcing leads and unresolved older names in clearly labelled sections; they are not 207 verified competing companies. [Competitor sources and name corrections](competitors/SOURCES.md) preserve the evidence, including Tel-Tac/OTP, Rugged Radios/Nitro Bee and parent-brand relationships.
 
 ## Read status and stage together
 
