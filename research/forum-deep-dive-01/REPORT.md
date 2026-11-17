@@ -4,6 +4,8 @@
 
 **Research date:** 17 November 2026 · **Forums:** HoseHeads, KartPulse, Grassroots Motorsports (GRM), Speed-Talk
 
+**Follow-up review:** Read [REVIEW.md](REVIEW.md) with this report. It records a verified warning-kit price correction, qualifications to the labour and payback model, and the remaining torsion-validation limits. The original research below is retained; its US$16 price floor and unqualified interpretation of the model should not be relied on.
+
 This is a research finding. It approves no product, changes no register status, and authorises no purchase, supplier contact or engineering. Every candidate below stays a research finding unless an existing record already gives it another status.
 
 **Register state.** While this research was running, the owner recorded new direction on main (17 November 2026): a commercial screening filter, his tyre-gauge motivation and price target, and several deprioritisations. This report has been reconciled with those records, and the statuses it quotes are as they stand after that update.
