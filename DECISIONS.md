@@ -47,6 +47,7 @@ Check the reason and reopening condition before repeating a search. A rejected c
 | [RD-057 — Aluminium AN spanner set](ideas/an-spanners.md) | Paused — cost | Observed supplier pricing left too little margin against the retail benchmark. | A materially cheaper equivalent-quality complete set and delivered quote. |
 | [RD-059 — Folding mechanic / track mat](ideas/mechanic-mat.md) | Paused — cost | Bulky shipping and minimum quantities make a low-volume add-on difficult. | A manageable stock order with credible landed economics. |
 | [RD-068 — RaceOS-to-logger telemetry bridge](ideas/telemetry-bridge.md) | Paused — validation | Basic experiments exist, but the complete candidate was expressly not burn-approved or run in an ECU in its source record. | A selected telemetry baseline and reviewed physical complete-system validation. |
+| [RD-118 — Chassis noise finder](ideas/chassis-noise-finder.md) | Dropped — scope/owner decision | Steven rejected this suggestion as an occasional workshop-use tool rather than a core, frequently needed race-day product. He is seeking recurring essential electronics useful across motorsport disciplines. | Explicit owner reconsideration based on a materially different recurring race-day use case; no further investigation is currently requested. |
 
 ## Implementation and scope decisions
 

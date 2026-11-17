@@ -662,3 +662,11 @@ Steven cited existing logging in aftermarket ECU and factory tuning ecosystems, 
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Steven described rapid tyre cooling after leaving the track, wet track/water, reported logging prohibitions in his classes, and live external sensing complexity. These reinforce his existing Speedway rejection, do not establish universal class rules, and do not reopen the idea.
+
+### C-NOV17-NOISE
+
+**Owner declines chassis noise finder suggestion**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven rejected a chassis noise finder suggestion as occasional workshop equipment rather than a core recurring race-day need. He seeks recurring essential electronics across disciplines. This is not a global rejection of workshop tools, nor evidence the suggestion was previously a registered product.

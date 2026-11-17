@@ -2,7 +2,7 @@
 
 **Register review: 17 November 2026 — Australia/Melbourne**
 
-The catalogue contains **117 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **69 records**; another **48 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
+The catalogue contains **118 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **70 records**; another **48 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
 
 ## Main projects and tools
 
@@ -65,6 +65,7 @@ Update the underlying JSON records, preserve existing IDs and decision history, 
 Competitor records use `data/competitors.json` and `data/competitor_sources.json`; regenerate their two lists and evidence pages with `python scripts/render_competitors.py`.
 
 Technical community records use `data/forums.json`; regenerate the directory with `python scripts/render_forums.py`. Maintain `forums/RESEARCH_NOTES.md` as the separate, sourced interpretation.
+
 
 
 

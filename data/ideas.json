@@ -3658,6 +3658,42 @@
       ],
       "id": "RD-117",
       "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "RD-118",
+      "slug": "chassis-noise-finder",
+      "name": "Chassis noise finder",
+      "aliases": [
+        "Chassis ears"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-scope",
+      "stage": "Assistant suggestion discussed and declined; no development established",
+      "summary": "A chassis noise-finding diagnostic tool suggested during product brainstorming.",
+      "reason": "Steven rejected this suggestion as an occasional workshop-use tool rather than a core, frequently needed race-day product. He is seeking recurring essential electronics useful across motorsport disciplines.",
+      "repo": null,
+      "repo_state": "New decision record only; no prior registered product or dedicated development repository established.",
+      "evidence_date": "2026-11-17",
+      "basis": "Direct owner response to assistant suggestion",
+      "confidence": "high for decision; no market validation claimed",
+      "next_step": "Retain the rejection and do not repeat this suggestion as a current candidate.",
+      "reopen_trigger": "Explicit owner reconsideration based on a materially different recurring race-day use case; no further investigation is currently requested.",
+      "boundaries": [
+        "This was a newly discussed suggestion, not a previously approved or developed SkidLabz product.",
+        "The rejection is specific to this suggested use case; it does not reject all workshop tools.",
+        "Preference is for recurring essential electronics across disciplines, not merely technically feasible gadgets."
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner declined the chassis noise finder suggestion because its occasional workshop use does not fit the desired frequent race-day need."
+        }
+      ],
+      "source_ids": [
+        "C-NOV17-NOISE"
+      ],
+      "reviewed_on": "2026-11-17"
     }
   ]
 }
