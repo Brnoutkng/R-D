@@ -638,3 +638,11 @@ Steven clarified that KnockMeter is not principally blocked by electronics compl
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Personal experience with an approximately 15–16-year-old Intercomp developing cold/damp zero drift, dissatisfaction with a roughly A$250 Longacre, and recalled Intercomp replacement price of A$960–980. Owner wants real accuracy and repeatability near or below A$250. Not a controlled benchmark, verified current price, measured component cost or validated product solution.
+
+### C-NOV17-SSR-PRIORITY
+
+**Owner decision: plug-in SSR later add-on, not current priority**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven explicitly deprioritized the plug-in SSR because of Chinese competition and perceived viability, while retaining it as a possible later add-on. Focus remains mainstream tech dashes, gauges, tools and pit equipment. This records owner judgment, not an independently measured market verdict.

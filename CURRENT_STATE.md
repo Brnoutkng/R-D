@@ -21,7 +21,7 @@ The catalogue contains **117 entries** and **45 detailed approach decisions**, a
 
 ## Latest owner direction
 
-Mainstream commercial demand takes priority over technical progress alone. The [pit helmet warmer](ideas/pit-helmet-warmer.md) is a new user-proposed research candidate for cool-weather visor fogging, not an approved build. Alternatives, demand, heat/material safety, effectiveness and complete-product economics remain unverified.
+Mainstream commercial demand takes priority over technical progress alone. The owner prioritizes tech dashes, gauges, tools and pit equipment. The [plug-in SSR](ideas/plug-in-ssr.md) is explicitly deprioritized for now because of competition and perceived viability, retained only as a possible later add-on. The [pit helmet warmer](ideas/pit-helmet-warmer.md) is a new user-proposed research candidate for cool-weather visor fogging, not an approved build. Alternatives, demand, heat/material safety, effectiveness and complete-product economics remain unverified.
 
 ## Other decisions that must not be lost
 
@@ -63,4 +63,5 @@ Update the underlying JSON records, preserve existing IDs and decision history, 
 Competitor records use `data/competitors.json` and `data/competitor_sources.json`; regenerate their two lists and evidence pages with `python scripts/render_competitors.py`.
 
 Technical community records use `data/forums.json`; regenerate the directory with `python scripts/render_forums.py`. Maintain `forums/RESEARCH_NOTES.md` as the separate, sourced interpretation.
+
 
