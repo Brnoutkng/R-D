@@ -1563,23 +1563,31 @@
       "status": "mixed-scope",
       "stage": "Dirt-market use rejected; broader capture idea remains unapproved research",
       "summary": "Rapid probe-temperature recording and memory for solo tyre checks, potentially for circuit/kart users.",
-      "reason": "Owner rejected the usefulness of tyre pyrometry for the initial dirt-racing market. A newer quick-capture proposal is only evidenced in a secondary recap.",
+      "reason": "Owner rejected the usefulness of tyre pyrometry for his initial Speedway/dirt-racing context: tyres cool rapidly after exiting, wet track/water can affect the measurement, and he reports logging is prohibited in his classes. Live external sensing would add complexity. A newer broader quick-capture proposal remains unapproved research, evidenced in a secondary recap.",
       "repo": null,
       "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
       "evidence_date": "2026-11-17",
-      "basis": "Recovered owner discussion",
+      "basis": "Recovered discussion plus direct owner explanation of Speedway rejection",
       "confidence": "medium",
       "next_step": "Retain the existing decision; no new development action is implied by this register.",
       "reopen_trigger": "A distinct circuit/kart customer need and specific capture advantage, with actual owner adoption.",
       "boundaries": [
         "Do not describe the newer suggestion as an active development project.",
-        "Infrared surface temperature and probe tyre readings are different use cases."
+        "Infrared surface temperature and probe tyre readings are different use cases.",
+        "Logging restrictions are owner-reported for his classes, not a verified universal Speedway rule. Do not generalize to all classes or disciplines.",
+        "The latest explanation reinforces the existing Speedway rejection; it does not reopen the pyrometer or authorize live sensing."
       ],
-      "history": [],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner clarified the Speedway rejection: rapid tyre cooling after exit, often wet track/water, logging prohibited in his classes as he reports, and complexity of live external sensing. Class-specific reasoning, not a universal motorsport judgment."
+        }
+      ],
       "source_ids": [
         "C-SEP14",
         "C-OCT02",
-        "C-NOV17-RECAP"
+        "C-NOV17-RECAP",
+        "C-NOV17-PYROMETER"
       ],
       "id": "RD-046",
       "reviewed_on": "2026-11-17"

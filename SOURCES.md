@@ -654,3 +654,11 @@ Steven explicitly deprioritized the plug-in SSR because of Chinese competition a
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Steven cited existing logging in aftermarket ECU and factory tuning ecosystems, including PCMTEC on a BA Falcon as an example. He views the remaining older-carburetted niche as smaller/shrinking. This is a commercial-priority judgment, not quantified market research or a rejection of all logging. Personal relationship details are not needed in this public catalogue.
+
+### C-NOV17-PYROMETER
+
+**Owner's Speedway pyrometer rejection rationale**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven described rapid tyre cooling after leaving the track, wet track/water, reported logging prohibitions in his classes, and live external sensing complexity. These reinforce his existing Speedway rejection, do not establish universal class rules, and do not reopen the idea.
