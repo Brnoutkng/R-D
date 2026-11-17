@@ -23,7 +23,7 @@ The catalogue contains **120 entries** and **45 detailed approach decisions**, a
 
 Mainstream commercial demand takes priority over technical progress alone. The owner prioritizes tech dashes, gauges, tools and pit equipment. The [plug-in SSR](ideas/plug-in-ssr.md) is explicitly deprioritized for now because of competition and perceived viability, retained only as a possible later add-on. The [pit helmet warmer](ideas/pit-helmet-warmer.md) is a new user-proposed research candidate for cool-weather visor fogging, not an approved build. Alternatives, demand, heat/material safety, effectiveness and complete-product economics remain unverified.
 
-## Other decisions that must not be lost
+## Commercial screening filter\n\nThe owner's clarified filter is **reachable demand**, not a requirement for a mass market: a niche is acceptable when buyers strongly want the product and existing choices are expensive, unreliable or unavailable. Prioritize a credible advantage and access to those customers. This clarifies, rather than globally reverses, the individual product decisions below.\n\nTarget **at least 100% markup on complete COGS**: net selling revenue of twice complete COGS gives **50% gross margin before other costs**. This is not 100% margin or net profit. Count the complete saleable product, not just its electronics; selling fees, development, overheads and other costs still need allowance. No product's margin is established merely by recording this target.\n\nRevMax's supporting evidence includes the owner's informal pit observations and some expressions of willingness to buy around $400, not a representative survey or confirmed orders. Complete scales remain blocked by pad economics.\n\n## Other decisions that must not be lost
 
 - **[Digital race dash](ideas/digital-race-dash.md):** paused at display sourcing; do not skip ahead to PCB or enclosure design.
 - **[Electronic tyre bleeders](ideas/electronic-bleeders.md):** mechanical, valve and cost feasibility remains open; no validated prototype is established.
@@ -65,6 +65,7 @@ Update the underlying JSON records, preserve existing IDs and decision history, 
 Competitor records use `data/competitors.json` and `data/competitor_sources.json`; regenerate their two lists and evidence pages with `python scripts/render_competitors.py`.
 
 Technical community records use `data/forums.json`; regenerate the directory with `python scripts/render_forums.py`. Maintain `forums/RESEARCH_NOTES.md` as the separate, sourced interpretation.
+
 
 
 

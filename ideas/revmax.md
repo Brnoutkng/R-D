@@ -39,6 +39,7 @@ Rev-Max, RecallTach, RPM recall tach
 - Simple RPM and maximum recall; no app, wireless, logging or dash expansion in V1.
 - An upload-ready package does not establish that production boards were ordered.
 - Production connector selection is settled; actual mating and assembled fit still require verification.
+- Informal pit feedback is useful demand evidence but does not establish market size, conversion rate or a finalized retail price.
 
 ## Decision history
 
@@ -48,6 +49,7 @@ Rev-Max, RecallTach, RPM recall tach
 | 2026-11-11 | Production connector route selected and board changes recorded; earlier undecided state superseded. |
 | 2026-11-12 | Updated assembly package reached upload-review stage; not production release. |
 | 2026-11-17 | Recovered owner discussions show assembly-parts and gasket work continuing. |
+| 2026-11-17 | Owner informally estimates around 70% of people in the pits he observes do not have a Tel-Tac; some have told him they would buy at approximately $400. These are owner observations and expressions of interest, not a representative survey, confirmed orders or market-wide penetration statistics. |
 
 ## Recorded implementation decisions
 
@@ -61,4 +63,4 @@ Rev-Max, RecallTach, RPM recall tach
 
 ## Sources
 
-[R_REVMAX_STATUS](../SOURCES.md#r_revmax_status), [R_REVMAX_SCOPE](../SOURCES.md#r_revmax_scope), [R_REVMAX_DECISIONS](../SOURCES.md#r_revmax_decisions), [R_REVMAX_CONNECTOR](../SOURCES.md#r_revmax_connector), [C-NOV13-17](../SOURCES.md#c-nov13-17)
+[R_REVMAX_STATUS](../SOURCES.md#r_revmax_status), [R_REVMAX_SCOPE](../SOURCES.md#r_revmax_scope), [R_REVMAX_DECISIONS](../SOURCES.md#r_revmax_decisions), [R_REVMAX_CONNECTOR](../SOURCES.md#r_revmax_connector), [C-NOV13-17](../SOURCES.md#c-nov13-17), [C-NOV17-COMMERCIAL-FILTER](../SOURCES.md#c-nov17-commercial-filter)

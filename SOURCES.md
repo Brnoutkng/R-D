@@ -678,3 +678,11 @@ Steven rejected a chassis noise finder suggestion as occasional workshop equipme
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Steven judged these suggestions unsuitable for the current mainstream shortlist: preset inflation competes with an approximately $5 chuck plus gauge; phone MyLaps/Race Monitor reduce his perceived standalone timer opportunity; a common brake tester costs around $2.80 and is infrequently needed; chassis squaring competes with an approximately $2 tape and low willingness to pay (his approximately $35 example). These are his estimates and judgments, not independently verified current prices, currency conversions, universal user behaviour or evidence that unlike instruments perform identically. Cheap brake-fluid pens must not be conflated with actual boiling-point testers.
+
+### C-NOV17-COMMERCIAL-FILTER
+
+**Owner commercial filter: reachable demand and complete-product markup**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Reachable niches are acceptable where desire is strong and existing options are expensive, unreliable or unavailable. Target is at least 100% markup on complete COGS, equivalent to 50% gross margin before other costs when revenue is twice COGS. Owner's informal pit observation is roughly 70% without Tel-Tac and some stated interest near $400; not survey data, orders or general market statistics. Pad costs remain the complete-scales blocker.

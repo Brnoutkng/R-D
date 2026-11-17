@@ -41,7 +41,8 @@ A materially different, verified complete-set or pad supply cost; another electr
 | --- | --- |
 | 2026-10-20 | Owner rejected both import/rebrand and own-pad commercial routes on economics. |
 | 2026-11-04 | Saved portfolio list retained commercial sourcing rejection; no action. |
+| 2026-11-17 | Owner reaffirmed that pad costs block complete-scale economics; inexpensive electronics alone do not resolve the barrier. |
 
 ## Sources
 
-[C-OCT20](../SOURCES.md#c-oct20), [L-JOBS](../SOURCES.md#l-jobs), [C-NOV17-RECAP](../SOURCES.md#c-nov17-recap)
+[C-OCT20](../SOURCES.md#c-oct20), [L-JOBS](../SOURCES.md#l-jobs), [C-NOV17-RECAP](../SOURCES.md#c-nov17-recap), [C-NOV17-COMMERCIAL-FILTER](../SOURCES.md#c-nov17-commercial-filter)

@@ -27,7 +27,8 @@
       "boundaries": [
         "Simple RPM and maximum recall; no app, wireless, logging or dash expansion in V1.",
         "An upload-ready package does not establish that production boards were ordered.",
-        "Production connector selection is settled; actual mating and assembled fit still require verification."
+        "Production connector selection is settled; actual mating and assembled fit still require verification.",
+        "Informal pit feedback is useful demand evidence but does not establish market size, conversion rate or a finalized retail price."
       ],
       "history": [
         {
@@ -45,6 +46,10 @@
         {
           "date": "2026-11-17",
           "decision": "Recovered owner discussions show assembly-parts and gasket work continuing."
+        },
+        {
+          "date": "2026-11-17",
+          "decision": "Owner informally estimates around 70% of people in the pits he observes do not have a Tel-Tac; some have told him they would buy at approximately $400. These are owner observations and expressions of interest, not a representative survey, confirmed orders or market-wide penetration statistics."
         }
       ],
       "source_ids": [
@@ -52,7 +57,8 @@
         "R_REVMAX_SCOPE",
         "R_REVMAX_DECISIONS",
         "R_REVMAX_CONNECTOR",
-        "C-NOV13-17"
+        "C-NOV13-17",
+        "C-NOV17-COMMERCIAL-FILTER"
       ],
       "id": "RD-001",
       "reviewed_on": "2026-11-17"
@@ -790,12 +796,17 @@
         {
           "date": "2026-11-04",
           "decision": "Saved portfolio list retained commercial sourcing rejection; no action."
+        },
+        {
+          "date": "2026-11-17",
+          "decision": "Owner reaffirmed that pad costs block complete-scale economics; inexpensive electronics alone do not resolve the barrier."
         }
       ],
       "source_ids": [
         "C-OCT20",
         "L-JOBS",
-        "C-NOV17-RECAP"
+        "C-NOV17-RECAP",
+        "C-NOV17-COMMERCIAL-FILTER"
       ],
       "id": "RD-018",
       "reviewed_on": "2026-11-17"
