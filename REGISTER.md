@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**70 primary records** are listed here. **48 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**73 primary records** are listed here. **47 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -54,7 +54,7 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-039 — Jet comparator](ideas/jet-comparator.md) | Rejected — commercial | Owner rejected during product brainstorm | No dedicated repo found | Owner considered the potential market insufficient and asked to return to the technical GitHub projects. |
 | [RD-040 — Valve-runout tester](ideas/valve-runout.md) | Rejected — commercial | Owner rejected during product brainstorm | No dedicated repo found | Owner considered the potential market insufficient and asked to return to the technical GitHub projects. |
 | [RD-041 — Distributor tester](ideas/distributor-tester.md) | Research only | Demand questioned; no product decision or design established | No dedicated repo found | Reachable demand was uncertain in the recovered discussion. |
-| [RD-042 — Chassis squaring / alignment tools](ideas/chassis-alignment.md) | Parked — priority / go-no-go | Maybe; no design authorised | No dedicated repo found | Retained as possible later R&D, with no specific current production item selected. |
+| [RD-042 — Chassis squaring / alignment tools](ideas/chassis-alignment.md) | Deprioritised | Maybe; no design authorised | No dedicated repo found | Owner deprioritized chassis squaring for the current shortlist: in his view a roughly $2 tape measure is strong competition and racers are unlikely to pay much for the suggested alternative, including his roughly $35 example. |
 | [RD-043 — Electronic / dedicated toe-measuring tool](ideas/toe-tool.md) | Parked — priority / go-no-go | Maybe; subsequently put on hold with setup/squaring equipment | No dedicated repo found | Owner challenged its value because it competes with a simple tape measure. |
 | [RD-044 — Digital tyre-stagger measuring gadget](ideas/digital-stagger.md) | Rejected — commercial | Historical idea set aside | No dedicated repo found | Owner did not retain the electronic gadget as a useful commercial candidate. |
 | [RD-045 — Generic race setup app](ideas/generic-setup-app.md) | Dropped — scope/owner decision | Historical idea rejected for the initial market | No dedicated repo found | Not retained in the owner shortlist; the exact detailed rejection rationale was not recovered. |
@@ -64,7 +64,10 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-049 — Limited reader for existing scale pads](ideas/scale-reader.md) | Earlier scope rejected; later scope unapproved | Original retrofit market rejected; later alternative suggestion unapproved | No dedicated repo found | Earlier owner rejected retrofit demand because local racers generally did not own suitable scales. Later low-cost reader research did not establish a new market or owner approval. |
 | [RD-050 — Electronic stack / throttle balancing tool](ideas/throttle-balancer.md) | Research only | Brand-research follow-on suggestion; no development started | No dedicated repo found | RayTech research suggested an opportunity, but no chosen measuring head, customer advantage or costed product was established. |
 | [RD-051 — MYLAPS-compatible live crew timing display](ideas/crew-timing-display.md) | Rejected — commercial | Researched and rejected on commercial scale | No dedicated repo found | Owner did not expect sufficient unit sales to support the recurring data/licensing and support economics. |
+| [RD-094 — GPS lap timer](ideas/gps-lap-timer.md) | Deprioritised | Research suggestion only; not an approved project | No dedicated repo found | Owner does not consider a standalone lap timer a mainstream shortlist opportunity, citing MyLaps and Race Monitor on phones as adequate competition for the use he has in mind. |
 | [RD-118 — Chassis noise finder](ideas/chassis-noise-finder.md) | Dropped — scope/owner decision | Assistant suggestion discussed and declined; no development established | No dedicated repo found | Steven rejected this suggestion as an occasional workshop-use tool rather than a core, frequently needed race-day product. He is seeking recurring essential electronics useful across motorsport disciplines. |
+| [RD-119 — Preset tyre inflator](ideas/preset-tyre-inflator.md) | Dropped — scope/owner decision | Suggestion discussed and declined for current shortlist; no development established | No dedicated repo found | Owner rejected it for the current shortlist because it competes with what he sees as an approximately $5 chuck plus an existing gauge. |
+| [RD-120 — Brake-fluid testing tool](ideas/brake-fluid-tester.md) | Dropped — scope/owner decision | Suggestion discussed and declined for current shortlist; no development established | No dedicated repo found | Owner rejected the current suggestion as infrequently needed and competing with common testers he estimates at approximately $2.80. |
 
 ## Pit equipment
 

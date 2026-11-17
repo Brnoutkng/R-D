@@ -670,3 +670,11 @@ Steven described rapid tyre cooling after leaving the track, wet track/water, re
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Steven rejected a chassis noise finder suggestion as occasional workshop equipment rather than a core recurring race-day need. He seeks recurring essential electronics across disciplines. This is not a global rejection of workshop tools, nor evidence the suggestion was previously a registered product.
+
+### C-NOV17-MARKET-JUDGMENTS
+
+**Owner screening of inflator, lap timer, brake-fluid tester and chassis squaring**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven judged these suggestions unsuitable for the current mainstream shortlist: preset inflation competes with an approximately $5 chuck plus gauge; phone MyLaps/Race Monitor reduce his perceived standalone timer opportunity; a common brake tester costs around $2.80 and is infrequently needed; chassis squaring competes with an approximately $2 tape and low willingness to pay (his approximately $35 example). These are his estimates and judgments, not independently verified current prices, currency conversions, universal user behaviour or evidence that unlike instruments perform identically. Cheap brake-fluid pens must not be conflated with actual boiling-point testers.

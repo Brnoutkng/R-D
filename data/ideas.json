@@ -1451,23 +1451,31 @@
       "aliases": [],
       "category": "Workshop and race tools",
       "kind": "product",
-      "status": "paused-priority",
+      "status": "deprioritized",
       "stage": "Maybe; no design authorised",
       "summary": "Practical race-car alignment and squaring equipment.",
-      "reason": "Retained as possible later R&D, with no specific current production item selected.",
+      "reason": "Owner deprioritized chassis squaring for the current shortlist: in his view a roughly $2 tape measure is strong competition and racers are unlikely to pay much for the suggested alternative, including his roughly $35 example.",
       "repo": null,
       "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
-      "evidence_date": "2026-11-04",
-      "basis": "Recovered owner discussion",
-      "confidence": "medium",
-      "next_step": "Retain the existing decision; no new development action is implied by this register.",
-      "reopen_trigger": "A specific measuring problem, practical advantage and chosen development scope.",
-      "boundaries": [],
-      "history": [],
+      "evidence_date": "2026-11-17",
+      "basis": "Earlier record plus direct owner commercial screening",
+      "confidence": "high for owner decision; market estimates unverified",
+      "next_step": "Do not pursue for the current shortlist. Preserve the owner's market objection.",
+      "reopen_trigger": "Explicit owner reconsideration based on a specific unmet need and credible advantage over existing alternatives.",
+      "boundaries": [
+        "Prices and willingness-to-pay estimates are owner-reported examples, not verified market-wide facts. No prior development is erased by this screening decision."
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner deprioritized chassis squaring for the current shortlist: in his view a roughly $2 tape measure is strong competition and racers are unlikely to pay much for the suggested alternative, including his roughly $35 example."
+        }
+      ],
       "source_ids": [
         "C-SEP14",
         "C-OCT02",
-        "C-NOV04"
+        "C-NOV04",
+        "C-NOV17-MARKET-JUDGMENTS"
       ],
       "id": "RD-042",
       "reviewed_on": "2026-11-17"
@@ -2940,26 +2948,33 @@
       "slug": "gps-lap-timer",
       "name": "GPS lap timer",
       "aliases": [],
-      "category": "Unadopted research suggestions",
+      "category": "Workshop and race tools",
       "kind": "product",
-      "status": "historical-unadopted",
+      "status": "deprioritized",
       "stage": "Research suggestion only; not an approved project",
       "summary": "A standalone GPS-based timing instrument.",
-      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "reason": "Owner does not consider a standalone lap timer a mainstream shortlist opportunity, citing MyLaps and Race Monitor on phones as adequate competition for the use he has in mind.",
       "repo": null,
       "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
-      "evidence_date": null,
-      "basis": "Historical assistant research suggestion",
-      "confidence": "low",
-      "next_step": "Retain the existing decision; no new development action is implied by this register.",
-      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "evidence_date": "2026-11-17",
+      "basis": "Earlier record plus direct owner commercial screening",
+      "confidence": "high for owner decision; market estimates unverified",
+      "next_step": "Do not pursue for the current shortlist. Preserve the owner's market objection.",
+      "reopen_trigger": "Explicit owner reconsideration based on a specific unmet need and credible advantage over existing alternatives.",
       "boundaries": [
         "Preserved so the suggestion is not presented as new next time.",
-        "Not a current product commitment."
+        "Not a current product commitment.",
+        "This is a commercial judgment for the proposed use case, not proof that phone timing/results services and standalone GPS timers have identical functions or that no racers buy dedicated timers."
       ],
-      "history": [],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner does not consider a standalone lap timer a mainstream shortlist opportunity, citing MyLaps and Race Monitor on phones as adequate competition for the use he has in mind."
+        }
+      ],
       "source_ids": [
-        "C-NOV04"
+        "C-NOV04",
+        "C-NOV17-MARKET-JUDGMENTS"
       ],
       "id": "RD-094",
       "reviewed_on": "2026-11-17"
@@ -3692,6 +3707,73 @@
       ],
       "source_ids": [
         "C-NOV17-NOISE"
+      ],
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "RD-119",
+      "slug": "preset-tyre-inflator",
+      "name": "Preset tyre inflator",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-scope",
+      "stage": "Suggestion discussed and declined for current shortlist; no development established",
+      "summary": "Tyre inflation equipment intended to stop or regulate at a chosen pressure.",
+      "reason": "Owner rejected it for the current shortlist because it competes with what he sees as an approximately $5 chuck plus an existing gauge.",
+      "repo": null,
+      "repo_state": "New decision record; no prior approved project or dedicated development repository established.",
+      "evidence_date": "2026-11-17",
+      "basis": "Direct owner response to product suggestion",
+      "confidence": "high for decision; price and market estimates unverified",
+      "next_step": "Retain rejection for the current shortlist; do not initiate development.",
+      "reopen_trigger": "Explicit owner reconsideration supported by a differentiated recurring customer need.",
+      "boundaries": [
+        "Owner's comparison is a price/use-case judgment, not a verified quotation or proof all inflators are equivalent.",
+        "Do not conflate this rejection with the active precision tyre-pressure gauge project."
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner rejected it for the current shortlist because it competes with what he sees as an approximately $5 chuck plus an existing gauge."
+        }
+      ],
+      "source_ids": [
+        "C-NOV17-MARKET-JUDGMENTS"
+      ],
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "RD-120",
+      "slug": "brake-fluid-tester",
+      "name": "Brake-fluid testing tool",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-scope",
+      "stage": "Suggestion discussed and declined for current shortlist; no development established",
+      "summary": "Brake-fluid condition-testing equipment raised as a product suggestion.",
+      "reason": "Owner rejected the current suggestion as infrequently needed and competing with common testers he estimates at approximately $2.80.",
+      "repo": null,
+      "repo_state": "New decision record; no prior approved project or dedicated development repository established.",
+      "evidence_date": "2026-11-17",
+      "basis": "Direct owner response to product suggestion",
+      "confidence": "high for decision; price and market estimates unverified",
+      "next_step": "Retain rejection for the current shortlist; do not initiate development.",
+      "reopen_trigger": "Explicit owner reconsideration supported by a differentiated recurring customer need.",
+      "boundaries": [
+        "Cheap pen-type testers and actual boiling-point testers are not interchangeable measurement methods; this price comparison does not validate equivalence.",
+        "Do not conflate this record with the existing two-channel hydraulic brake-pressure/bias tester.",
+        "Prices and frequency-of-use judgments are owner-reported, not independent market evidence."
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner rejected the current suggestion as infrequently needed and competing with common testers he estimates at approximately $2.80."
+        }
+      ],
+      "source_ids": [
+        "C-NOV17-MARKET-JUDGMENTS"
       ],
       "reviewed_on": "2026-11-17"
     }
