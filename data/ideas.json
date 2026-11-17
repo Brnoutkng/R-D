@@ -806,28 +806,35 @@
       "aliases": [],
       "category": "Workshop and race tools",
       "kind": "product",
-      "status": "paused-scope",
+      "status": "deprioritized",
       "stage": "Use-case and feature investigation; no dedicated commercial development repo",
       "summary": "A simple wideband, RPM and analogue-input logging product for older race cars.",
-      "reason": "Use cases, input/reference/ground arrangements and a simple viable product scope need resolution.",
+      "reason": "Owner excludes this standalone engine logger from the mainstream shortlist: he considers logging already covered by modern aftermarket ECUs and factory tuning ecosystems, leaving a smaller and shrinking older-carburetted-car niche. This is his commercial judgment, not a measured market-size finding. Earlier scope questions remain unresolved.",
       "repo": null,
       "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
-      "evidence_date": null,
-      "basis": "Recovered owner discussion",
+      "evidence_date": "2026-11-17",
+      "basis": "Recovered discussion and direct owner commercial-priority decision",
       "confidence": "medium",
-      "next_step": "Retain the existing decision; no new development action is implied by this register.",
-      "reopen_trigger": "A chosen customer/use case and costed simple architecture.",
+      "next_step": "Retain as a deprioritized concept, not a current mainstream product investigation. Do not reopen merely because another older-car logging request is found.",
+      "reopen_trigger": "Owner identifies a sufficiently broad, underserved paying use case despite ECU/tuning-system logging, followed by a viable simple architecture.",
       "boundaries": [
         "Separate from the existing personal RaceLogger Dev-1 and LogWorks tools.",
         "Later lambda-plus-RPM recording proposals are related research, not proof this project restarted.",
         "Expansion, wireless and extra channels are optional scope ideas, not requirements automatically approved for a first product.",
-        "Six configurable analogue logging channels were accepted in the concept; wireless and EGT expansion were optional."
+        "Six configurable analogue logging channels were accepted in the concept; wireless and EGT expansion were optional.",
+        "This decision does not reject all logging products or change personal RaceLogger/LogWorks work."
       ],
-      "history": [],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner removed the standalone engine logger from the mainstream shortlist, citing existing logging in modern aftermarket ECUs and factory tuning ecosystems; he regards the remaining older-carburetted niche as smaller/shrinking. No market-size statistics or universal ECU capabilities were established."
+        }
+      ],
       "source_ids": [
         "C-OCT04",
         "C-NOV15",
-        "R_CONTROL"
+        "R_CONTROL",
+        "C-NOV17-LOGGER-PRIORITY"
       ],
       "id": "RD-019",
       "reviewed_on": "2026-11-17"

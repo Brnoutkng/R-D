@@ -646,3 +646,11 @@ Personal experience with an approximately 15–16-year-old Intercomp developing 
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Steven explicitly deprioritized the plug-in SSR because of Chinese competition and perceived viability, while retaining it as a possible later add-on. Focus remains mainstream tech dashes, gauges, tools and pit equipment. This records owner judgment, not an independently measured market verdict.
+
+### C-NOV17-LOGGER-PRIORITY
+
+**Owner decision: standalone engine logger not a mainstream shortlist priority**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven cited existing logging in aftermarket ECU and factory tuning ecosystems, including PCMTEC on a BA Falcon as an example. He views the remaining older-carburetted niche as smaller/shrinking. This is a commercial-priority judgment, not quantified market research or a rejection of all logging. Personal relationship details are not needed in this public catalogue.

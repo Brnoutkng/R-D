@@ -32,6 +32,8 @@ Mainstream commercial demand takes priority over technical progress alone. The o
 - **[SprintTach](ideas/sprinttach-history.md):** historical predecessor to RevMax, not another active tach product.
 - **[ECU Development archive](ideas/ecu-archive.md):** retains history and shared project control; the standalone repositories own current technical work.
 
+- **[Standalone engine logger](ideas/wideband-logger.md):** deprioritized by the owner for the mainstream shortlist because existing ECU/tuning-system logging leaves what he views as a smaller older-carburetted niche. Personal RaceLogger/LogWorks scope is unchanged.
+
 The complete dispositions and reasons are in [REGISTER.md](REGISTER.md) and [DECISIONS.md](DECISIONS.md). Historical suggestions remain visible without becoming approved projects.
 
 ## Evidence still missing or qualified
@@ -63,5 +65,6 @@ Update the underlying JSON records, preserve existing IDs and decision history, 
 Competitor records use `data/competitors.json` and `data/competitor_sources.json`; regenerate their two lists and evidence pages with `python scripts/render_competitors.py`.
 
 Technical community records use `data/forums.json`; regenerate the directory with `python scripts/render_forums.py`. Maintain `forums/RESEARCH_NOTES.md` as the separate, sourced interpretation.
+
 
 
