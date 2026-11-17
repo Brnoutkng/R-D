@@ -2,7 +2,7 @@
 
 **Register review: 17 November 2026 — Australia/Melbourne**
 
-The catalogue contains **116 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **68 records**; another **48 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
+The catalogue contains **117 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **69 records**; another **48 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
 
 ## Main projects and tools
 
@@ -14,10 +14,14 @@ The catalogue contains **116 entries** and **45 detailed approach decisions**, a
 | [Street Hit Pro](ideas/street-hit-pro.md) | Hardware developed, paused on manufacturing economics. | A viable finished-product cost and clear hardware baseline before further commitment. The simplified hardware branch is unfinished. |
 | [Street Hit App](ideas/street-hit-app.md) | Companion measurement core exists; active as needed. | Accept repeated-pull evidence and maintain the analysis core when useful; this does not require restarting hardware orders. Hardware remains the product's main value; averaging is optional. |
 | [PDM](ideas/pdm.md) | Feasibility documented; parked at a go/no-go point. | Owner priority and a viable development plan. It is not recorded as technically impossible or permanently cost-rejected. |
-| [Knock Meter](ideas/knock-meter.md) | Lower priority; schematic candidate and research exist. | When resumed: exact controls/assembly fit, sensor/loom sourcing, costing and an actual-instrument prototype proposal. Separate homemade test rigs were rejected. |
+| [Knock Meter](ideas/knock-meter.md) | Lower priority due to niche use case and uncertain sales volume; schematic candidate and research exist. | When resumed: exact controls/assembly fit, sensor/loom sourcing, costing and an actual-instrument prototype proposal. Separate homemade test rigs were rejected. |
 | [RaceLogger](ideas/racelogger.md) | Active personal development tool; boards reported received. | Programming, bring-up and complete-system capture validation. Commercialization is a separate future decision. |
 | [LogWorks](ideas/logworks.md), [RaceOS](ideas/raceos.md), [RaceCal](ideas/racecal.md) | Active internal race-season tools. | Preserve useful operation and resolve actual tuning/logging problems. Older commit dates do not make these parked products. |
 | [FlowCal](ideas/flowcal.md) | Software developed; inactive unless reactivated. | Real injector-bench need and complete physical acceptance. Separate from the proposed digital flow-bench processor. |
+
+## Latest owner direction
+
+Mainstream commercial demand takes priority over technical progress alone. The [pit helmet warmer](ideas/pit-helmet-warmer.md) is a new user-proposed research candidate for cool-weather visor fogging, not an approved build. Alternatives, demand, heat/material safety, effectiveness and complete-product economics remain unverified.
 
 ## Other decisions that must not be lost
 
@@ -59,3 +63,4 @@ Update the underlying JSON records, preserve existing IDs and decision history, 
 Competitor records use `data/competitors.json` and `data/competitor_sources.json`; regenerate their two lists and evidence pages with `python scripts/render_competitors.py`.
 
 Technical community records use `data/forums.json`; regenerate the directory with `python scripts/render_forums.py`. Maintain `forums/RESEARCH_NOTES.md` as the separate, sourced interpretation.
+

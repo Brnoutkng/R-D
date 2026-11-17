@@ -614,3 +614,19 @@ Type: repository. Source date: not individually established.
 [Open source](https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/mechanical/REVMAX_FRONT_FACE_MANUFACTURING.md)
 
 Historical process decisions; later procurement and design updates supersede old waiting states.
+
+### C-NOV17-HELMET
+
+**Owner proposal: pit helmet warmer for cool-weather visor fogging**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven described recurring visor fogging in cooler Australian speedway conditions and proposed researching a helmet warmer. His impression of expensive or hard-to-obtain alternatives is owner-reported, not a verified market finding. No build approval. Latest clarification: gentle heat on a stand between sessions for first-lap cold-visor fogging; add to list only, no large investigation. USB power is an open question.
+
+### C-NOV17-PRIORITY
+
+**Owner clarification: mainstream commercial demand before niche instruments**
+
+Type: direct owner voice discussion. Source date: 2026-11-17.
+
+Steven clarified that KnockMeter is not principally blocked by electronics complexity or making cost: the limited use case and expected sales are the concern. Mainstream commercially viable products take priority. This does not permanently reject KnockMeter.

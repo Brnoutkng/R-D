@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**68 primary records** are listed here. **48 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**69 primary records** are listed here. **48 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -21,7 +21,7 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-003 — Precision motorsport tyre-pressure gauge](ideas/tyre-gauge.md) | Investigation / samples | Dedicated repo; transducer and donor-gauge sample assessment; complete-product route not yet validated | [Repo](https://github.com/Brnoutkng/SkidLabz-TyreGauge) | One custom precision-sensor route failed cost/supply economics. The complete product remains open, with samples and an OEM route needing verification. |
 | [RD-009 — Street Hit Pro](ideas/street-hit-pro.md) | Paused — cost | Hardware design and original prototype package exist; cost-rework alternative unfinished | [Repo](https://github.com/Brnoutkng/SkidLabz-Street-Hit-Pro) | Manufacturing economics were too close to complete competing devices. The hardware is the product's main value; app progress does not clear its cost hold. |
 | [RD-011 — Standalone motorsport PDM](ideas/pdm.md) | Parked — priority / go-no-go | Feasibility and architecture recorded; no schematic, PCB or firmware | [Repo](https://github.com/Brnoutkng/Skidlabz-PDM) | Explicitly parked at a go/no-go decision point. Paper investigation found no technical show-stopper; this is not a cost rejection or physical validation. |
-| [RD-012 — Portable Knock Meter](ideas/knock-meter.md) | Parked — priority / go-no-go | Actual-instrument schematic candidate and research exist; no routed/released PCB | [Repo](https://github.com/Brnoutkng/SkidLabz-KnockMeter) | Lower current priority. Sourcing, front-control fit, cost and release checks remain; the product itself was not rejected. |
+| [RD-012 — Portable Knock Meter](ideas/knock-meter.md) | Parked — priority / go-no-go | Actual-instrument schematic candidate and research exist; no routed/released PCB | [Repo](https://github.com/Brnoutkng/SkidLabz-KnockMeter) | Lower current priority because the owner sees a niche use case and uncertain sales volume, rather than electronics complexity or making cost as the main barrier. Sourcing, fit and release checks also remain; the product itself was not rejected. |
 
 ## Workshop and race tools
 
@@ -64,6 +64,12 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-049 — Limited reader for existing scale pads](ideas/scale-reader.md) | Earlier scope rejected; later scope unapproved | Original retrofit market rejected; later alternative suggestion unapproved | No dedicated repo found | Earlier owner rejected retrofit demand because local racers generally did not own suitable scales. Later low-cost reader research did not establish a new market or owner approval. |
 | [RD-050 — Electronic stack / throttle balancing tool](ideas/throttle-balancer.md) | Research only | Brand-research follow-on suggestion; no development started | No dedicated repo found | RayTech research suggested an opportunity, but no chosen measuring head, customer advantage or costed product was established. |
 | [RD-051 — MYLAPS-compatible live crew timing display](ideas/crew-timing-display.md) | Rejected — commercial | Researched and rejected on commercial scale | No dedicated repo found | Owner did not expect sufficient unit sales to support the recurring data/licensing and support economics. |
+
+## Pit equipment
+
+| Idea | Where it stands | Stage reached | Repository | Why / remaining gate |
+| --- | --- | --- | --- | --- |
+| [RD-117 — Pit helmet warmer](ideas/pit-helmet-warmer.md) | Research only | Owner-proposed concept; research requested, no design or prototype | No dedicated repo found | Steven reports recurring visor fogging and believes existing helmet warmers are expensive or difficult to obtain. Availability, broader demand and effectiveness remain to be independently checked; this is not a development commitment. |
 
 ## Supporting resale products
 

@@ -516,14 +516,14 @@
       "status": "paused-priority",
       "stage": "Actual-instrument schematic candidate and research exist; no routed/released PCB",
       "summary": "Portable knock-listening and LED indication instrument with independent volume and sensitivity controls.",
-      "reason": "Lower current priority. Sourcing, front-control fit, cost and release checks remain; the product itself was not rejected.",
+      "reason": "Lower current priority because the owner sees a niche use case and uncertain sales volume, rather than electronics complexity or making cost as the main barrier. Sourcing, fit and release checks also remain; the product itself was not rejected.",
       "repo": "https://github.com/Brnoutkng/SkidLabz-KnockMeter",
       "repo_state": "Dedicated repo; latest engineering/owner guidance 27 October. Schematic exists, but layout/order release does not.",
-      "evidence_date": "2026-11-04",
-      "basis": "Repository and recovered owner priority; pause date not established",
+      "evidence_date": "2026-11-17",
+      "basis": "Repository and direct owner commercial-priority clarification",
       "confidence": "high",
       "next_step": "On reactivation, complete exact controls/assembly fit, sensor/loom sourcing and costed actual-instrument prototype proposal.",
-      "reopen_trigger": "Owner promotes it and the remaining practical fit/cost/sourcing path is credible.",
+      "reopen_trigger": "Owner promotes it after a convincing customer/use-case and commercial-demand case, with practical fit/cost/sourcing checks retained.",
       "boundaries": [
         "Monitor/listen only; no ignition control or validated engine-protection claim.",
         "Separate owner-built test rigs were rejected.",
@@ -542,13 +542,18 @@
         {
           "date": null,
           "decision": "Subsequent owner priority places the project below current products; no permanent rejection."
+        },
+        {
+          "date": "2026-11-17",
+          "decision": "Owner clarified that mainstream commercially viable products come first; KnockMeter is relatively simple to make but its use case and likely sales volume are the concern."
         }
       ],
       "source_ids": [
         "R_KNOCK_STATUS",
         "R_KNOCK_PRIORITY",
         "R_KNOCK_CONTROLS",
-        "L-JOBS"
+        "L-JOBS",
+        "C-NOV17-PRIORITY"
       ],
       "id": "RD-012",
       "reviewed_on": "2026-11-17"
@@ -3577,6 +3582,49 @@
         "C-NOV08"
       ],
       "id": "RD-116",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "pit-helmet-warmer",
+      "name": "Pit helmet warmer",
+      "aliases": [
+        "Helmet warmer",
+        "Visor fogging prevention"
+      ],
+      "category": "Pit equipment",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Owner-proposed concept; research requested, no design or prototype",
+      "summary": "A stand providing gentle heat to keep a racing helmet warm between sessions, aimed at cold-visor fogging during the first laps in cooler Australian speedway conditions.",
+      "reason": "Steven reports recurring visor fogging and believes existing helmet warmers are expensive or difficult to obtain. Availability, broader demand and effectiveness remain to be independently checked; this is not a development commitment.",
+      "repo": null,
+      "repo_state": "Concept recorded in the R&D catalogue; no dedicated development repository established.",
+      "evidence_date": "2026-11-17",
+      "basis": "Direct owner proposal in voice discussion",
+      "confidence": "high for owner intent; commercial and technical feasibility unverified",
+      "next_step": "Keep on the idea list. Any later investigation should check alternatives, demand, safe helmet temperatures and effective first-lap benefit. USB power is an open feasibility question, not a requirement or established solution.",
+      "reopen_trigger": "Evidence of a worthwhile customer problem, safe and effective use, and viable complete-product economics; explicit owner decision before development.",
+      "boundaries": [
+        "User-proposed research candidate, not an assistant-only suggestion or approved build.",
+        "Do not claim prewarming prevents fogging throughout a race without testing.",
+        "Safe operating temperature, helmet material compatibility and fault protection are unresolved; do not invent a universal temperature limit.",
+        "Mainstream commercial demand takes priority over ease of electronics development.",
+        "Latest owner clarification: list entry only, no large investigation requested; gentle between-session warming on a stand."
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "decision": "Owner proposed a pit helmet warmer after describing recurring visor fogging in cooler Australian speedway conditions; requested investigation."
+        },
+        {
+          "date": "2026-11-17",
+          "decision": "Owner narrowed the request to adding the idea to the list: gentle heat on a stand between sessions; USB power remains an open question, no large investigation."
+        }
+      ],
+      "source_ids": [
+        "C-NOV17-HELMET"
+      ],
+      "id": "RD-117",
       "reviewed_on": "2026-11-17"
     }
   ]
