@@ -47,7 +47,7 @@ Use r/Drifting, r/DirtRacing and r/SprintCarRacing with a narrow technical searc
 
 ## Important corrections and access qualifications
 
-- **HoseHeads:** the two torsion-tester threads from 2009 and 2011 are preserved in its entry. They establish historical discussion, not current demand. The dedicated technical index contains spam.
+- **HoseHeads:** the site moved to a new platform; legacy thread links now open unrelated threads (checked 17 November 2026). The two torsion-tester threads from 2009 and 2011 are preserved in its entry at their current addresses. They establish historical discussion, not current demand. The dedicated technical index contained spam and appears not to have been migrated.
 - **4m:** a fresh-looking Powertrain bump was spam on an old thread. A separate substantive September 2026 chassis question supplies the recent technical evidence.
 - **MoTeC:** the old forum redirects to the current Zendesk support community; the directory records the working destination and i2 category.
 - **Zilvia:** its own closure notice was verified. No usable archive was confirmed; it remains a historical name, not a place to start live research.

@@ -84,7 +84,7 @@ Related sources: [r/Drifting](REDDIT.md#reddit_drifting); [r/dragracing](REDDIT.
 
 **Observed dated evidence:** 2026-09-18. Primary indexed Engine Tech page shows technical replies on 18 September 2026. A separate oil-pressure discussion exposes explicit September 2026 post dates. [Evidence](https://www.speed-talk.com/forum/viewforum.php?f=1).
 
-**Access:** Search-indexed forum text available; direct technical index fetch returned 403. Advanced Engine Tech and Shop & Garage Tech are explicitly marked as requiring registration/login to view; no access was attempted.
+**Access:** Readable as a guest, including guest search, on 17 November 2026. Sections labelled as requiring registration (Shop & Garage Tech, Advanced Engine Tech) showed full topic lists and post text to a guest that day. Attachments are hidden from guests and the paid HotPass forums are not accessible. Guest search omitted topics from about mid-2009 to late 2019. An earlier review saw a 403 on a direct index fetch and did not attempt the labelled sections. No account or posting action used.
 
 **Sample discussions**
 

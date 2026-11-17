@@ -18,6 +18,7 @@ A shared record of the ideas we have discussed, where each one reached, and why 
 | Which manufacturers and product brands have we already discussed? | [Manufacturers and product brands](competitors/MANUFACTURERS.md) |
 | Where can we find technical racer problems and product research? | [Forums and technical communities](forums/README.md) |
 | What useful problems came out of the forum research? | [Research findings and existing idea links](forums/RESEARCH_NOTES.md) |
+| Which product opportunities have been tested against forum evidence, and what happened? | [Research investigations](research/README.md) |
 | How do we add an idea without losing its history? | [Idea template](templates/IDEA_TEMPLATE.md) |
 
 ## What is in this register

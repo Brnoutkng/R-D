@@ -79,7 +79,7 @@ Related sources: [r/Karting](REDDIT.md#reddit_karting); [r/gokarts](REDDIT.md#re
 
 **Observed dated evidence:** 2026-11-01. Primary search indexing of the data category showed a November 1, 2026 technical topic. Direct category opening returned an older cached snapshot; the November date is indexed evidence, not a live completeness claim. A detailed July 2026 instrument discussion was also read. [Evidence](https://forums.kartpulse.com/c/data-acquisition/7).
 
-**Access:** Categories and sample discussion were readable publicly. No login, post or contact action used.
+**Access:** Categories and discussions are publicly readable, including through the forum's public data endpoints (used on 17 November 2026). No login, post or contact action used.
 
 **Sample discussions**
 

@@ -50,7 +50,7 @@ In [r/HPtuners](https://www.reddit.com/r/HPtuners/comments/1mt05yp/mpvi3_standal
 
 ### 6. Trustworthy workshop measurements and fixtures
 
-The remembered HoseHeads discussions are [torsion bar tester, 11 April 2009](https://www.hoseheadforums.com/forum.cfm?ThreadID=27849) and [Torsion bar tester, 21 January 2011](https://www.hoseheadforums.com/forum.cfm?ThreadID=50895). They discuss test fixtures, measurement consistency and equipment identification. [HybridZ’s flow-bench discussion](https://forums.hybridz.org/topic/141283-nissan-l-series-cylinder-head-flow-bench-testing-and-development/) stresses method and calibration. [RX7Club’s compression-tester question](https://www.rx7club.com/general-rotary-tech-support-11/looking-trust-worthy-rotary-compression-tester-1165850/) shows uncertainty about trustworthy readings and suitable equipment.
+The remembered HoseHeads discussions are [torsion bar tester, 11 April 2009](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-731127) and [Torsion bar tester, 21 January 2011](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-841457). They discuss test fixtures, measurement consistency and equipment identification. [HybridZ’s flow-bench discussion](https://forums.hybridz.org/topic/141283-nissan-l-series-cylinder-head-flow-bench-testing-and-development/) stresses method and calibration. [RX7Club’s compression-tester question](https://www.rx7club.com/general-rotary-tech-support-11/looking-trust-worthy-rotary-compression-tester-1165850/) shows uncertainty about trustworthy readings and suitable equipment.
 
 **Question to investigate:** What reference, procedure and fixture make the reading credible? An inexpensive display does not resolve an uncertain test method. Historical sourcing complaints do not establish current unavailability.
 
@@ -71,6 +71,10 @@ A [r/DirtRacing maker post](https://www.reddit.com/r/DirtRacing/comments/1xaaohe
 **Question to investigate:** What does the track already provide, what does the class permit, and which missing information changes a real decision? Keep local infrastructure and rules separate from general enthusiasm for telemetry.
 
 **Existing R&D boundary:** [Crew timing display](../ideas/crew-timing-display.md) retains its commercial rejection. [Timing network](../ideas/timing-network.md), [timing import](../ideas/timing-import.md) and [race logbook](../ideas/race-logbook.md) remain historical unadopted suggestions. Another timing post is not a reopening condition by itself.
+
+## Later investigations
+
+[Forum deep dive 01](../research/forum-deep-dive-01/REPORT.md) (17 November 2026) took four of these sources further: HoseHeads, KartPulse, Grassroots Motorsports and Speed-Talk. It tested the strongest findings against current products and small-batch costs, and records which leads were set aside and why. Read its report and [evidence file](../research/forum-deep-dive-01/EVIDENCE.md) before repeating work on those forums. It also found that HoseHeads has moved platform: the legacy thread links formerly given in theme 6 opened unrelated threads and have been replaced with current addresses.
 
 ## How to use the sources for the next idea
 

@@ -262,7 +262,7 @@
         "evidence_url": "https://grassrootsmotorsports.com/forum/grm/how-do-you-record-your-track-day-data/262354/page1/",
         "note": "A dated 2024 workflow discussion and older technical threads were read. The forum index is accessible; this sample date is not the latest activity of the whole forum."
       },
-      "access_note": "Public forum/thread pages were readable; one general-index request returned 403. Membership features are separate.",
+      "access_note": "Public forum and thread pages are readable in a browser. On 17 November 2026 every automated request from the research session received a bot challenge (HTTP 403), which was not circumvented, so that deep dive used search-engine summaries only. An earlier review read thread pages and saw one 403 on the general index. Membership features are separate.",
       "example_threads": [
         {
           "title": "How do you record your track day data?",
@@ -287,7 +287,8 @@
         }
       ],
       "limitations": [
-        "Mixed social and technical posts. An enthusiastic DIY build is evidence of a workflow, not proof of a commercially viable gap."
+        "Mixed social and technical posts. An enthusiastic DIY build is evidence of a workflow, not proof of a commercially viable gap.",
+        "The 17 November 2026 deep dive did not read any thread page directly; its GRM evidence is graded as search summaries in research/forum-deep-dive-01/EVIDENCE.md."
       ],
       "source_urls": [
         "https://grassrootsmotorsports.com/forum/",
@@ -1753,7 +1754,7 @@
         "evidence_url": "https://www.speed-talk.com/forum/viewforum.php?f=1",
         "note": "Primary indexed Engine Tech page shows technical replies on 18 September 2026. A separate oil-pressure discussion exposes explicit September 2026 post dates."
       },
-      "access_note": "Search-indexed forum text available; direct technical index fetch returned 403. Advanced Engine Tech and Shop & Garage Tech are explicitly marked as requiring registration/login to view; no access was attempted.",
+      "access_note": "Readable as a guest, including guest search, on 17 November 2026. Sections labelled as requiring registration (Shop & Garage Tech, Advanced Engine Tech) showed full topic lists and post text to a guest that day. Attachments are hidden from guests and the paid HotPass forums are not accessible. Guest search omitted topics from about mid-2009 to late 2019. An earlier review saw a 403 on a direct index fetch and did not attempt the labelled sections. No account or posting action used.",
       "example_threads": [
         {
           "title": "Dyno oil pressure 46lbs",
@@ -2239,11 +2240,15 @@
       "home_url": "https://www.hoseheadforums.com/",
       "technical_urls": [
         {
-          "label": "Sprint Car Tech Talk",
+          "label": "Sprint Car General Forum — current platform; holds the technical threads; guest search matches thread titles only",
+          "url": "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2"
+        },
+        {
+          "label": "Legacy Sprint Car Tech Talk address — redirected to the new home page on 17 November 2026; the board appears not to have been migrated",
           "url": "https://www.hoseheadforums.com/forum.cfm?forumID=17"
         },
         {
-          "label": "Sprint Car General Forum — also contains technical threads",
+          "label": "Legacy Sprint Car General Forum address — not re-tested after the platform move",
           "url": "https://www.hoseheadforums.com/forum.cfm?forumID=1"
         }
       ],
@@ -2252,46 +2257,47 @@
       "useful_for": [
         "Potential learning (inference): repeatability and ease of use in torsion-bar, scale and setup measurements.",
         "Potential learning (inference): tyre-pressure control maintenance, crew time and the evidence racers want before changing equipment.",
-        "Search both the dedicated technical board and General; the remembered torsion-tester discussions are in General."
+        "Search the General board; the remembered torsion-tester discussions are there. Site search matches thread titles only, so equipment topics are under-found."
       ],
       "activity": {
-        "status": "historical_technical_threads_verified; current_technical_activity_unverified",
-        "observed_date": null,
-        "evidence_url": "https://www.hoseheadforums.com/forum.cfm?forumID=17",
-        "note": "The retrieved Tech Talk index shows an October 23, 2025 last-reply timestamp on 'Scaling sprint cars', older technical entries and visible unrelated spam. That timestamp was not verified as a substantive new technical reply. Current General-board activity was not established; home/General fetches sometimes returned 403."
+        "status": "historical_technical_threads_verified; current_technical_activity_not_found_in_sample",
+        "observed_date": "2017-05-25",
+        "evidence_url": "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/digital-bleeders-1031071",
+        "note": "Deep dive of 17 November 2026: the site has moved to a new platform. Two threads were read in full; the most recent substantive technical posts read are dated 22–25 May 2017 ('digital bleeders'). The General board showed daily activity (latest reply 17 November 2026), but its 20 newest threads were news, schedules and fan discussion. Technical-title index rows were seen with last-reply dates up to 15 August 2023 without their content being read. The date shown is the latest substantive technical post read, not the forum's latest activity. An earlier review recorded an October 23, 2025 last-reply timestamp on the Tech Talk thread 'Scaling sprint cars'; that thread was not found on the new platform."
       },
-      "access_note": "Several individual threads and the Tech Talk index were publicly readable. Home/General and some other thread requests returned 403 intermittently. No account or posting action used.",
+      "access_note": "Platform changed (observed 17 November 2026): legacy forum.cfm?ThreadID= links now open unrelated threads, and the Tech Talk board appears not to have been migrated. Thread pages on the new platform are public, but the site rate-limits automated readers and blocked the research session's address after a small number of slow requests; no evasion was attempted. Guest search matches thread titles only. Read it in an ordinary browser. No account or posting action used.",
       "example_threads": [
         {
           "title": "torsion bar tester",
-          "url": "https://www.hoseheadforums.com/forum.cfm?ThreadID=27849",
+          "url": "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-731127",
           "date": "2009-04-11",
-          "signal": "Racers seek an affordable tester and debate fixture, arm-deflection and measurement consistency. Historical workflow evidence, not validation of the proposed test methods.",
+          "signal": "Racers seek an affordable tester and debate fixture, arm-deflection and measurement consistency. Historical workflow evidence, not validation of the proposed test methods. Current address seen as an index row on 17 November 2026 (14 replies; last reply 16 April 2009); the thread was not reopened then. The legacy ThreadID=27849 link now opens an unrelated thread.",
           "evidence_level": "discussion_text"
         },
         {
           "title": "Torsion bar tester",
-          "url": "https://www.hoseheadforums.com/forum.cfm?ThreadID=50895",
+          "url": "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-841457",
           "date": "2011-01-21",
-          "signal": "A racer tries to identify a simple manual tester with a digital load display; replies discuss familiar fixtures and equipment identification. This is the second remembered research thread.",
+          "signal": "A racer tries to identify a simple manual tester with a digital load display; replies discuss familiar fixtures and equipment identification. This is the second remembered research thread. Re-read in full on 17 November 2026: 13 replies, with unanswered follow-up questions in January 2013 and January 2015. The legacy ThreadID=50895 link now opens an unrelated thread.",
           "evidence_level": "discussion_text"
         },
         {
           "title": "digital bleeders",
-          "url": "https://www.hoseheadforums.com/forum.cfm?ThreadID=95811",
+          "url": "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/digital-bleeders-1031071",
           "date": "2015-07-07",
-          "signal": "Participants debate maintenance effort, setup convenience, added cost and whether demonstrations establish useful pressure-control benefits.",
+          "signal": "Participants debate maintenance effort, setup convenience, added cost and whether demonstrations establish useful pressure-control benefits. Re-read in full on 17 November 2026: 37 replies in three bursts from July 2015 to May 2017. The legacy ThreadID=95811 link now opens an unrelated thread.",
           "evidence_level": "discussion_text"
         }
       ],
       "limitations": [
-        "The sampled discussions are historical and contain conflicting anecdotes. They establish topics worth investigating, not present demand, current product availability, validated engineering or a reason to reopen previously rejected projects. The dedicated technical board includes spam."
+        "The sampled discussions are historical and contain conflicting anecdotes. They establish topics worth investigating, not present demand, current product availability, validated engineering or a reason to reopen previously rejected projects. The dedicated technical board includes spam.",
+        "In the 17 November 2026 deep dive only two threads could be read in full; the other evidence is index rows and search-engine summaries. See research/forum-deep-dive-01/EVIDENCE.md."
       ],
       "source_urls": [
-        "https://www.hoseheadforums.com/forum.cfm?forumID=17",
-        "https://www.hoseheadforums.com/forum.cfm?ThreadID=27849",
-        "https://www.hoseheadforums.com/forum.cfm?ThreadID=50895",
-        "https://www.hoseheadforums.com/forum.cfm?ThreadID=95811"
+        "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2",
+        "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-731127",
+        "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-841457",
+        "https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/digital-bleeders-1031071"
       ],
       "reviewed_on": "2026-11-17",
       "section": "sprint_dirt",
@@ -2457,7 +2463,7 @@
         "evidence_url": "https://forums.kartpulse.com/c/data-acquisition/7",
         "note": "Primary search indexing of the data category showed a November 1, 2026 technical topic. Direct category opening returned an older cached snapshot; the November date is indexed evidence, not a live completeness claim. A detailed July 2026 instrument discussion was also read."
       },
-      "access_note": "Categories and sample discussion were readable publicly. No login, post or contact action used.",
+      "access_note": "Categories and discussions are publicly readable, including through the forum's public data endpoints (used on 17 November 2026). No login, post or contact action used.",
       "example_threads": [
         {
           "title": "MyChron 6 Discussion - Comparison, reviews etc (page 14)",

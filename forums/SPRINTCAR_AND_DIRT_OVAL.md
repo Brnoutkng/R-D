@@ -12,7 +12,7 @@ Priorities describe research usefulness, not audience size. An observed date is 
 
 | Community | Research priority | Evidence / access | Observed date |
 |---|---|---|---|
-| [HoseHeads Forums](#hoseheads) | First pass | Technical text reviewed | Unknown |
+| [HoseHeads Forums](#hoseheads) | First pass | Technical text reviewed | 2017-05-25 |
 | [4m.net — Racing Tech](#4m) | Targeted | Technical text reviewed | 2026-09-27 |
 | [Lone Star Speedzone](#lonestar-speedzone) | Targeted | Technical text reviewed | 2025-07-11 |
 | [RaceNewYork — The Tech Barn](#raceny-tech-barn) | Archive first | Index only | 2025-12-28 |
@@ -39,27 +39,27 @@ Related sources: [Bob's 4 Cycle Karting](KARTING.md#bobs-4cycle); [r/DirtRacing]
 [Home / community](https://www.hoseheadforums.com/)  
 **Disciplines:** sprintcars, dirt oval, micro sprints.
 
-**Technical starting points:** [Sprint Car Tech Talk](https://www.hoseheadforums.com/forum.cfm?forumID=17); [Sprint Car General Forum — also contains technical threads](https://www.hoseheadforums.com/forum.cfm?forumID=1).
+**Technical starting points:** [Sprint Car General Forum — current platform; holds the technical threads; guest search matches thread titles only](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2); [Legacy Sprint Car Tech Talk address — redirected to the new home page on 17 November 2026; the board appears not to have been migrated](https://www.hoseheadforums.com/forum.cfm?forumID=17); [Legacy Sprint Car General Forum address — not re-tested after the platform move](https://www.hoseheadforums.com/forum.cfm?forumID=1).
 
 **Research use**
 
 - Potential learning (inference): repeatability and ease of use in torsion-bar, scale and setup measurements.
 - Potential learning (inference): tyre-pressure control maintenance, crew time and the evidence racers want before changing equipment.
-- Search both the dedicated technical board and General; the remembered torsion-tester discussions are in General.
+- Search the General board; the remembered torsion-tester discussions are there. Site search matches thread titles only, so equipment topics are under-found.
 
-**Observed dated evidence:** No exact date established. The retrieved Tech Talk index shows an October 23, 2025 last-reply timestamp on 'Scaling sprint cars', older technical entries and visible unrelated spam. That timestamp was not verified as a substantive new technical reply. Current General-board activity was not established; home/General fetches sometimes returned 403. [Evidence](https://www.hoseheadforums.com/forum.cfm?forumID=17).
+**Observed dated evidence:** 2017-05-25. Deep dive of 17 November 2026: the site has moved to a new platform. Two threads were read in full; the most recent substantive technical posts read are dated 22–25 May 2017 ('digital bleeders'). The General board showed daily activity (latest reply 17 November 2026), but its 20 newest threads were news, schedules and fan discussion. Technical-title index rows were seen with last-reply dates up to 15 August 2023 without their content being read. The date shown is the latest substantive technical post read, not the forum's latest activity. An earlier review recorded an October 23, 2025 last-reply timestamp on the Tech Talk thread 'Scaling sprint cars'; that thread was not found on the new platform. [Evidence](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/digital-bleeders-1031071).
 
-**Access:** Several individual threads and the Tech Talk index were publicly readable. Home/General and some other thread requests returned 403 intermittently. No account or posting action used.
+**Access:** Platform changed (observed 17 November 2026): legacy forum.cfm?ThreadID= links now open unrelated threads, and the Tech Talk board appears not to have been migrated. Thread pages on the new platform are public, but the site rate-limits automated readers and blocked the research session's address after a small number of slow requests; no evasion was attempted. Guest search matches thread titles only. Read it in an ordinary browser. No account or posting action used.
 
 **Sample discussions**
 
-- [torsion bar tester](https://www.hoseheadforums.com/forum.cfm?ThreadID=27849) — 2009-04-11. Racers seek an affordable tester and debate fixture, arm-deflection and measurement consistency. Historical workflow evidence, not validation of the proposed test methods.
-- [Torsion bar tester](https://www.hoseheadforums.com/forum.cfm?ThreadID=50895) — 2011-01-21. A racer tries to identify a simple manual tester with a digital load display; replies discuss familiar fixtures and equipment identification. This is the second remembered research thread.
-- [digital bleeders](https://www.hoseheadforums.com/forum.cfm?ThreadID=95811) — 2015-07-07. Participants debate maintenance effort, setup convenience, added cost and whether demonstrations establish useful pressure-control benefits.
+- [torsion bar tester](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-731127) — 2009-04-11. Racers seek an affordable tester and debate fixture, arm-deflection and measurement consistency. Historical workflow evidence, not validation of the proposed test methods. Current address seen as an index row on 17 November 2026 (14 replies; last reply 16 April 2009); the thread was not reopened then. The legacy ThreadID=27849 link now opens an unrelated thread.
+- [Torsion bar tester](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-841457) — 2011-01-21. A racer tries to identify a simple manual tester with a digital load display; replies discuss familiar fixtures and equipment identification. This is the second remembered research thread. Re-read in full on 17 November 2026: 13 replies, with unanswered follow-up questions in January 2013 and January 2015. The legacy ThreadID=50895 link now opens an unrelated thread.
+- [digital bleeders](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/digital-bleeders-1031071) — 2015-07-07. Participants debate maintenance effort, setup convenience, added cost and whether demonstrations establish useful pressure-control benefits. Re-read in full on 17 November 2026: 37 replies in three bursts from July 2015 to May 2017. The legacy ThreadID=95811 link now opens an unrelated thread.
 
-**Limits:** The sampled discussions are historical and contain conflicting anecdotes. They establish topics worth investigating, not present demand, current product availability, validated engineering or a reason to reopen previously rejected projects. The dedicated technical board includes spam.
+**Limits:** The sampled discussions are historical and contain conflicting anecdotes. They establish topics worth investigating, not present demand, current product availability, validated engineering or a reason to reopen previously rejected projects. The dedicated technical board includes spam. In the 17 November 2026 deep dive only two threads could be read in full; the other evidence is index rows and search-engine summaries. See research/forum-deep-dive-01/EVIDENCE.md.
 
-**Supporting sources:** [1](https://www.hoseheadforums.com/forum.cfm?forumID=17) · [2](https://www.hoseheadforums.com/forum.cfm?ThreadID=27849) · [3](https://www.hoseheadforums.com/forum.cfm?ThreadID=50895) · [4](https://www.hoseheadforums.com/forum.cfm?ThreadID=95811).
+**Supporting sources:** [1](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2) · [2](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-731127) · [3](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/torsion-bar-tester-841457) · [4](https://www.hoseheadforums.com/discussion/forum/hoseheads-sprint-car-general-forum-2/digital-bleeders-1031071).
 
 <a id="4m"></a>
 

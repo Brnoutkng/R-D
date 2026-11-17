@@ -79,7 +79,7 @@ Related sources: [r/CarTrackDays](REDDIT.md#reddit_cartrackdays); [r/Autocross](
 
 **Observed dated evidence:** 2024-02-20. A dated 2024 workflow discussion and older technical threads were read. The forum index is accessible; this sample date is not the latest activity of the whole forum. [Evidence](https://grassrootsmotorsports.com/forum/grm/how-do-you-record-your-track-day-data/262354/page1/).
 
-**Access:** Public forum/thread pages were readable; one general-index request returned 403. Membership features are separate.
+**Access:** Public forum and thread pages are readable in a browser. On 17 November 2026 every automated request from the research session received a bot challenge (HTTP 403), which was not circumvented, so that deep dive used search-engine summaries only. An earlier review read thread pages and saw one 403 on the general index. Membership features are separate.
 
 **Sample discussions**
 
@@ -87,7 +87,7 @@ Related sources: [r/CarTrackDays](REDDIT.md#reddit_cartrackdays); [r/Autocross](
 - [Tire Data Collection](https://grassrootsmotorsports.com/forum/grm/tire-data-collection/192558/page1/) — 2022-03-10. A racer asks which tyre measurements and instruments are useful; replies discuss measurement consistency and tracking conditions.
 - [DIY stupidly cheap tire temp logger](https://grassrootsmotorsports.com/forum/grm/diy-stupidly-cheap-tire-temp-logger-16-meas-points/146207/page1/) — 2018-12-31. A builder describes a DIY wireless sensor approach motivated by the cost of existing track instrumentation. Historical project, not current pricing evidence.
 
-**Limits:** Mixed social and technical posts. An enthusiastic DIY build is evidence of a workflow, not proof of a commercially viable gap.
+**Limits:** Mixed social and technical posts. An enthusiastic DIY build is evidence of a workflow, not proof of a commercially viable gap. The 17 November 2026 deep dive did not read any thread page directly; its GRM evidence is graded as search summaries in research/forum-deep-dive-01/EVIDENCE.md.
 
 **Supporting sources:** [1](https://grassrootsmotorsports.com/forum/) · [2](https://grassrootsmotorsports.com/forum/grm/) · [3](https://grassrootsmotorsports.com/forum/tech-tips/) · [4](https://grassrootsmotorsports.com/forum/grm/how-do-you-record-your-track-day-data/262354/page1/) · [5](https://grassrootsmotorsports.com/forum/grm/tire-data-collection/192558/page1/) · [6](https://grassrootsmotorsports.com/forum/grm/diy-stupidly-cheap-tire-temp-logger-16-meas-points/146207/page1/).
 

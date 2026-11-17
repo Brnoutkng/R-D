@@ -52,6 +52,12 @@ The [forum directory](forums/README.md), reviewed 17 November 2026, contains **7
 
 [Research notes](forums/RESEARCH_NOTES.md) preserve practical problems around simple engine logging, recording reliability, tyre workflows, integration, instrument use and measurement trust. They also link existing decisions, including the torsion-tester validation pause, rejected generic setup app and timing-display economics. This source-directory addition changes no product status or development repository.
 
+### Research investigations
+
+[Forum deep dive 01](research/forum-deep-dive-01/REPORT.md), 17 November 2026, tested product opportunities against HoseHeads, KartPulse, Grassroots Motorsports and Speed-Talk. **No new product cleared the bar and no status changed.** Four ideas were validated independently and set aside as already served by cheap existing products: an engine-protection warning module, a tyre-gauge checker sold as a product, a load-cell valve-spring force tester and a kart ignition tester. Two items earned cheap follow-up only: new requirements evidence for the existing [tyre gauge](ideas/tyre-gauge.md) investigation, and a narrower comparative version of the paused [torsion-bar tester](ideas/torsion-bar-tester.md), whose validation blocker is addressed in principle but not demonstrated. Evidence quality differs by forum: Grassroots Motorsports was read through search summaries only and HoseHeads was mostly unreadable. The [evidence file](research/forum-deep-dive-01/EVIDENCE.md) holds the thread ledger, prices and register links; the [research index](research/README.md) lists investigations.
+
+The same pass corrected the forum directory: HoseHeads has moved platform and its three sample links were updated to current addresses.
+
 ### Updating records
 
 Update the underlying JSON records, preserve existing IDs and decision history, add the evidence source, then run `python scripts/render_register.py`. This register update does not alter any development repository.
