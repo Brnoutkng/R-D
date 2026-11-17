@@ -1,0 +1,529 @@
+{
+  "decisions": [
+    {
+      "product_slug": "revmax",
+      "approach": "Original complex RecallTach architecture",
+      "status": "rejected",
+      "reason": "Owner selected a simple recall tach; the earlier circuit and inherited SprintTach complexity were rejected as excessive.",
+      "evidence_date": null,
+      "reopen_trigger": "Only reconsider a feature or circuit when a measured requirement shows the current simple product cannot meet it.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/README.md",
+      "source_note": "Historical rejection retained in current README; exact decision date was not established by this audit.",
+      "id": "DEC-001"
+    },
+    {
+      "product_slug": "revmax",
+      "approach": "Earlier OLED, Newhaven graphic LCD and Newhaven TFT display implementations",
+      "status": "superseded",
+      "reason": "Successive display studies were replaced by the owner-selected EA TFT020 implementation; archived studies are evidence, not current manufacturing authority.",
+      "evidence_date": "2026-09-29",
+      "reopen_trigger": "A demonstrated issue or materially changed supply requirement must justify reopening display selection.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/engineering/TFT020_BETA1_ARCHITECTURE_TRANSITION.md",
+      "source_note": "29 September is the explicit EA TFT020 owner-selection date; earlier display routes were superseded in several steps.",
+      "id": "DEC-002"
+    },
+    {
+      "product_slug": "revmax",
+      "approach": "Genuine Switchcraft-only production connector supply",
+      "status": "rejected",
+      "reason": "Low-quantity supply and cost were unsuitable for repeat production; CAZN 2C was selected for the production route.",
+      "evidence_date": "2026-11-11",
+      "reopen_trigger": "Reconsider only if viable repeat supply and complete production economics change.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/engineering/REVMAX_CAZN_SOCKET_2026-11-11.md",
+      "source_note": "Selection does not establish physical two-way interchangeability or completed production qualification.",
+      "id": "DEC-003"
+    },
+    {
+      "product_slug": "revmax",
+      "approach": "CAZN 2B connector variant",
+      "status": "rejected",
+      "reason": "Its contact geometry did not match the genuine connector requirement; 2C became the selected variant.",
+      "evidence_date": "2026-11-11",
+      "reopen_trigger": "Only a changed interface requirement or new measured compatibility evidence could justify reconsideration.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/engineering/REVMAX_CAZN_SOCKET_2026-11-11.md",
+      "source_note": "A rejected connector variant does not mean the selected CAZN 2C route remains undecided.",
+      "id": "DEC-004"
+    },
+    {
+      "product_slug": "revmax",
+      "approach": "Old case opening, connector orientation and pre-Q05 stack as current production authority",
+      "status": "superseded",
+      "reason": "Later connector/case alignment work and the Q05 case/PCB stack replaced earlier geometry; the old fit problems must not be carried forward as though no adjustment occurred.",
+      "evidence_date": "2026-11-12",
+      "reopen_trigger": "Use the latest agreed mechanical revision; reopen only for a mismatch in actual manufacturing or assembly evidence.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/CURRENT_STATUS.md",
+      "source_note": "The source records the November case/connector sequence; later owner chat confirms case and PCB adjustments. Physical validation remains separate.",
+      "id": "DEC-005"
+    },
+    {
+      "product_slug": "receiver",
+      "approach": "Historical BK4802P and ADF7021 RF architectures",
+      "status": "superseded",
+      "reason": "Historical radio branches were displaced by subsequent receiver development and are not the current R2 baseline.",
+      "evidence_date": null,
+      "reopen_trigger": "Revisit only after a concrete R2 performance or supply failure and an explicit architecture decision.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver/blob/31a4d1eeeeb7f0ac42b5412249a66eff2172189d/PRODUCT_REQUIREMENTS.md",
+      "source_note": "The exact per-chip rejection rationale/date was not recovered; do not invent a technical impossibility. R2 is documented in the newer branch.",
+      "id": "DEC-006"
+    },
+    {
+      "product_slug": "receiver",
+      "approach": "CC1120 R1/P16B/P17 as the current production route",
+      "status": "superseded",
+      "reason": "Manufacturing economics and display/assembly problems prompted the owner-authorized BK4819 R2 route; existing P16B hardware still has test value.",
+      "evidence_date": "2026-11-06",
+      "reopen_trigger": "Only return to this route if measured results or changed economics justify it; do not discard existing hardware evidence.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver/blob/c432c87d76d46302f8d173bc4bb7e9f9db02ba36/R2_BRANCH_STATUS.md",
+      "source_note": "6 November R2 branch status records the new route. Newer owner chat says P16B mechanical fixes may also be useful; it is not categorically worthless.",
+      "id": "DEC-007"
+    },
+    {
+      "product_slug": "receiver",
+      "approach": "Permanent ban on BK4819 because it lacked a usable production supply route",
+      "status": "superseded",
+      "reason": "The owner reopened BK4819 through domestic consignment, and the R2 requirements record chips received into JLC's parts library.",
+      "evidence_date": "2026-11-12",
+      "reopen_trigger": "Reopen the supply decision only if repeat supply fails; chip intake alone does not prove receiver performance.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver/blob/c432c87d76d46302f8d173bc4bb7e9f9db02ba36/PRODUCT_REQUIREMENTS.md",
+      "source_note": "12 November is the documented parts-library receipt, superseding the old supply prohibition.",
+      "id": "DEC-008"
+    },
+    {
+      "product_slug": "receiver",
+      "approach": "Overseas radio-chip consignment through Australia or an overseas distributor",
+      "status": "rejected",
+      "reason": "Freight, intake fees and lead time made that route unsuitable for production; domestic seller-to-factory consignment subsequently worked.",
+      "evidence_date": "2026-11-07",
+      "reopen_trigger": "Reconsider only if the total route economics change and domestic supply is no longer viable.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver/blob/c432c87d76d46302f8d173bc4bb7e9f9db02ba36/PRODUCT_REQUIREMENTS.md",
+      "source_note": "The owner rejection is recorded under consigned-parts rules; later domestic receipt is dated 12 November.",
+      "id": "DEC-009"
+    },
+    {
+      "product_slug": "receiver",
+      "approach": "Folded-FPC OLED, socketed display connections and portrait layout",
+      "status": "rejected",
+      "reason": "Owner mechanical rules require a landscape receiver with a positively supported soldered display module; prior alternatives created assembly, freight or vibration concerns.",
+      "evidence_date": "2026-11-06",
+      "reopen_trigger": "Only an explicit product change backed by assembly and durability evidence should reopen these choices.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver/blob/c432c87d76d46302f8d173bc4bb7e9f9db02ba36/PRODUCT_REQUIREMENTS.md",
+      "source_note": "These are rejected implementation approaches, not rejection of the receiver product.",
+      "id": "DEC-010"
+    },
+    {
+      "product_slug": "tyre-gauge",
+      "approach": "Custom direct-thread precision sensor route at the investigated cost and supply terms",
+      "status": "rejected",
+      "reason": "The preferred custom sensor route failed target cost/supply economics. That rejected architecture does not reject the tyre-gauge opportunity.",
+      "evidence_date": "2026-10-06",
+      "reopen_trigger": "A verified sensor/source must meet both low-pressure measurement needs and realistic small-batch economics.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/SKIDLABZ_PROJECT_CONTROL.yaml",
+      "source_note": "The tyre-gauge entry explicitly reopened OEM-first investigation on 6 October. The file's global November update is not the decision date; October sample assessment remains later evidence.",
+      "id": "DEC-011"
+    },
+    {
+      "product_slug": "tyre-gauge",
+      "approach": "Internal barbed sensor/tube stack or custom machined manifold as the automatic V1 default",
+      "status": "not_approved",
+      "reason": "Owner preferred an off-the-shelf metal junction with a direct-thread sensor. The barbed stack remained a fallback, and custom manifold work was not the default.",
+      "evidence_date": "2026-09-22",
+      "reopen_trigger": "Reconsider only after documenting failure of the preferred route and comparing actual assembly, measurement and cost evidence.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-TyreGauge/blob/fe75912285a8cd8673b403b2005528b4d5bfa257/docs/PLUMBING_STACK_P0.md",
+      "source_note": "Fallback is not a categorical technical rejection. Subsequent sensor economics and sample results must be reconciled before choosing a new architecture.",
+      "id": "DEC-012"
+    },
+    {
+      "product_slug": "tyre-gauge",
+      "approach": "Bluetooth/app/cloud, tyre-temperature and logging features in simple V1",
+      "status": "out_of_scope",
+      "reason": "V1 prioritizes low-pressure accuracy, repeatability, temperature stability and straightforward use over feature count.",
+      "evidence_date": null,
+      "reopen_trigger": "Add only if an explicit later product decision identifies customer value without compromising the measurement product.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-TyreGauge/blob/fe75912285a8cd8673b403b2005528b4d5bfa257/README.md",
+      "source_note": "Display resolution is also not proof of accuracy; no production accuracy claim is established by these requirements.",
+      "id": "DEC-013"
+    },
+    {
+      "product_slug": "street-hit-pro",
+      "approach": "Proceeding with the original hardware economics unchanged",
+      "status": "parked",
+      "reason": "Manufacturing cost was the blocker; electronics approached complete competitor pricing before the rest of the finished product. Hardware development exists, but the product is not permanently rejected.",
+      "evidence_date": "2026-11-04",
+      "reopen_trigger": "Demonstrate viable complete-product economics and select the actual hardware baseline before another spin.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/SKIDLABZ_PROJECT_CONTROL.yaml",
+      "source_note": "Cost hold is corroborated by project control and the parent's recovered 4 November owner clarification; the date comes from that chat, not the YAML global timestamp.",
+      "id": "DEC-014"
+    },
+    {
+      "product_slug": "street-hit-pro",
+      "approach": "Treating the SAM-M10Q simplified alternative as fabrication-ready",
+      "status": "not_approved",
+      "reason": "The simplification is an unfinished redesign with outstanding layout errors and connections; it has no released manufacturing package or proven physical performance.",
+      "evidence_date": "2026-09-15",
+      "reopen_trigger": "First select it explicitly as the baseline, close its existing design/sourcing checks and re-cost the finished product.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-Pro/blob/2ce320a30b13b4340568e2bcb8ce303e2c1aaa41/hardware/REV_A_LAYOUT_NOTES.md",
+      "source_note": "The branch was checkpointed as stopped work. This does not establish rejection of the integrated-antenna idea itself.",
+      "id": "DEC-015"
+    },
+    {
+      "product_slug": "street-hit-app",
+      "approach": "Making three-run averaging compulsory for the product",
+      "status": "superseded",
+      "reason": "The owner's later direction makes averaging optional; older app scope must not convert this into an app-led product or mandatory workflow.",
+      "evidence_date": "2026-11-04",
+      "reopen_trigger": "Change only through an explicit product decision informed by real repeatability data.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-App/blob/d831ab01ca5e34ebe90b8b1102f5036eed79281f/docs/PRODUCT_SCOPE.md",
+      "source_note": "The linked document contains the older rule. Its supersession is from the parent's recovered 4 November owner clarification; source note must accompany the link.",
+      "id": "DEC-016"
+    },
+    {
+      "product_slug": "pdm",
+      "approach": "Starting full engineering automatically after the feasibility study",
+      "status": "parked",
+      "reason": "The PDM was left at a deliberate go/no-go point. Paper feasibility exists, but no decision to fund the next engineering phase was recorded; it was not rejected for cost.",
+      "evidence_date": "2026-10-13",
+      "reopen_trigger": "An explicit proceed decision should lead to floorplan, exact sourcing/quotes and physical high-current validation.",
+      "source_url": "https://github.com/Brnoutkng/Skidlabz-PDM/blob/1f1f5969c49bd968aabcb7fa5c34fffc4e1a75f8/README.md",
+      "source_note": "Do not infer product rejection from preliminary cost estimates or absence of schematic/PCB work.",
+      "id": "DEC-017"
+    },
+    {
+      "product_slug": "knock-meter",
+      "approach": "Separate owner-built Prototype 0A/0B test rigs",
+      "status": "rejected",
+      "reason": "Owner rejected separate homemade rigs; the next meaningful hardware path is the professionally assembled actual instrument.",
+      "evidence_date": "2026-10-25",
+      "reopen_trigger": "Reopen only on an explicit owner change of direction; do not rename the same rig request.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/CLAUDE.md",
+      "source_note": "Latest repo guidance reviewed is 27 October; exact original owner rejection date was not established.",
+      "id": "DEC-018"
+    },
+    {
+      "product_slug": "knock-meter",
+      "approach": "Automatic ignition control, engine-protection promises and broad connected/logging features",
+      "status": "out_of_scope",
+      "reason": "The agreed product is a standalone listening/indication instrument. ECU control, automatic retard and added display/logging/connectivity functions are outside that scope.",
+      "evidence_date": null,
+      "reopen_trigger": "A separate explicit product decision and appropriate validation would be required.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/docs/PROJECT_STATUS.md",
+      "source_note": "This is a product boundary, not evidence that such functions are technically impossible.",
+      "id": "DEC-019"
+    },
+    {
+      "product_slug": "knock-meter",
+      "approach": "Analogue selectable-filter and precision-rectifier baseline",
+      "status": "superseded",
+      "reason": "An ADC/DSP candidate replaced the earlier analogue route to reduce parts and simplify the instrument.",
+      "evidence_date": null,
+      "reopen_trigger": "Revisit only if measured signal-chain performance justifies a different architecture.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/docs/DECISION_REGISTER.md",
+      "source_note": "The DSP implementation remains a candidate; offline replay does not establish production detection accuracy.",
+      "id": "DEC-020"
+    },
+    {
+      "product_slug": "knock-meter",
+      "approach": "Boost-supply architecture",
+      "status": "rejected",
+      "reason": "The project rejected the extra noise and part-count burden of a boost route.",
+      "evidence_date": null,
+      "reopen_trigger": "Reopen only if the actual instrument cannot meet its measured supply/output requirements without it.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/docs/DECISION_REGISTER.md",
+      "source_note": "No exact rejection date recovered. Battery compatibility remains a parallel release dependency, not a reason to halt all other work.",
+      "id": "DEC-021"
+    },
+    {
+      "product_slug": "racelogger",
+      "approach": "Complex integrated-PCBA logger as the next build",
+      "status": "parked",
+      "reason": "Owner parked the complex board and chose a simpler Dev-1 for the current car's tuning work; Dev-1 is explicitly a personal development tool.",
+      "evidence_date": "2026-10-01",
+      "reopen_trigger": "Only resume product-grade integration after useful logger behavior is demonstrated and the owner chooses that scope.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/e17b089e9e15371a708dfe70c33cae337da74d96/hardware/dev1-minimal/DEV1_ARCHITECTURE.md",
+      "source_note": "1 October is the owner-approved Dev-1 architecture checkpoint documenting the earlier park/simplify instruction.",
+      "id": "DEC-022"
+    },
+    {
+      "product_slug": "racelogger",
+      "approach": "New live dashboard before reliable logging",
+      "status": "deferred",
+      "reason": "The first useful logger needs ECU telemetry, direct wideband lambda and aligned onboard session logging; display work comes afterwards.",
+      "evidence_date": null,
+      "reopen_trigger": "Reliable capture/storage and a concrete display requirement must come first.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/8e39b18ebf1b6e1c363713411570802eb71fe040/README.md",
+      "source_note": "Separate from the already existing LogWorks PC dashboard and the later commercial race-dash concept.",
+      "id": "DEC-023"
+    },
+    {
+      "product_slug": "logworks",
+      "approach": "Removing the working TechEdge 3A2 workflow when RaceLogger develops",
+      "status": "not_approved",
+      "reason": "The existing 3A2/LogWorks path remains supported while the new hardware is developed alongside it; no retirement decision exists.",
+      "evidence_date": null,
+      "reopen_trigger": "Only an explicit supported migration decision should change the working test-day path.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/8e39b18ebf1b6e1c363713411570802eb71fe040/README.md",
+      "source_note": "Records absence of an approval, not an invented proposal that the owner rejected.",
+      "id": "DEC-024"
+    },
+    {
+      "product_slug": "raceos",
+      "approach": "Clean-sheet ECU firmware as the active architecture",
+      "status": "archived",
+      "reason": "The clean-sheet route accumulated software defects before physical ECU execution; the hybrid approach retained the known-running hardware/timing foundation.",
+      "evidence_date": "2026-08-11",
+      "reopen_trigger": "Only an explicit architecture change justified by evidence should revive it.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/firmware/RaceOS-CleanSheet-Archive/README.md",
+      "source_note": "Frozen historical work, not another active ECU product.",
+      "id": "DEC-025"
+    },
+    {
+      "product_slug": "raceos",
+      "approach": "Mass deletion of inherited OSE routines",
+      "status": "superseded",
+      "reason": "The accepted hybrid progressively replaces selected control strategy and can leave harmless inactive code; broad deletion is not the current method.",
+      "evidence_date": "2026-08-11",
+      "reopen_trigger": "Reopen only for a demonstrated problem and an explicit architecture decision.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/docs/PROJECT_STATUS.md",
+      "source_note": "Historical implementation approach, not a separate product or current to-do.",
+      "id": "DEC-026"
+    },
+    {
+      "product_slug": "raceos",
+      "approach": "Ordinary high-speed UART-style bit-banging on the investigated ECU outputs",
+      "status": "rejected",
+      "reason": "The investigated output/timing constraints made that telemetry approach unsuitable; later work used a different signalling architecture.",
+      "evidence_date": null,
+      "reopen_trigger": "New hardware/timing evidence and independent review would be needed before changing the telemetry route.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/d5b45f8b80abb223ed062dae374cf1d6ca135f92/docs/RACEOS_ESP32_TELEMETRY_INVESTIGATION.md",
+      "source_note": "The investigation spans multiple revisions through early September; exact rejection date is not assigned. Physical pin experiments do not validate the complete later system.",
+      "id": "DEC-027"
+    },
+    {
+      "product_slug": "racecal",
+      "approach": "Universal ROM suite or live logging/analysis inside RaceCal",
+      "status": "out_of_scope",
+      "reason": "RaceCal is a focused offline calibration tool. Logging and live analysis belong in a separate test-day application, not a required calibration dependency.",
+      "evidence_date": "2026-08-02",
+      "reopen_trigger": "An explicit new product/use-case decision must precede expanding this boundary.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/docs/RACECAL_PROJECT_SUMMARY.md",
+      "source_note": "2 August dates the explicit logging closure; the general focused-app boundary is also recorded. Historical rules rationale is not a fresh compliance claim.",
+      "id": "DEC-028"
+    },
+    {
+      "product_slug": "racecal",
+      "approach": "Map B and map-switching work for the recorded car",
+      "status": "out_of_scope",
+      "reason": "The recorded car requirements used a permanent Map A and did not permit the proposed switch input; it was not a useful task for that setup.",
+      "evidence_date": "2026-08-01",
+      "reopen_trigger": "A verified different car/use case and explicit owner request would be required.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/docs/RACECAL_PROJECT_SUMMARY.md",
+      "source_note": "Do not generalize this historical car-specific decision to all current racing regulations.",
+      "id": "DEC-029"
+    },
+    {
+      "product_slug": "racecal",
+      "approach": "Permanent Trigg migration wizard and open-ended reverse engineering",
+      "status": "rejected",
+      "reason": "The one-off calibration migration was sufficiently completed; a permanent wizard and further optional reverse engineering were unnecessary.",
+      "evidence_date": "2026-08-02",
+      "reopen_trigger": "A repeated real migration need or concrete unresolved issue must be explicitly reopened.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/docs/RACECAL_PROJECT_SUMMARY.md",
+      "source_note": "Two related closures share the recorded date; neither is an active product blocker.",
+      "id": "DEC-030"
+    },
+    {
+      "product_slug": "racecal",
+      "approach": "Injector sizing assistant",
+      "status": "rejected",
+      "reason": "Existing flow configuration and duty estimates covered the actual need; inverse sizing recommendations relied on unverified assumptions.",
+      "evidence_date": "2026-08-02",
+      "reopen_trigger": "A validated method and explicit unmet user need would be required.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/docs/RACECAL_PROJECT_SUMMARY.md",
+      "source_note": "Do not confuse this dropped recommendation wizard with existing injector calibration features or FlowCal.",
+      "id": "DEC-031"
+    },
+    {
+      "product_slug": "flowcal",
+      "approach": "Injector-set matching UI and automatic bench hardware control",
+      "status": "out_of_scope",
+      "reason": "The bench already handles set matching, while FlowCal records and calculates manually measured results; hardware control would be a separate project.",
+      "evidence_date": null,
+      "reopen_trigger": "An explicit need beyond the current bench workflow and a separate scope decision are required.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-FlowCal/blob/6aa0fd8d321fb8a2d666015ac69675ba7de6a3b6/README.md",
+      "source_note": "Matching is excluded in the README; hardware-control exclusion is also recorded in the same snapshot's CLAUDE.md. Application inactivity is a separate owner-priority state.",
+      "id": "DEC-032"
+    },
+    {
+      "product_slug": "sprinttach-history",
+      "approach": "Historical VI-511 segmented-display production route",
+      "status": "rejected",
+      "reason": "The recorded small-quantity availability, minimum order and lead-time economics did not fit initial production.",
+      "evidence_date": null,
+      "reopen_trigger": "Materially higher volume or a viable existing low-quantity display source would be needed, within an explicit new product decision.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-SprintTach/blob/f58b3cdfb9900cb17b1e0d4e17723f32088ed2ef/hardware/rev2-sourcing/LCD-CANDIDATES.md",
+      "source_note": "Historical precursor decisions; current RevMax display selection remains authoritative.",
+      "id": "DEC-033"
+    },
+    {
+      "product_slug": "sprinttach-history",
+      "approach": "VI-415 and small-digit alternatives as the next production display",
+      "status": "rejected",
+      "reason": "The pilot rescue display lacked the required production digit count, and several alternatives had inadequate readable digit size; an earlier pinout concern was not the decisive reason.",
+      "evidence_date": null,
+      "reopen_trigger": "Only a changed display requirement or a demonstrated suitable module justifies revisiting them.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-SprintTach/blob/f58b3cdfb9900cb17b1e0d4e17723f32088ed2ef/hardware/rev2-sourcing/LCD-CANDIDATES.md",
+      "source_note": "VI-415 retained pilot-rescue value. Rejection for the next production design is not rejection of the historical pilot itself.",
+      "id": "DEC-034"
+    },
+    {
+      "product_slug": "ecu-archive",
+      "approach": "Treating monorepo technical copies as current standalone products or duplicate projects",
+      "status": "superseded",
+      "reason": "RaceOS, RaceCal, RaceLogger and FlowCal were extracted into canonical repositories; the old monorepo retains history and the shared control file.",
+      "evidence_date": null,
+      "reopen_trigger": "Use archived content for provenance; update implementation in its current canonical repository.",
+      "source_url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/docs/MIGRATION_NOTES.md",
+      "source_note": "Several migrations occurred on different dates; no single decision date is assigned.",
+      "id": "DEC-035"
+    },
+    {
+      "product_slug": "electronic-bleeders",
+      "approach": "Rim-mounted TPMS-style electronic bleeder",
+      "status": "rejected",
+      "reason": "Rotating mass/force, packaging and test practicality made this unsuitable; centre-axle work resumed.",
+      "evidence_date": "2026-11-04",
+      "reopen_trigger": "New physical evidence resolving the rotating installation problems.",
+      "source_url": null,
+      "source_note": "L-JOBS",
+      "source_ids": [
+        "L-JOBS"
+      ],
+      "id": "DEC-036"
+    },
+    {
+      "product_slug": "electronic-bleeders",
+      "approach": "Mechanical tank-and-bleeder route",
+      "status": "rejected",
+      "reason": "Owner reported difficult setting, extra fittings and practical dust/G-force failure concerns.",
+      "evidence_date": "2026-10-25",
+      "reopen_trigger": "A materially different proven practical solution, not another generic mechanical recommendation.",
+      "source_url": null,
+      "source_note": "L-BLEEDER",
+      "source_ids": [
+        "L-BLEEDER"
+      ],
+      "id": "DEC-037"
+    },
+    {
+      "product_slug": "electronic-bleeders",
+      "approach": "Previously investigated SMC valve",
+      "status": "rejected",
+      "reason": "Commercial cost and availability did not fit the product.",
+      "evidence_date": "2026-10-25",
+      "reopen_trigger": "A verified affordable repeatable supply or materially changed economics.",
+      "source_url": null,
+      "source_note": "L-BLEEDER",
+      "source_ids": [
+        "L-BLEEDER"
+      ],
+      "id": "DEC-038"
+    },
+    {
+      "product_slug": "electronic-bleeders",
+      "approach": "Latching/servo/proportional valve or pump expansion",
+      "status": "deferred",
+      "reason": "Complexity, failure behaviour, sourcing and scope were not justified for the initial concept.",
+      "evidence_date": "2026-10-25",
+      "reopen_trigger": "A demonstrated need that the simple chosen route cannot meet.",
+      "source_url": null,
+      "source_note": "L-BLEEDER",
+      "source_ids": [
+        "L-BLEEDER"
+      ],
+      "id": "DEC-039"
+    },
+    {
+      "product_slug": "tyre-gauge",
+      "approach": "Large industrial bleed valves or expensive imported bare cartridges",
+      "status": "rejected",
+      "reason": "Wrong physical format or commercially unsuitable small-quantity delivered cost.",
+      "evidence_date": "2026-09-25",
+      "reopen_trigger": "A correctly sized repeatably buyable low-pressure cartridge with viable economics.",
+      "source_url": null,
+      "source_note": "C-SEP25",
+      "source_ids": [
+        "C-SEP25"
+      ],
+      "id": "DEC-040"
+    },
+    {
+      "product_slug": "revmax",
+      "approach": "OEM/white-label tach sourcing as an automatically approved replacement",
+      "status": "not_approved",
+      "reason": "Historical buy-versus-build research never established a suitable validated replacement for current RevMax.",
+      "evidence_date": "2026-09-16",
+      "reopen_trigger": "An actually purchasable platform meeting the established practical requirements.",
+      "source_url": null,
+      "source_note": "R_SPRINT_SCOPE",
+      "source_ids": [
+        "R_SPRINT_SCOPE"
+      ],
+      "id": "DEC-041"
+    },
+    {
+      "product_slug": "revmax",
+      "approach": "Exposed face stickers and labour-heavy home wet coating",
+      "status": "deprioritized",
+      "reason": "Durability concerns and manual finishing burden led to the selected supplier-made face direction.",
+      "evidence_date": null,
+      "reopen_trigger": "New material/process evidence without increasing assembly burden.",
+      "source_url": null,
+      "source_note": "R-REVMAX-FACE",
+      "source_ids": [
+        "R-REVMAX-FACE"
+      ],
+      "id": "DEC-042"
+    },
+    {
+      "product_slug": "sprinttach-history",
+      "approach": "Custom segmented-LCD glass for the initial small batch",
+      "status": "deferred",
+      "reason": "Tooling, minimum quantity and amortisation were not justified for the initial volume.",
+      "evidence_date": null,
+      "reopen_trigger": "Materially greater volume or a demonstrably viable tooling/supply offer.",
+      "source_url": null,
+      "source_note": "R_SPRINT_DISPLAYS",
+      "source_ids": [
+        "R_SPRINT_DISPLAYS"
+      ],
+      "id": "DEC-043"
+    },
+    {
+      "product_slug": "digital-race-dash",
+      "approach": "Starting PCB/case before the display is sourced",
+      "status": "not_approved",
+      "reason": "The display is the first selection; otherwise its cost, mounting and daylight performance can invalidate the design.",
+      "evidence_date": "2026-11-04",
+      "reopen_trigger": "The existing display requirements are met by a verified supply.",
+      "source_url": null,
+      "source_note": "C-NOV04",
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "DEC-044"
+    },
+    {
+      "product_slug": "helmet-tearoffs",
+      "approach": "Loose individual sheets or universal-fit stock assumptions",
+      "status": "out_of_scope",
+      "reason": "Owner selected laminated stacks; actual helmet fitment and pack definition must be retained.",
+      "evidence_date": "2026-10-22",
+      "reopen_trigger": "An explicit different customer/use-case decision.",
+      "source_url": null,
+      "source_note": "L-SIDE",
+      "source_ids": [
+        "L-SIDE"
+      ],
+      "id": "DEC-045"
+    }
+  ]
+}

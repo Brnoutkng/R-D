@@ -1,0 +1,3583 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-17",
+  "timezone": "Australia/Melbourne",
+  "ideas": [
+    {
+      "slug": "revmax",
+      "name": "RevMax recall tachometer",
+      "aliases": [
+        "Rev-Max",
+        "RecallTach",
+        "RPM recall tach"
+      ],
+      "category": "Core products",
+      "kind": "product",
+      "status": "active-development",
+      "stage": "Working prototype; preproduction and first-batch assembly preparation",
+      "summary": "Simple battery-powered live and last-run maximum RPM instrument for grassroots Speedway.",
+      "reason": "Working prototype established. Remaining assembly parts, gasket/sealing and production checks are still being completed.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-RecallTach",
+      "repo_state": "Dedicated development repo; main status dated 12 November. Later owner discussions update parts and gasket progress.",
+      "evidence_date": "2026-11-17",
+      "basis": "Repository and recovered owner decisions",
+      "confidence": "high",
+      "next_step": "Complete assembly parts and gasket, finish manufacturer preview checks, then verify assembled production-intent units.",
+      "reopen_trigger": "Revisit settled architecture only for a measured fault or materially changed supply/cost evidence.",
+      "boundaries": [
+        "Simple RPM and maximum recall; no app, wireless, logging or dash expansion in V1.",
+        "An upload-ready package does not establish that production boards were ordered.",
+        "Production connector selection is settled; actual mating and assembled fit still require verification."
+      ],
+      "history": [
+        {
+          "date": "2026-11-02",
+          "decision": "Owner reported the prototype coil-negative input working."
+        },
+        {
+          "date": "2026-11-11",
+          "decision": "Production connector route selected and board changes recorded; earlier undecided state superseded."
+        },
+        {
+          "date": "2026-11-12",
+          "decision": "Updated assembly package reached upload-review stage; not production release."
+        },
+        {
+          "date": "2026-11-17",
+          "decision": "Recovered owner discussions show assembly-parts and gasket work continuing."
+        }
+      ],
+      "source_ids": [
+        "R_REVMAX_STATUS",
+        "R_REVMAX_SCOPE",
+        "R_REVMAX_DECISIONS",
+        "R_REVMAX_CONNECTOR",
+        "C-NOV13-17"
+      ],
+      "id": "RD-001",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "receiver",
+      "name": "Speedway race-control receiver",
+      "aliases": [
+        "Race Receiver",
+        "R2",
+        "BK4819 receiver",
+        "R1/P16B/P17"
+      ],
+      "category": "Core products",
+      "kind": "product",
+      "status": "active-development",
+      "stage": "R2 board and manufacturing preparation; physical prototype validation pending",
+      "summary": "Compact rechargeable receive-only race-control radio with physical controls and headphone audio.",
+      "reason": "R2 replaces the expensive earlier commercial architecture. Chip supply intake is resolved; the finished receiver is not yet physically proven.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver",
+      "repo_state": "Main is older R1 history. Active R2 evidence is claude/r2-bk4819-carrier at c432c87, dated 12 November.",
+      "evidence_date": "2026-11-12",
+      "basis": "Repository and recovered owner decisions",
+      "confidence": "high",
+      "next_step": "Finish actual assembly-preview checks, build prototypes and test RF/audio, runtime and mounted-display/enclosure fit.",
+      "reopen_trigger": "Measured failure or loss of a viable low-volume supply path.",
+      "boundaries": [
+        "Receive-only; no transmission, telemetry, logging or app.",
+        "Chip receipt proves intake, not authenticity or finished-radio performance.",
+        "Older P16B boards retain test value; do not label them physically worthless.",
+        "Mounted display retained; folded-ribbon arrangements are superseded."
+      ],
+      "history": [
+        {
+          "date": "2026-11-05",
+          "decision": "Owner moved toward lower-cost R2 and domestic chip consignment."
+        },
+        {
+          "date": "2026-11-12",
+          "decision": "R2 requirements record chip receipt into the assembler's parts library."
+        }
+      ],
+      "source_ids": [
+        "R_RECEIVER_R2_SCOPE",
+        "R_RECEIVER_R2_STATUS",
+        "R_RECEIVER_PREVIEW",
+        "C-NOV13-17"
+      ],
+      "id": "RD-002",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "tyre-gauge",
+      "name": "Precision motorsport tyre-pressure gauge",
+      "aliases": [
+        "TyreGauge",
+        "Digital tyre gauge"
+      ],
+      "category": "Core products",
+      "kind": "product",
+      "status": "investigation",
+      "stage": "Dedicated repo; transducer and donor-gauge sample assessment; complete-product route not yet validated",
+      "summary": "Handheld low-pressure digital gauge focused on stable, repeatable measurement and manual bleed.",
+      "reason": "One custom precision-sensor route failed cost/supply economics. The complete product remains open, with samples and an OEM route needing verification.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-TyreGauge",
+      "repo_state": "Dedicated repo; latest handover 20 October. Sample identity/testing still unconfirmed in that record.",
+      "evidence_date": "2026-11-08",
+      "basis": "Repository and cross-project control; newer owner status still needed",
+      "confidence": "high",
+      "next_step": "Identify and test received transducers, and evaluate any complete OEM candidate against actual low-pressure performance and landed economics.",
+      "reopen_trigger": "A verified low-quantity measurement/source route meeting both accuracy and cost requirements.",
+      "boundaries": [
+        "Product is not rejected merely because one sensor route failed.",
+        "Display resolution is not measurement accuracy.",
+        "No app, cloud, tyre-temperature or session-logging burden in V1.",
+        "Newer sample/testing updates supersede blanket no-samples wording; exact present sample inventory and full performance are not established by this review."
+      ],
+      "history": [
+        {
+          "date": "2026-10-06",
+          "decision": "OEM/private-label-first investigation reopened in project control."
+        },
+        {
+          "date": "2026-10-20",
+          "decision": "Handover reports sample transducers believed arrived, with identity and tests unresolved."
+        }
+      ],
+      "source_ids": [
+        "R_TYRE_STATUS",
+        "R_TYRE_COST_GATE",
+        "R_TYRE_SCOPE",
+        "R_CONTROL",
+        "C-NOV08"
+      ],
+      "id": "RD-003",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "racelogger",
+      "name": "RaceLogger Dev-1",
+      "aliases": [
+        "RaceLogger",
+        "Minimal development logger"
+      ],
+      "category": "Software and internal tools",
+      "kind": "internal-tool",
+      "status": "active-internal",
+      "stage": "Personal development hardware received; bring-up and complete-system validation pending",
+      "summary": "Capture ECU operating data and direct wideband lambda on a common timebase for the owner's race-car tuning.",
+      "reason": "Owner simplified the integrated design into a personal Dev-1 tool. Board arrival is reported; physical operation and reliable logging are not yet established.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-RaceLogger",
+      "repo_state": "Main dated 22 September; current Dev-1 package on claude/awesome-turing-wasmtz at e17b089, 3 October.",
+      "evidence_date": "2026-11-04",
+      "basis": "Repository and recovered owner hardware-arrival report",
+      "confidence": "high",
+      "next_step": "Program and bring up received hardware, verify ECU/wideband capture, then reliable storage and PC import.",
+      "reopen_trigger": "Commercialization only after a useful working logger and explicit owner decision to support it as a product.",
+      "boundaries": [
+        "Current Dev-1 is a personal development tool, not an approved commercial product.",
+        "Preserve the existing TechEdge/LogWorks workflow.",
+        "Reliable capture comes before a new live dashboard.",
+        "RaceCal remains independent of logging."
+      ],
+      "history": [
+        {
+          "date": "2026-10-01",
+          "decision": "Complex integrated architecture parked in favour of minimal personal Dev-1."
+        },
+        {
+          "date": "2026-10-03",
+          "decision": "Dev-1 manufacturing package recorded."
+        },
+        {
+          "date": "2026-11-04",
+          "decision": "Owner reported logger boards arrived; programming/test readiness remained unresolved."
+        }
+      ],
+      "source_ids": [
+        "R_LOGGER_SCOPE",
+        "R_LOGGER_DEV1",
+        "R_LOGGER_PACKAGE",
+        "R_CONTROL",
+        "L-JOBS"
+      ],
+      "id": "RD-004",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "logworks",
+      "name": "LogWorks",
+      "aliases": [
+        "TechEdge logging and analysis application"
+      ],
+      "category": "Software and internal tools",
+      "kind": "internal-tool",
+      "status": "active-internal",
+      "stage": "Implemented test-day logging and analysis application",
+      "summary": "PC logging, download, live display and tuning analysis for the existing wideband workflow.",
+      "reason": "Existing operational software is retained while new logger hardware is developed; no separate commercial launch decision found.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-RaceLogger",
+      "repo_state": "Application lives in apps/LogWorks inside RaceLogger; not a missing standalone repo.",
+      "evidence_date": null,
+      "basis": "Repository and undated active-race-season control entry",
+      "confidence": "high",
+      "next_step": "Preserve test-day reliability; integrate new logger hardware after its capture format and behavior are proven.",
+      "reopen_trigger": "A specific operational blocker or validated new logger integration.",
+      "boundaries": [
+        "Separate from RaceCal; calibration must not depend on logging.",
+        "Existing PC dashboard is distinct from deferred onboard display and proposed commercial dash.",
+        "Historical rules rationale is not a current compliance assessment."
+      ],
+      "history": [
+        {
+          "date": null,
+          "decision": "Logging/analysis kept in a separate application from offline calibration."
+        },
+        {
+          "date": null,
+          "decision": "Existing TechEdge support retained during RaceLogger development."
+        }
+      ],
+      "source_ids": [
+        "R_LOGWORKS",
+        "R_CONTROL"
+      ],
+      "id": "RD-005",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "raceos",
+      "name": "RaceOS",
+      "aliases": [
+        "RaceOS Hybrid",
+        "RaceFuel",
+        "RaceSpark"
+      ],
+      "category": "Software and internal tools",
+      "kind": "internal-tool",
+      "status": "active-internal",
+      "stage": "Implemented race ECU firmware with partial physical engine-test evidence",
+      "summary": "Focused engine strategy for the existing race ECU and owner's calibration workflow.",
+      "reason": "An active race-season tool; accepted hybrid direction retains proven low-level behavior. Further calibration and track evidence remain separate.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-RaceOS",
+      "repo_state": "Canonical standalone repo; main dated 22 September. Active label comes from a control entry without its own decision date.",
+      "evidence_date": null,
+      "basis": "Repository, physical test records and cross-project control",
+      "confidence": "high",
+      "next_step": "Address real tuning blockers and collect engine/track evidence for the changes actually in use.",
+      "reopen_trigger": "A measured engine/track problem or explicitly selected requirement, not a general rewrite.",
+      "boundaries": [
+        "Not a commercially released universal ECU.",
+        "RaceFuel/RaceSpark are strategy modules, not separate hardware products.",
+        "Clean-sheet rewrite and wholesale routine deletion are superseded.",
+        "Passing earlier physical stages does not validate every later calibration."
+      ],
+      "history": [
+        {
+          "date": "2026-08-11",
+          "decision": "Hybrid architecture retained; clean-sheet and mass-deletion paths frozen/superseded."
+        },
+        {
+          "date": "2026-08-28",
+          "decision": "Recorded physical engine-test stages completed; later track validation remains distinct."
+        }
+      ],
+      "source_ids": [
+        "R_RACEOS",
+        "R_RACEOS_ENGINE",
+        "R_ECU_ARCHIVE",
+        "R_CONTROL"
+      ],
+      "id": "RD-006",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "racecal",
+      "name": "RaceCal",
+      "aliases": [
+        "TuneWorks"
+      ],
+      "category": "Software and internal tools",
+      "kind": "internal-tool",
+      "status": "active-internal",
+      "stage": "Substantial offline calibration application implemented",
+      "summary": "Focused Windows application to edit, review and export ECU calibrations in practical engineering units.",
+      "reason": "Active race-season tuning tool. Current effort supports the actual tune, rather than a new broad software product.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-RaceCal",
+      "repo_state": "Canonical standalone repo; main dated 26 September. Changelog is newer than README version heading.",
+      "evidence_date": null,
+      "basis": "Repository and undated active-race-season control entry",
+      "confidence": "high",
+      "next_step": "Resolve material tuning workflow problems and verify relevant changes in the real use case.",
+      "reopen_trigger": "A concrete recurring calibration need or explicit broader-product decision.",
+      "boundaries": [
+        "Offline calibration; no mandatory dependency on logging.",
+        "Not a universal ROM editor or released general tuning suite.",
+        "Previously dropped one-off wizards and speculative assistants stay closed without a new need."
+      ],
+      "history": [
+        {
+          "date": "2026-08-02",
+          "decision": "TuneWorks renamed RaceCal; logging kept separate and one-off migration/assistant features dropped."
+        },
+        {
+          "date": "2026-09-26",
+          "decision": "Standalone main includes additional implemented/unreleased application work."
+        }
+      ],
+      "source_ids": [
+        "R_RACECAL",
+        "R_RACECAL_CHANGELOG",
+        "R_RACECAL_HISTORY",
+        "R_CONTROL"
+      ],
+      "id": "RD-007",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "flowcal",
+      "name": "FlowCal injector-bench software",
+      "aliases": [
+        "Injector flow and dead-time calculator"
+      ],
+      "category": "Software and internal tools",
+      "kind": "internal-tool",
+      "status": "paused-priority",
+      "stage": "Application and calculation core developed; complete physical bench acceptance not established by this review",
+      "summary": "Record manually measured injector flow and derive flow/dead-time results while retaining raw measurements.",
+      "reason": "Explicitly inactive unless the owner reactivates it; not rejected on cost or feasibility.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-FlowCal",
+      "repo_state": "Standalone repo established 8 September with UI, calculation core, persistence and tests.",
+      "evidence_date": null,
+      "basis": "Repository and cross-project control; pause decision individually undated",
+      "confidence": "high",
+      "next_step": "No automatic new development; on reactivation, verify the Windows workflow and real bench measurements.",
+      "reopen_trigger": "Explicit owner reactivation for a real injector-bench need.",
+      "boundaries": [
+        "Not the separate digital flow-bench processor opportunity.",
+        "Does not automatically control bench hardware or edit ECU calibrations.",
+        "Repository migration and software tests do not establish bench validation."
+      ],
+      "history": [
+        {
+          "date": "2026-09-08",
+          "decision": "Moved to its standalone canonical repository without implying new hardware validation."
+        },
+        {
+          "date": null,
+          "decision": "Marked inactive unless owner reactivates; no cost rejection recorded."
+        }
+      ],
+      "source_ids": [
+        "R_FLOWCAL",
+        "R_FLOWCAL_MIGRATION",
+        "R_CONTROL"
+      ],
+      "id": "RD-008",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "street-hit-pro",
+      "name": "Street Hit Pro",
+      "aliases": [
+        "Street Hit",
+        "GPS/RPM performance tester"
+      ],
+      "category": "Core products",
+      "kind": "product",
+      "status": "paused-cost",
+      "stage": "Hardware design and original prototype package exist; cost-rework alternative unfinished",
+      "summary": "Hardware-led portable GPS/RPM device for acceleration testing and before/after tuning comparison, with a phone interface.",
+      "reason": "Manufacturing economics were too close to complete competing devices. The hardware is the product's main value; app progress does not clear its cost hold.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-Pro",
+      "repo_state": "Main is stale. Original prototype package on claude/rev-a-schematic-bom-yyj68i; separate rev-a-sam-m10q-simplified branch stopped unfinished.",
+      "evidence_date": "2026-11-04",
+      "basis": "Repository and recovered owner decisions",
+      "confidence": "high",
+      "next_step": "Recover the intended hardware baseline and establish viable finished-product economics before another prototype commitment.",
+      "reopen_trigger": "Materially improved complete-product cost/supply path and explicit owner restart.",
+      "boundaries": [
+        "Companion app is not the main commercial proposition.",
+        "Three-run averaging is optional under newer owner direction.",
+        "Unfinished simplified branch is not manufacturing-ready.",
+        "Design files do not prove an ordered or validated physical product."
+      ],
+      "history": [
+        {
+          "date": "2026-09-15",
+          "decision": "Original hardware reached a prototype upload package; simplified integrated-antenna alternative stopped unfinished."
+        },
+        {
+          "date": "2026-11-04",
+          "decision": "Owner reiterated hardware-first value, optional averaging and manufacturing-cost blocker."
+        }
+      ],
+      "source_ids": [
+        "R_STREET_SCOPE",
+        "R_STREET_NEO_PACKAGE",
+        "R_STREET_SAM_LAYOUT",
+        "R_CONTROL",
+        "C-NOV04"
+      ],
+      "id": "RD-009",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "street-hit-app",
+      "name": "Street Hit companion app and analysis core",
+      "aliases": [
+        "Street Hit App",
+        "SHP software"
+      ],
+      "category": "Software and internal tools",
+      "kind": "companion",
+      "status": "active-as-needed",
+      "stage": "M1 measurement core and real-data ingestion implemented; production app unfinished",
+      "summary": "Analysis engine and intended phone interface supporting Street Hit Pro performance comparisons.",
+      "reason": "The comparison/ingestion core exists and is retained as needed. Repeatability still needs physical evidence; wider app work follows the hardware product economics and priority.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-App",
+      "repo_state": "Separate companion repository; M1 merged into main on 16 September.",
+      "evidence_date": "2026-11-04",
+      "basis": "Repository and recovered owner scope correction",
+      "confidence": "high",
+      "next_step": "Accept repeated unchanged-pull data when practical, quantify the comparison floor, and maintain the existing analysis core as needed.",
+      "reopen_trigger": "Relevant real-data evidence or an actual analysis requirement; this work does not require a new hardware order.",
+      "boundaries": [
+        "Companion to Street Hit Pro, not a separately approved software product.",
+        "No finished mobile UI or direct hardware BLE integration evidenced.",
+        "Synthetic sensitivity results do not establish real-world detection accuracy.",
+        "Older mandatory-three-run scope is superseded; averaging is optional."
+      ],
+      "history": [
+        {
+          "date": "2026-09-16",
+          "decision": "M1 real RaceBox ingestion and measurement characterization merged."
+        },
+        {
+          "date": "2026-11-04",
+          "decision": "Owner clarified that hardware is primary and averaging is an optional capability."
+        }
+      ],
+      "source_ids": [
+        "R_STREET_APP",
+        "R_STREET_DATA",
+        "R_CONTROL",
+        "C-NOV04"
+      ],
+      "parent_slug": "street-hit-pro",
+      "id": "RD-010",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "pdm",
+      "name": "Standalone motorsport PDM",
+      "aliases": [
+        "SkidLabz PDM",
+        "Power distribution module"
+      ],
+      "category": "Core products",
+      "kind": "product",
+      "status": "paused-priority",
+      "stage": "Feasibility and architecture recorded; no schematic, PCB or firmware",
+      "summary": "Protected power distribution and simple switch/sensor logic for older-style race cars.",
+      "reason": "Explicitly parked at a go/no-go decision point. Paper investigation found no technical show-stopper; this is not a cost rejection or physical validation.",
+      "repo": "https://github.com/Brnoutkng/Skidlabz-PDM",
+      "repo_state": "Dedicated repo on main; feasibility snapshot 13 October. Older control entry saying no repo is superseded.",
+      "evidence_date": "2026-10-13",
+      "basis": "Dated repository feasibility and owner deferment context",
+      "confidence": "high",
+      "next_step": "If promoted, continue with actual floorplan, schematic, exact sourcing/quotes and prototype current/thermal validation.",
+      "reopen_trigger": "Deliberate owner decision to allocate development effort and accept a viable commercial plan.",
+      "boundaries": [
+        "No display required in base PDM.",
+        "Future CAN dash/accessories remain optional, not prerequisites.",
+        "Do not repeat the feasibility investigation or reopen settled connectors without evidence."
+      ],
+      "history": [
+        {
+          "date": "2026-10-13",
+          "decision": "Feasibility completed sufficiently for go/no-go; project parked, not abandoned."
+        }
+      ],
+      "source_ids": [
+        "R_PDM",
+        "R_PDM_FEASIBILITY"
+      ],
+      "id": "RD-011",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "knock-meter",
+      "name": "Portable Knock Meter",
+      "aliases": [
+        "KnockMeter",
+        "Knockometer",
+        "Standalone knock monitor",
+        "Filtered knock listener"
+      ],
+      "category": "Core products",
+      "kind": "product",
+      "status": "paused-priority",
+      "stage": "Actual-instrument schematic candidate and research exist; no routed/released PCB",
+      "summary": "Portable knock-listening and LED indication instrument with independent volume and sensitivity controls.",
+      "reason": "Lower current priority. Sourcing, front-control fit, cost and release checks remain; the product itself was not rejected.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-KnockMeter",
+      "repo_state": "Dedicated repo; latest engineering/owner guidance 27 October. Schematic exists, but layout/order release does not.",
+      "evidence_date": "2026-11-04",
+      "basis": "Repository and recovered owner priority; pause date not established",
+      "confidence": "high",
+      "next_step": "On reactivation, complete exact controls/assembly fit, sensor/loom sourcing and costed actual-instrument prototype proposal.",
+      "reopen_trigger": "Owner promotes it and the remaining practical fit/cost/sourcing path is credible.",
+      "boundaries": [
+        "Monitor/listen only; no ignition control or validated engine-protection claim.",
+        "Separate owner-built test rigs were rejected.",
+        "Battery data is a parallel release dependency, not a reason to stop unrelated work.",
+        "Offline replay and schematic checks are not physical knock-detection validation."
+      ],
+      "history": [
+        {
+          "date": "2026-10-25",
+          "decision": "Owner rejected additional homemade test rigs; continue toward actual assembled instrument."
+        },
+        {
+          "date": "2026-10-27",
+          "decision": "Continue controls, connectors and real fit; battery work remains bounded and parallel."
+        },
+        {
+          "date": null,
+          "decision": "Subsequent owner priority places the project below current products; no permanent rejection."
+        }
+      ],
+      "source_ids": [
+        "R_KNOCK_STATUS",
+        "R_KNOCK_PRIORITY",
+        "R_KNOCK_CONTROLS",
+        "L-JOBS"
+      ],
+      "id": "RD-012",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "sprinttach-history",
+      "name": "SprintTach historical predecessor",
+      "aliases": [
+        "Sprint Tach",
+        "Early Recall Tach"
+      ],
+      "category": "Historical reference",
+      "kind": "product",
+      "status": "superseded",
+      "stage": "Historical requirements, pilot and alternative display/prototype development",
+      "summary": "Earlier self-powered recall-tach project retained for measurements and decision history behind current RevMax.",
+      "reason": "Current product development moved to RecallTach/RevMax; the historical repo is not a second live product.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-SprintTach",
+      "repo_state": "Main is an early requirements baseline. Pilot/recovery/TFT branches contain later historical hardware work.",
+      "evidence_date": null,
+      "basis": "Repository and recovered owner supersession decision",
+      "confidence": "high",
+      "next_step": "Consult as reference for past decisions; use RecallTach for current product work.",
+      "reopen_trigger": "Only explicit owner reactivation for a clearly different need.",
+      "boundaries": [
+        "Do not count separately as a current commercial tach.",
+        "Historical display and pilot states must not override current RevMax.",
+        "Some display routes failed supply or readability; other candidates were merely demoted/unselected."
+      ],
+      "history": [
+        {
+          "date": "2026-09-16",
+          "decision": "Initial requirements baseline established."
+        },
+        {
+          "date": null,
+          "decision": "Small segmented-display pilot recorded in production; later TFT branch retained as an unapproved prototype alternative."
+        },
+        {
+          "date": null,
+          "decision": "Marked reference-only/superseded by current RecallTach product."
+        }
+      ],
+      "source_ids": [
+        "R_SPRINT_SCOPE",
+        "R_SPRINT_PILOT",
+        "R_SPRINT_DISPLAYS",
+        "R_CONTROL"
+      ],
+      "id": "RD-013",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "ecu-archive",
+      "name": "ECU Development archive and project control",
+      "aliases": [
+        "Original SkidLabz monorepo"
+      ],
+      "category": "Historical reference",
+      "kind": "infrastructure",
+      "status": "superseded",
+      "stage": "Historical technical archive; cross-project control host retained",
+      "summary": "Original repository containing historical firmware/application work and the shared project-control record.",
+      "reason": "Technical products now have standalone canonical repos. Retain provenance and control without duplicating their product entries.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-ECU-Development",
+      "repo_state": "Main control snapshot dated 12 November; historical technical files are not current standalone project authorities.",
+      "evidence_date": "2026-11-12",
+      "basis": "Repository migration/status records and cross-project control",
+      "confidence": "high",
+      "next_step": "Maintain control and historical references; undertake technical work in the corresponding standalone repos.",
+      "reopen_trigger": "No new product implied; use only for control/provenance or explicit owner-directed archival work.",
+      "boundaries": [
+        "Not an additional ECU product.",
+        "Old RaceCal, LogWorks and FlowCal copies must not be counted again.",
+        "Global control-file date does not mean every embedded project status was refreshed."
+      ],
+      "history": [
+        {
+          "date": "2026-08-11",
+          "decision": "Clean-sheet architecture frozen in favour of hybrid development."
+        },
+        {
+          "date": "2026-09-08",
+          "decision": "Standalone repository migrations separate current product authority from monorepo history."
+        },
+        {
+          "date": "2026-11-12",
+          "decision": "Cross-project control file remains hosted here."
+        }
+      ],
+      "source_ids": [
+        "R_ECU_ARCHIVE",
+        "R_ECU_CLEANSHEET",
+        "R_FLOWCAL_MIGRATION",
+        "R_CONTROL"
+      ],
+      "id": "RD-014",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "digital-race-dash",
+      "name": "Digital race dash",
+      "aliases": [
+        "Full race dash",
+        "TFT dash",
+        "PDM CAN dash/status display"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-sourcing",
+      "stage": "Concept and requirements defined; stopped before PCB/enclosure design",
+      "summary": "Affordable stand-alone race dash with a daylight-readable screen and a simple core instrument set.",
+      "reason": "No suitably priced display has been established with adequate daylight readability, integrated controller/carrier and accessible front mounting.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Resolve a purchasable display against the existing requirements before proceeding with PCB or case work.",
+      "reopen_trigger": "A suitable display with verified size, mounting, daylight performance, price and small-quantity supply.",
+      "boundaries": [
+        "Parked, not abandoned.",
+        "Do not substitute a bare ribbon panel or a dim framed HMI and call the screen problem solved.",
+        "Keep the PDM CAN status-display option related to this entry; it is not a second approved dash project."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04",
+        "L-JOBS",
+        "C-NOV08",
+        "C-NOV17-RECAP"
+      ],
+      "id": "RD-015",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "electronic-bleeders",
+      "name": "Sprintcar electronic tyre bleeders",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-feasibility",
+      "stage": "Mechanical, valve and cost feasibility; no validated prototype",
+      "summary": "Rechargeable electronic pressure-control units using the centre-axle installation and two tyre hoses.",
+      "reason": "Practical retention, economical valve supply, pressure-control validation and overall assembly cost remain open.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-08",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Use the retained axle/retention study and finish mechanical/valve feasibility before detailed electronics.",
+      "reopen_trigger": "Credible retention proof, affordable repeatable valve supply and a viable complete-unit cost.",
+      "boundaries": [
+        "Rim-mounted TPMS-style bleeder was set aside for rotating mass/force, packaging and test practicality.",
+        "Mechanical tank-and-bleeder route is not the chosen product.",
+        "Latching, servo/motor and proportional alternatives were deferred, not proven production solutions.",
+        "Pump-plus-bleeder is future scope only; no separate product was started."
+      ],
+      "history": [],
+      "source_ids": [
+        "L-BLEEDER",
+        "L-JOBS",
+        "C-NOV08"
+      ],
+      "id": "RD-016",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "torsion-bar-tester",
+      "name": "Torsion-bar tester",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-validation",
+      "stage": "Promising concept; validation method unresolved",
+      "summary": "Measure actual torsion-bar rate, identify unmarked bars and track rate changes over time.",
+      "reason": "No economical trusted reference bar/dyno or verification rig was available; a full rig would consume disproportionate time and cost.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "An affordable credible reference/verification route or explicit reactivation with that limitation accepted.",
+      "boundaries": [
+        "Do not claim fatigue or remaining-life measurement from rate alone.",
+        "An automated torsion dyno was a larger deferred approach."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "L-JOBS",
+        "C-NOV08"
+      ],
+      "id": "RD-017",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "race-scales",
+      "name": "RaceScales / complete corner-weight scales",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "OEM sourcing and own-pad economics investigated; no product developed",
+      "summary": "An affordable complete four-pad corner-weight system for grassroots racers.",
+      "reason": "Quoted supply and pad manufacturing were too costly; local complete products undercut direct-China offers. Large pads, calibration and freight defeated the intended economics.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A materially different, verified complete-set or pad supply cost; another electronics-only cost estimate is insufficient.",
+      "boundaries": [
+        "Old READY_TO_ORDER labels are stale and do not authorize an order.",
+        "A later limited-pad-reader suggestion did not reactivate the complete-scale product."
+      ],
+      "history": [
+        {
+          "date": "2026-10-20",
+          "decision": "Owner rejected both import/rebrand and own-pad commercial routes on economics."
+        },
+        {
+          "date": "2026-11-04",
+          "decision": "Saved portfolio list retained commercial sourcing rejection; no action."
+        }
+      ],
+      "source_ids": [
+        "C-OCT20",
+        "L-JOBS",
+        "C-NOV17-RECAP"
+      ],
+      "id": "RD-018",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "wideband-logger",
+      "name": "Commercial wideband / analogue race-car logger",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-scope",
+      "stage": "Use-case and feature investigation; no dedicated commercial development repo",
+      "summary": "A simple wideband, RPM and analogue-input logging product for older race cars.",
+      "reason": "Use cases, input/reference/ground arrangements and a simple viable product scope need resolution.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A chosen customer/use case and costed simple architecture.",
+      "boundaries": [
+        "Separate from the existing personal RaceLogger Dev-1 and LogWorks tools.",
+        "Later lambda-plus-RPM recording proposals are related research, not proof this project restarted.",
+        "Expansion, wireless and extra channels are optional scope ideas, not requirements automatically approved for a first product.",
+        "Six configurable analogue logging channels were accepted in the concept; wireless and EGT expansion were optional."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "C-NOV15",
+        "R_CONTROL"
+      ],
+      "id": "RD-019",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "valve-spring-checker",
+      "name": "On-engine digital valve-spring pressure checker",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Concept investigated; removed from commercial queue",
+      "summary": "Check installed spring pressure, shim setup and seasonal spring condition.",
+      "reason": "Owner rejected it because many alternatives already exist, expected racer sales are low and the commercial case is poor.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-27",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A materially different demonstrated market or differentiated product case, with deliberate owner reopening.",
+      "boundaries": [
+        "Do not restore the old strong-maybe label.",
+        "A basic load-cell-and-display product was already compared with inexpensive existing options."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "decision": "Initially a definite maybe."
+        },
+        {
+          "date": "2026-10-20",
+          "decision": "Explicit commercial rejection after further investigation."
+        },
+        {
+          "date": "2026-10-27",
+          "decision": "Removal from the commercial list reaffirmed."
+        }
+      ],
+      "source_ids": [
+        "C-OCT04",
+        "C-OCT20",
+        "C-OCT27"
+      ],
+      "id": "RD-020",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "rod-bolt-stretch",
+      "name": "Digital rod-bolt stretch gauge",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Owner-nominated idea; no design started",
+      "summary": "Measure rod-bolt stretch with better access, retention and ease of use while tightening.",
+      "reason": "Existing mechanical and digital products already address the basic measurement; a specific usability advantage has not been established.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-17",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Keep the wanted idea on file; recover/prove a useful access or retention advantage before engineering.",
+      "reopen_trigger": "A concrete unmet usability problem and a viable design/cost advantage.",
+      "boundaries": [
+        "The recent recap is secondary evidence; it is not a completed feasibility study."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "C-NOV17-RECAP"
+      ],
+      "id": "RD-021",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "plug-in-ssr",
+      "name": "Plug-in solid-state relay",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Owner-proposed concept; feasibility not completed",
+      "summary": "A solid-state replacement fitting an existing automotive relay position.",
+      "reason": "Load compatibility, heat, inrush, failure behaviour, packaging and complete economics remain unproven.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-12",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Define the exact replacement relay/load use case and evaluate the physical and commercial limits.",
+      "reopen_trigger": "A defined compatible load/socket scope and costed proof.",
+      "boundaries": [
+        "Do not silently expand it into a complete PDM or universal motor controller."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-022",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "flow-bench-processor",
+      "name": "Digital flow-bench processor",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Historical maybe; scope and feasibility not established",
+      "summary": "A digital measuring/processing upgrade for an airflow bench.",
+      "reason": "No recorded final architecture, supplier path or commercial approval was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Saved control-file opportunity; specific current owner decision not recovered",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A defined bench interface and useful product advantage.",
+      "boundaries": [
+        "Distinct from FlowCal injector-flow/dead-time software."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "R_CONTROL"
+      ],
+      "id": "RD-023",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "sonic-thickness",
+      "name": "Engine-block sonic thickness tester",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Historical maybe; no development repo",
+      "summary": "An engine-machining inspection tool for measuring remaining metal thickness.",
+      "reason": "The available record does not establish a specific rejection reason, approved design or commercial decision.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Saved control-file opportunity; specific current owner decision not recovered",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A deliberate feasibility selection and evidence of a viable advantage over available tools.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "R_CONTROL"
+      ],
+      "id": "RD-024",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "egt-monitor",
+      "name": "EGT monitor / multi-channel EGT expansion",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Maybe / possible logger expansion",
+      "summary": "Exhaust-temperature monitoring, either standalone or as an optional logger module.",
+      "reason": "Owner interest was tentative; a separate product decision and cost/measurement validation were not found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete change to the recorded blocker and a deliberate decision to resume.",
+      "boundaries": [
+        "Keep standalone EGT and logger expansion as related scope choices, not two funded projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-025",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "cam-angle-tool",
+      "name": "Digital cam-angle / degreeing tool",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Owner said maybe; no development found",
+      "summary": "A workshop cam-angle/degreeing measurement aid.",
+      "reason": "No selected architecture or specific final rejection reason was recovered.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete change to the recorded blocker and a deliberate decision to resume.",
+      "boundaries": [
+        "Distinct from the rejected cam-legality checking instrument for officials."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-026",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "shock-dyno",
+      "name": "Shock absorber dyno",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-priority",
+      "stage": "Wanted longer-term tool; no development started",
+      "summary": "A suspension damper testing tool.",
+      "reason": "The project was considered too large for the current workload and stage of the business.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "Time, resources and a deliberate move into a substantially larger development project.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-027",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "mfi-service-tester",
+      "name": "Mechanical-injection setup / service tester",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "deprioritized",
+      "stage": "Historical investigation; no dedicated repo",
+      "summary": "A focused setup or service instrument for mechanical fuel injection.",
+      "reason": "The saved control file deprioritizes this idea. A recovered assistant recap cites limited Australian equipment access and a tiny local market; the original owner wording for that rationale was not recovered.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Saved control-file disposition; access/market rationale recovered from an assistant recap",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A demonstrated reachable customer base and repeatable access to relevant equipment for validation.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "R_CONTROL"
+      ],
+      "id": "RD-028",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "race-ignition-diagnostics",
+      "name": "Pro-Mag / race-ignition diagnostic tools",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "deprioritized",
+      "stage": "Historical investigation; no dedicated repo",
+      "summary": "Specialist diagnostic equipment for race ignition systems.",
+      "reason": "The saved control file deprioritizes this idea. A recovered assistant recap cites limited Australian equipment access and a tiny local market; the original owner wording for that rationale was not recovered.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Saved control-file disposition; access/market rationale recovered from an assistant recap",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A credible market and practical access to representative ignition systems.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "R_CONTROL"
+      ],
+      "id": "RD-029",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "magneto-timer",
+      "name": "Standalone magneto timer",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "deprioritized",
+      "stage": "Historical investigation; no dedicated repo",
+      "summary": "A dedicated magneto setup/timing tool.",
+      "reason": "The saved control file deprioritizes this idea. A recovered assistant recap cites limited Australian equipment access and a tiny local market; the original owner wording for that rationale was not recovered.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Saved control-file disposition; access/market rationale recovered from an assistant recap",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A verified differentiated use case and reachable buyers.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "R_CONTROL"
+      ],
+      "id": "RD-030",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "transmission-controller",
+      "name": "Generic transmission controller",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-scope",
+      "stage": "Idea dropped; no development found",
+      "summary": "A generic aftermarket transmission-control product.",
+      "reason": "Owner dropped the idea; a more specific cost or technical rejection rationale was not recovered.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-05",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A new explicit product/use-case decision, not an assumption that the old idea remains queued.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-031",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "engine-guard",
+      "name": "EngineGuard / general engine-protection monitor",
+      "aliases": [
+        "EngineGuard"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-scope",
+      "stage": "Owner dropped the original concept",
+      "summary": "A general engine-monitoring/protection product.",
+      "reason": "Owner dropped EngineGuard and retained a simple knock monitor without automatic ignition control. Later direct-input warning/recall monitor suggestions do not establish a reopening.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-05",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A clearly differentiated revised scope selected by the owner.",
+      "boundaries": [
+        "Do not add ignition-retard or engine-protection promises to KnockMeter."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "C-NOV12"
+      ],
+      "id": "RD-032",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "whistler-compression",
+      "name": "Whistler / compression-ratio checker",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Historical concept rejected or parked for tiny market",
+      "summary": "An engine compression-ratio inspection instrument.",
+      "reason": "The recovered discussion placed this inspection-tool group in a tiny official/specialist market; approved-model requirements further limit some applications.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A demonstrated buyer pool and, where relevant, acceptance of an alternative instrument.",
+      "boundaries": [
+        "This records the historical commercial rationale; it is not a claim about current racing regulations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-033",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "capacity-checker",
+      "name": "Engine cubic-capacity checker",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Historical concept rejected or parked for tiny market",
+      "summary": "An engine-displacement checking instrument.",
+      "reason": "The recovered discussion placed this inspection-tool group in a tiny official/specialist market; approved-model requirements further limit some applications.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A demonstrated buyer pool and, where relevant, acceptance of an alternative instrument.",
+      "boundaries": [
+        "This records the historical commercial rationale; it is not a claim about current racing regulations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-034",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "fuel-legality",
+      "name": "Fuel-legality tester",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Historical concept rejected or parked for tiny market",
+      "summary": "A fuel compliance checking instrument.",
+      "reason": "The recovered discussion placed this inspection-tool group in a tiny official/specialist market; approved-model requirements further limit some applications.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A demonstrated buyer pool and, where relevant, acceptance of an alternative instrument.",
+      "boundaries": [
+        "This records the historical commercial rationale; it is not a claim about current racing regulations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-035",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "cam-legality",
+      "name": "Camshaft legality checker",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Historical concept rejected or parked for tiny market",
+      "summary": "An instrument aimed at checking racing-rule camshaft compliance.",
+      "reason": "The recovered discussion placed this inspection-tool group in a tiny official/specialist market; approved-model requirements further limit some applications.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A demonstrated buyer pool and, where relevant, acceptance of an alternative instrument.",
+      "boundaries": [
+        "This records the historical commercial rationale; it is not a claim about current racing regulations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-036",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "blow-by-meter",
+      "name": "Blow-by meter",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Historical concept rejected or parked for tiny market",
+      "summary": "An engine condition or inspection instrument.",
+      "reason": "The recovered discussion placed this inspection-tool group in a tiny official/specialist market; approved-model requirements further limit some applications.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A demonstrated buyer pool and, where relevant, acceptance of an alternative instrument.",
+      "boundaries": [
+        "This records the historical commercial rationale; it is not a claim about current racing regulations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-037",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "ring-filer",
+      "name": "Piston ring filer",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Owner rejected during product brainstorm",
+      "summary": "A ring-gap preparation tool.",
+      "reason": "Owner considered the potential market insufficient and asked to return to the technical GitHub projects.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "New evidence of a meaningful market or a substantially different useful product.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-038",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "jet-comparator",
+      "name": "Jet comparator",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Owner rejected during product brainstorm",
+      "summary": "A workshop jet measurement/comparison tool.",
+      "reason": "Owner considered the potential market insufficient and asked to return to the technical GitHub projects.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "New evidence of a meaningful market or a substantially different useful product.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-039",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "valve-runout",
+      "name": "Valve-runout tester",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Owner rejected during product brainstorm",
+      "summary": "A workshop valve concentricity/runout measuring tool.",
+      "reason": "Owner considered the potential market insufficient and asked to return to the technical GitHub projects.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "New evidence of a meaningful market or a substantially different useful product.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-040",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "distributor-tester",
+      "name": "Distributor tester",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Demand questioned; no product decision or design established",
+      "summary": "A distributor-related workshop tool; the precise proposed scope was not fully recovered.",
+      "reason": "Reachable demand was uncertain in the recovered discussion.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete change to the recorded blocker and a deliberate decision to resume.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04"
+      ],
+      "id": "RD-041",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "chassis-alignment",
+      "name": "Chassis squaring / alignment tools",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-priority",
+      "stage": "Maybe; no design authorised",
+      "summary": "Practical race-car alignment and squaring equipment.",
+      "reason": "Retained as possible later R&D, with no specific current production item selected.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A specific measuring problem, practical advantage and chosen development scope.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-SEP14",
+        "C-OCT02",
+        "C-NOV04"
+      ],
+      "id": "RD-042",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "toe-tool",
+      "name": "Electronic / dedicated toe-measuring tool",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-priority",
+      "stage": "Maybe; subsequently put on hold with setup/squaring equipment",
+      "summary": "A convenient race-car toe measurement tool.",
+      "reason": "Owner challenged its value because it competes with a simple tape measure.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-04",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A demonstrable repeatability or usability advantage over the existing simple method.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT02",
+        "C-NOV04"
+      ],
+      "parent_slug": "chassis-alignment",
+      "id": "RD-043",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "digital-stagger",
+      "name": "Digital tyre-stagger measuring gadget",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Historical idea set aside",
+      "summary": "An electronic tyre circumference/stagger measuring device.",
+      "reason": "Owner did not retain the electronic gadget as a useful commercial candidate.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-09-14",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete advantage and buyer case beyond a low-cost tape.",
+      "boundaries": [
+        "Separate from the retained private-label stagger tape side product."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-SEP14",
+        "C-OCT04"
+      ],
+      "id": "RD-044",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "generic-setup-app",
+      "name": "Generic race setup app",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-scope",
+      "stage": "Historical idea rejected for the initial market",
+      "summary": "A general racing setup application.",
+      "reason": "Not retained in the owner shortlist; the exact detailed rejection rationale was not recovered.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-09-14",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A defined unmet workflow and explicit selection of a revised product.",
+      "boundaries": [
+        "Do not treat later assistant-proposed SetupLab or logbook names as proof this was reopened."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-SEP14"
+      ],
+      "id": "RD-045",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "tyre-temperature",
+      "name": "Tyre pyrometer / fast temperature capture",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "mixed-scope",
+      "stage": "Dirt-market use rejected; broader capture idea remains unapproved research",
+      "summary": "Rapid probe-temperature recording and memory for solo tyre checks, potentially for circuit/kart users.",
+      "reason": "Owner rejected the usefulness of tyre pyrometry for the initial dirt-racing market. A newer quick-capture proposal is only evidenced in a secondary recap.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-17",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A distinct circuit/kart customer need and specific capture advantage, with actual owner adoption.",
+      "boundaries": [
+        "Do not describe the newer suggestion as an active development project.",
+        "Infrared surface temperature and probe tyre readings are different use cases."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-SEP14",
+        "C-OCT02",
+        "C-NOV17-RECAP"
+      ],
+      "id": "RD-046",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "brake-pressure-tester",
+      "name": "Two-channel brake-pressure / bias tester",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "mixed-scope",
+      "stage": "Initial Speedway market challenged; later workshop concept unapproved",
+      "summary": "Compare two brake circuit pressures with simultaneous readings and capture/hold.",
+      "reason": "Owner said these gauges are not generally used in the initial Wingless/Speedway market. A later workshop/two-circuit proposal needs differentiation and buyer validation.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-17",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A validated workshop customer case and a practical fitting/bleeding/safe-testing method.",
+      "boundaries": [
+        "A later assistant research proposal did not override the earlier market objection."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT02",
+        "C-NOV12",
+        "C-NOV17-RECAP"
+      ],
+      "id": "RD-047",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "fuel-used-display",
+      "name": "Fuel-used display with retained total",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Secondary recap only; no development or owner approval established",
+      "summary": "Display accumulated ECU fuel-used data and retain the total for a car without a useful fuel gauge.",
+      "reason": "Compatibility, reset/refuelling behaviour and support scope were research concerns, not resolved requirements.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-17",
+      "basis": "Secondary assistant recap; original discussion not fully retrievable",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "Recovered/confirmed user scope plus a defined data source and refuelling workflow.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-NOV17-RECAP"
+      ],
+      "id": "RD-048",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "scale-reader",
+      "name": "Limited reader for existing scale pads",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "mixed-scope",
+      "stage": "Original retrofit market rejected; later alternative suggestion unapproved",
+      "summary": "A reader/interface for a known compatible set of existing corner-weight pads.",
+      "reason": "Earlier owner rejected retrofit demand because local racers generally did not own suitable scales. Later low-cost reader research did not establish a new market or owner approval.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-17",
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real installed-base/customer need, known compatible pads and an independently developable implementation.",
+      "boundaries": [
+        "Do not copy a noncommercial DIY design into a commercial product.",
+        "No dedicated repo or authorised development found."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT02",
+        "C-NOV17-RECAP"
+      ],
+      "parent_slug": "race-scales",
+      "id": "RD-049",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "throttle-balancer",
+      "name": "Electronic stack / throttle balancing tool",
+      "aliases": [
+        "Electronic vacuum balancer",
+        "Stack balancer",
+        "RayTech SynchroKing-inspired tool"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "research-only",
+      "stage": "Brand-research follow-on suggestion; no development started",
+      "summary": "Repeatable intake/stack balancing measurements with useful reference/difference storage.",
+      "reason": "RayTech research suggested an opportunity, but no chosen measuring head, customer advantage or costed product was established.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-11-15",
+      "basis": "Assistant research suggestion following owner-requested brand review",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "Evidence of an advantage for the intended mechanical-injection or workshop use case.",
+      "boundaries": [
+        "Generic vacuum balancing is a related possible scope, not another selected product."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV15"
+      ],
+      "id": "RD-050",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "crew-timing-display",
+      "name": "MYLAPS-compatible live crew timing display",
+      "aliases": [],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "rejected-commercial",
+      "stage": "Researched and rejected on commercial scale",
+      "summary": "A dedicated pit/crew display of live timing feeds.",
+      "reason": "Owner did not expect sufficient unit sales to support the recurring data/licensing and support economics.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-10-12",
+      "basis": "Recovered owner discussion",
+      "confidence": "high",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A viable authorised data-access model and demonstrated sales volume.",
+      "boundaries": [
+        "Not a replacement MYLAPS transponder.",
+        "Timing import for a logger is a separate feature idea."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT12-TIMING"
+      ],
+      "id": "RD-051",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "stagger-tape",
+      "name": "Compact imperial stagger tape",
+      "aliases": [
+        "SP-001"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "sourcing-only",
+      "stage": "Supplier leads saved; sample/branding economics unverified",
+      "summary": "A better compact flat tyre-circumference tape, potentially sold individually and in multipacks.",
+      "reason": "MOQ, blade suitability, quality and delivered branded cost remain open.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A sample and concrete manageable branded MOQ/delivered price.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-SIDE"
+      ],
+      "id": "RD-052",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "helmet-tearoffs",
+      "name": "Laminated helmet tear-offs",
+      "aliases": [
+        "SP-002"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "paused-sourcing",
+      "stage": "One focused supplier pass complete; parked awaiting quotes/samples",
+      "summary": "Existing laminated helmet patterns with SkidLabz packaging.",
+      "reason": "Fit, optical quality, lamination, pack counts and MOQ per pattern remain unverified.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete existing-pattern sample/quote; resume the saved shortlist rather than restart broad research.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-SIDE"
+      ],
+      "id": "RD-053",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "fraction-tape",
+      "name": "Fraction-marked imperial workshop tape",
+      "aliases": [
+        "SP-003"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "sourcing-only",
+      "stage": "Initial comparison complete; no verified supply economics",
+      "summary": "An easy-read workshop tape with printed fraction values.",
+      "reason": "Low volume and branding MOQ may defeat the economics; merely having inch markings is not the required feature.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A stock fractional blade with manageable branding MOQ and useful delivered margin.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-SIDE"
+      ],
+      "id": "RD-054",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "chassis-blocks",
+      "name": "Adjustable chassis setup blocks",
+      "aliases": [
+        "SP-004"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "research-only",
+      "stage": "Maybe: buy/rebrand versus make; no design authorised",
+      "summary": "Adjustable race chassis setup-height blocks.",
+      "reason": "Supplier set contents, delivered cost and dimensions are unresolved; own manufacture is not yet shown to be cheaper.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A clearly defined pair/four-block kit quote and, only if needed, a costed manufacturing comparison.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-SIDE"
+      ],
+      "id": "RD-055",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "oil-filter-cutter",
+      "name": "Oil-filter cutter",
+      "aliases": [
+        "SP-005"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "sourcing-only",
+      "stage": "Sample candidate; no validated stocked product",
+      "summary": "A ready-made workshop filter cutter to sell alongside core products.",
+      "reason": "Low expected turnover; quality, spare cutting wheels and delivered sample economics need confirmation.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A worthwhile small-quantity sample and repeatable supply.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-JOBS"
+      ],
+      "id": "RD-056",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "an-spanners",
+      "name": "Aluminium AN spanner set",
+      "aliases": [
+        "SP-006"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "paused-cost",
+      "stage": "Deferred on margin",
+      "summary": "A ready-made seven-piece AN fitting spanner set.",
+      "reason": "Observed supplier pricing left too little margin against the retail benchmark.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A materially cheaper equivalent-quality complete set and delivered quote.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-JOBS"
+      ],
+      "id": "RD-057",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "tyre-groover",
+      "name": "Racing tyre groover",
+      "aliases": [
+        "SP-007"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "sourcing-only",
+      "stage": "Possible supplier-developed side product; not ordered",
+      "summary": "A separate-power-box tyre groover suited to racing compounds.",
+      "reason": "Differentiation/volume are modest; electrical suitability, quality and racing performance remain unverified.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A suitable complete supplier unit with documented electrical/product checks and acceptable economics.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-JOBS"
+      ],
+      "id": "RD-058",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "mechanic-mat",
+      "name": "Folding mechanic / track mat",
+      "aliases": [
+        "SP-008"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "paused-cost",
+      "stage": "Later; freight and MOQ hold",
+      "summary": "A branded full-length folding padded mechanic mat.",
+      "reason": "Bulky shipping and minimum quantities make a low-volume add-on difficult.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A manageable stock order with credible landed economics.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-JOBS"
+      ],
+      "id": "RD-059",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "tyre-grinding-discs",
+      "name": "Carbide tyre-grinding discs",
+      "aliases": [
+        "SP-009"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "sourcing-only",
+      "stage": "Sample/quality-assessment candidate only",
+      "summary": "Ready-made rubber/tyre grinding discs.",
+      "reason": "Exact bore, rated speed, consistency and quality documentation remain unresolved.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "Documented compatible ratings and satisfactory samples before considering sale.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-JOBS"
+      ],
+      "id": "RD-060",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "angle-meter",
+      "name": "Digital magnetic angle meter",
+      "aliases": [
+        "SP-010"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "sourcing-only",
+      "stage": "Small add-on candidate; no validated inventory",
+      "summary": "A ready-made digital angle cube for workshop/chassis jobs.",
+      "reason": "Accuracy, repeatability, durability and landed margin still need sample comparison.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A simple credible sample and small-order supply.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-JOBS"
+      ],
+      "id": "RD-061",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "safety-wire-pliers",
+      "name": "Safety-wire twisting pliers",
+      "aliases": [
+        "SP-011"
+      ],
+      "category": "Supporting resale products",
+      "kind": "resale",
+      "status": "sourcing-only",
+      "stage": "Small add-on candidate; no validated inventory",
+      "summary": "Ready-made safety-wire pliers with branding if worthwhile.",
+      "reason": "Jaw quality, mechanism reliability and small-order economics remain to be checked.",
+      "repo": null,
+      "repo_state": "Sourcing/resale investigation; no development repository expected or found.",
+      "evidence_date": "2026-10-22",
+      "basis": "Saved side-product list and recovered sourcing discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A satisfactory sample and worthwhile delivered cost.",
+      "boundaries": [
+        "A shortlist/sample priority is not evidence of a purchase, stockholding or launch.",
+        "Supplier listing prices and assistant screening targets were not accepted quotations."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT21-22",
+        "L-JOBS"
+      ],
+      "id": "RD-062",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "pro-recall-tach",
+      "name": "Future Pro recall tach",
+      "aliases": [],
+      "category": "Future variants and accessories",
+      "kind": "variant",
+      "status": "future-option",
+      "stage": "Historical optional variant; not started as a separate product",
+      "summary": "A possible enhanced tach with additional recalled runs or peak/history information.",
+      "reason": "Deliberately kept out of the basic RevMax product to avoid extra cost, complexity and current consumption.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical repository future-scope note",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A proven base product and customer demand for a differentiated Pro version.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "R-PRO-TACH"
+      ],
+      "parent_slug": "revmax",
+      "id": "RD-063",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "budget-tyre-gauge",
+      "name": "Budget / consumer tyre-gauge variant",
+      "aliases": [],
+      "category": "Future variants and accessories",
+      "kind": "variant",
+      "status": "historical-unadopted",
+      "stage": "Research-paper suggestion only",
+      "summary": "A cheaper gauge using a lower-cost integrated sensor.",
+      "reason": "The suggested sensor route did not meet the precision V1 requirement; no separate budget product was adopted.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Repository research suggestion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A deliberate different accuracy/market specification and viable cost case.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "R-GAUGE-VARIANTS"
+      ],
+      "parent_slug": "tyre-gauge",
+      "id": "RD-064",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "general-pressure-gauge",
+      "name": "Wider-range general motorsport tyre gauge",
+      "aliases": [],
+      "category": "Future variants and accessories",
+      "kind": "variant",
+      "status": "future-option",
+      "stage": "Possible later variant; not started",
+      "summary": "A wider-pressure-range gauge sharing elements of the precision gauge platform.",
+      "reason": "It was a future study suggestion; wider range can worsen absolute low-pressure error and does not solve the initial product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Repository research suggestion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "The initial gauge is proved and a real wider-range market is selected.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "R-GAUGE-VARIANTS"
+      ],
+      "parent_slug": "tyre-gauge",
+      "id": "RD-065",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "can-keypad",
+      "name": "Low-cost sealed CAN keypad",
+      "aliases": [],
+      "category": "Future variants and accessories",
+      "kind": "accessory",
+      "status": "future-option",
+      "stage": "Possible PDM accessory; no separate development",
+      "summary": "A sealed keypad option for the standalone motorsport PDM.",
+      "reason": "Only a maybe/companion concept was recorded; broad standalone keypad competition was later cautioned against.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Recovered owner discussion",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A specific PDM/customer need and a viable buy-versus-build choice.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "C-OCT04",
+        "C-NOV12",
+        "R_PDM"
+      ],
+      "parent_slug": "pdm",
+      "id": "RD-066",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "magneto-adapter",
+      "name": "External magneto signal adapter",
+      "aliases": [],
+      "category": "Future variants and accessories",
+      "kind": "accessory",
+      "status": "future-option",
+      "stage": "Integration/accessory concept only",
+      "summary": "A separate supported signal interface where a PDM or instrument needs a magneto input.",
+      "reason": "The PDM keeps the raw ignition interface external; no independent accessory development or compatibility proof was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Repository optional-interface note",
+      "confidence": "medium",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A selected instrument/use case and measured interface compatibility.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "R_PDM"
+      ],
+      "parent_slug": "pdm",
+      "id": "RD-067",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "telemetry-bridge",
+      "name": "RaceOS-to-logger telemetry bridge",
+      "aliases": [],
+      "category": "Software and internal tools",
+      "kind": "component",
+      "status": "paused-validation",
+      "stage": "Research/code candidate exists within ECU/RaceOS repos; complete-system proof absent",
+      "summary": "Read-only ECU data transfer into a separate logger or display.",
+      "reason": "Basic experiments exist, but the complete candidate was expressly not burn-approved or run in an ECU in its source record.",
+      "repo": "https://github.com/Brnoutkng/SkidLabz-RaceOS",
+      "repo_state": "Research/component work within RaceOS and the historical ECU repository; no separate commercial product repo.",
+      "evidence_date": "2026-09-03",
+      "basis": "Repository research and candidate limits",
+      "confidence": "high",
+      "next_step": "Use the existing candidate and evidence if this route is selected; do not confuse simulation or pin tests with end-to-end operation.",
+      "reopen_trigger": "A selected telemetry baseline and reviewed physical complete-system validation.",
+      "boundaries": [],
+      "history": [],
+      "source_ids": [
+        "R-TELEMETRY"
+      ],
+      "parent_slug": "racelogger",
+      "id": "RD-068",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "sensor-power",
+      "name": "Protected 5 V sensor-power module",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A protected power source for race sensors.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-069",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "analogue-accelerometer",
+      "name": "Analogue-output accelerometer",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A simple sensor accessory for compatible data systems.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-070",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "surface-temperature",
+      "name": "Bolt-on surface-temperature sensor / monitor",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A temperature-sensing accessory for engine, gearbox or differential surfaces.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-071",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "sensor-hub",
+      "name": "DTM sensor hub / junction module",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A compact sensor connection/distribution accessory.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-072",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "remote-sender-kit",
+      "name": "Remote pressure-sender mounting kit",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A supported sender/remote-line mounting accessory.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-073",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "steering-wheel-cable",
+      "name": "Steering-wheel cable / loom",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A practical motorsport cable accessory.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-074",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "electronics-mounts",
+      "name": "Motorsport electronics mounts",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "Mounting hardware for race electronics.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-075",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "connector-retainer",
+      "name": "Connector retainer / support",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A mechanical retention/support accessory.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-076",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "aux-power",
+      "name": "Protected auxiliary power module",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A focused protected accessory-power module.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-077",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "boost-motor-controller",
+      "name": "Broad boost / motor controller",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A broader controller family mentioned in competitor research.",
+      "reason": "Research advised against this as a starting product because of development, validation or manufacturing burden. This is an assistant caution, not an owner rejection.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-078",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "combustion-analysis",
+      "name": "Combustion-analysis instrument",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "An advanced measurement category mentioned during PLEX research.",
+      "reason": "Research advised against this as a starting product because of development, validation or manufacturing burden. This is an assistant caution, not an owner rejection.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-079",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "sensor-range",
+      "name": "Standalone motorsport sensor range",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "An own-brand range of sensors.",
+      "reason": "Research advised against this as a starting product because of development, validation or manufacturing burden. This is an assistant caution, not an owner rejection.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-080",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "integrated-pressure-block",
+      "name": "Integrated pressure sensor block",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A machined multi-sensor/pressure connection product.",
+      "reason": "Research advised against this as a starting product because of development, validation or manufacturing burden. This is an assistant caution, not an owner rejection.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "id": "RD-081",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "portable-afr",
+      "name": "Portable AFR monitor",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A portable air-fuel measurement tool, related to the wideband/logger family.",
+      "reason": "Research ranked this lower because differentiation/fit was weak; no owner rejection or adopted development direction was established.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV15"
+      ],
+      "id": "RD-082",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "battery-tester",
+      "name": "Basic automotive battery tester",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A generic workshop tester considered in brand research.",
+      "reason": "Research ranked this lower because differentiation/fit was weak; no owner rejection or adopted development direction was established.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV15"
+      ],
+      "id": "RD-083",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "basic-afr-gauge",
+      "name": "Basic AFR gauge",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A simple standalone AFR display product.",
+      "reason": "Research ranked this lower because differentiation/fit was weak; no owner rejection or adopted development direction was established.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV15"
+      ],
+      "id": "RD-084",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "weather-meter",
+      "name": "Weather / air-density meter",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A portable race weather/air-density instrument.",
+      "reason": "An earlier assistant recap placed generic versions low in the queue. Original owner decision/reason was not fully recovered; do not silently promote it.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-085",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "temperature-recorder",
+      "name": "Temperature data recorder",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A general recording instrument for race temperatures.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-086",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "general-data-recorder",
+      "name": "General standalone data recorder",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A broad data-recording category overlapping the existing logger family; no separate chosen scope.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-087",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "general-pressure-tester",
+      "name": "General pressure tester",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A workshop pressure-testing category with no selected application.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-088",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "warning-module",
+      "name": "Standalone warning module",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A small warning indicator/module suggested alongside general engine instruments.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-089",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "compact-engine-monitor",
+      "name": "Compact direct-input engine monitor with warning/recall",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A PLEX-inspired small engine instrument with direct sensor inputs and retained warning/recall information.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment.",
+        "Related to the older rejected EngineGuard idea, but this later assistant proposal has neither owner adoption nor an explicit new rejection."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV12"
+      ],
+      "parent_slug": "engine-guard",
+      "id": "RD-090",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "lambda-can",
+      "name": "Lambda-to-CAN controller",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A wideband/lambda interface for compatible CAN systems.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-091",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "gauge-calibrator",
+      "name": "Gauge / pressure calibrator",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A workshop instrument for checking existing gauges.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-092",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "shift-light",
+      "name": "Standalone shift light",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A focused RPM-based shift indication product.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-093",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "gps-lap-timer",
+      "name": "GPS lap timer",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A standalone GPS-based timing instrument.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-094",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "kart-instrument",
+      "name": "Kart instrument",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "An instrument concept for a broader karting market.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-095",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "matching-gauges",
+      "name": "Matching water / oil instruments",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A possible family of matching digital race gauges.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-096",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "waterproof-gauge-panel",
+      "name": "Waterproof gauge panel",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A simpler grouped-instrument alternative discussed alongside a full dash.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-097",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "infrared-temp-gun",
+      "name": "Infrared temperature gun",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A ready-made or branded surface-temperature workshop instrument.",
+      "reason": "Raised during research; no owner adoption, separate development repo or completed feasibility decision was found.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-NOV04"
+      ],
+      "id": "RD-098",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "leakdown-tester",
+      "name": "Leak-down tester",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Research suggestion only; not an approved project",
+      "summary": "A generic engine workshop test instrument.",
+      "reason": "An earlier assistant recap placed generic versions low in the queue. Original owner decision/reason was not fully recovered; do not silently promote it.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant research suggestion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete user-selected requirement and evidence of a worthwhile product advantage.",
+      "boundaries": [
+        "Preserved so the suggestion is not presented as new next time.",
+        "Not a current product commitment."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-OCT11-RECAP"
+      ],
+      "id": "RD-099",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "calclab",
+      "name": "CalcLab / free motorsport calculators",
+      "aliases": [
+        "CalcLab"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A collection of small motorsport calculation tools.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-100",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "tunevault",
+      "name": "TuneVault",
+      "aliases": [
+        "TuneVault"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A tune storage/version/workflow concept.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-101",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "injector-software-family",
+      "name": "InjectorLab / Injector Studio / RaceBench",
+      "aliases": [
+        "InjectorLab",
+        "Injector Studio",
+        "RaceBench"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "Proposed injector-test/calculation software family; real FlowCal work is recorded separately.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-102",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "race-logbook",
+      "name": "RaceBook / Garage / digital logbook",
+      "aliases": [
+        "RaceBook",
+        "Garage",
+        "Logbook",
+        "My Garage"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A race-car logbook or shared vehicle workspace concept.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-103",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "datalab",
+      "name": "DataLab / RaceLog family proposal",
+      "aliases": [
+        "DataLab",
+        "RaceLog"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "General log/data-analysis software labels; existing RaceLogger/LogWorks are recorded separately.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-104",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "gearlab",
+      "name": "GearLab",
+      "aliases": [
+        "GearLab"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "Motorsport gearing calculation software.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-105",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "setuplab",
+      "name": "SetupLab / RaceSetup",
+      "aliases": [
+        "SetupLab",
+        "RaceSetup"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A proposed chassis/setup software family; generic setup-app rejection is recorded separately.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-106",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "weatherlab",
+      "name": "WeatherLab",
+      "aliases": [
+        "WeatherLab"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "Weather-related motorsport calculation software.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-107",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "memcal-services",
+      "name": "MEMCAL services",
+      "aliases": [
+        "MEMCAL Services"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A possible programming/calibration service alongside software.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-108",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "raceflash",
+      "name": "RaceFlash programming tool",
+      "aliases": [
+        "RaceFlash"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A programming-tool workflow/interface, including a historical T48 integration suggestion.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-109",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "racelink",
+      "name": "RaceLink communications hardware",
+      "aliases": [
+        "RaceLink"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A proposed communications accessory/family name.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-110",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "tunecompare",
+      "name": "TuneCompare",
+      "aliases": [
+        "TuneCompare"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A calibration comparison software concept; some comparison capability exists within current tuning tools.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-111",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "race-reports",
+      "name": "Race Reports",
+      "aliases": [
+        "Race Reports"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A reporting concept around race data or sessions.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-112",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "video-sync",
+      "name": "Video Sync",
+      "aliases": [
+        "Video Sync"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A possible data/video synchronisation feature.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-113",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "timing-import",
+      "name": "Timing-feed import for log analysis",
+      "aliases": [
+        "Race Monitor/RMonitor import"
+      ],
+      "category": "Unadopted research suggestions",
+      "kind": "software-concept",
+      "status": "historical-unadopted",
+      "stage": "Early naming/feature proposal; independent product adoption not established",
+      "summary": "A logger feature to align runs/laps with timing data.",
+      "reason": "The retrieved evidence is an assistant ecosystem or naming proposal, not a separately selected product. Existing functionality in later tools does not prove this name became a product.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": "2026-08-04",
+      "basis": "Historical assistant ecosystem/naming proposal",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A real distinct workflow gap and deliberate product selection.",
+      "boundaries": [
+        "Grouped related labels preserve the history without claiming they were confirmed renamings.",
+        "Do not count these as active software projects."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-114",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "timing-network",
+      "name": "Own race timing / scoring network",
+      "aliases": [],
+      "category": "Unadopted research suggestions",
+      "kind": "product",
+      "status": "historical-unadopted",
+      "stage": "Assistant advised avoiding; no owner-selected project",
+      "summary": "An independent race timing/scoring system ecosystem.",
+      "reason": "The early software discussion advised avoiding this expansion; no separate adopted product or development was established.",
+      "repo": null,
+      "repo_state": "No dedicated development repository found in the 13 accessible SkidLabz source repositories.",
+      "evidence_date": null,
+      "basis": "Historical assistant recommendation against expansion",
+      "confidence": "low",
+      "next_step": "Retain the existing decision; no new development action is implied by this register.",
+      "reopen_trigger": "A concrete change to the recorded blocker and a deliberate decision to resume.",
+      "boundaries": [
+        "Different from the rejected MYLAPS-fed crew display and from logger timing-data import."
+      ],
+      "history": [],
+      "source_ids": [
+        "C-AUG02-04"
+      ],
+      "id": "RD-115",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "slug": "website-infrastructure",
+      "name": "SkidLabz website and launch infrastructure",
+      "aliases": [],
+      "category": "Business infrastructure",
+      "kind": "infrastructure",
+      "status": "active-background",
+      "stage": "Staging/homepage/RevMax page accepted; commerce preparation ongoing",
+      "summary": "The shop, product pages and support material needed to launch the actual products.",
+      "reason": "Real final product information, media, stock and release readiness control completion.",
+      "repo": null,
+      "repo_state": "WordPress/Hostinger staging work; no separate GitHub development repo found.",
+      "evidence_date": "2026-11-08",
+      "basis": "Saved portfolio status and owner context",
+      "confidence": "high",
+      "next_step": "Support the active products and update launch information as it becomes real.",
+      "reopen_trigger": "Product/stock readiness and a deliberate launch decision.",
+      "boundaries": [
+        "Business support work, not another saleable electronics product."
+      ],
+      "history": [],
+      "source_ids": [
+        "L-JOBS",
+        "C-NOV08"
+      ],
+      "id": "RD-116",
+      "reviewed_on": "2026-11-17"
+    }
+  ]
+}

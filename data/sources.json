@@ -1,0 +1,663 @@
+{
+  "sources": [
+    {
+      "id": "R_CONTROL",
+      "title": "Cross-project control record",
+      "url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/SKIDLABZ_PROJECT_CONTROL.yaml",
+      "date": "2026-11-12",
+      "notes": "Global snapshot date; many individual statuses are undated or stale. Newer specific owner and repository evidence takes precedence.",
+      "type": "repository"
+    },
+    {
+      "id": "R_REVMAX_STATUS",
+      "title": "RevMax production-preparation status",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/CURRENT_STATUS.md",
+      "date": "2026-11-12",
+      "notes": "Dated repository checkpoint; later assembly-parts and gasket updates come from recovered owner discussions.",
+      "type": "repository"
+    },
+    {
+      "id": "R_REVMAX_SCOPE",
+      "title": "RevMax product requirements",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/PRODUCT_REQUIREMENTS.md",
+      "date": null,
+      "notes": "Pinned scope; snapshot taken from 12 November main. No production-validation claim.",
+      "type": "repository"
+    },
+    {
+      "id": "R_REVMAX_DECISIONS",
+      "title": "RevMax product and commercial decisions",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/REVMAX_PRODUCT_DECISIONS.md",
+      "date": "2026-10-13",
+      "notes": "Retained product boundaries; subsequent sourcing changes are recorded elsewhere.",
+      "type": "repository"
+    },
+    {
+      "id": "R_REVMAX_CONNECTOR",
+      "title": "RevMax production connector adoption",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/engineering/REVMAX_CAZN_SOCKET_2026-11-11.md",
+      "date": "2026-11-11",
+      "notes": "Supersedes the earlier undecided-connector state; physical production fit/mating checks remain distinct.",
+      "type": "repository"
+    },
+    {
+      "id": "R_RECEIVER_R2_SCOPE",
+      "title": "R2 receiver requirements and chip intake",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver/blob/c432c87d76d46302f8d173bc4bb7e9f9db02ba36/PRODUCT_REQUIREMENTS.md",
+      "date": "2026-11-12",
+      "notes": "Active R2 branch; supply intake resolved. Chip receipt does not establish radio or assembled-product performance.",
+      "type": "repository"
+    },
+    {
+      "id": "R_RECEIVER_R2_STATUS",
+      "title": "R2 development and manufacturing-preparation record",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver/blob/c432c87d76d46302f8d173bc4bb7e9f9db02ba36/R2_BRANCH_STATUS.md",
+      "date": null,
+      "notes": "Pinned 12 November branch snapshot contains older dated sections; read with updated requirements.",
+      "type": "repository"
+    },
+    {
+      "id": "R_RECEIVER_PREVIEW",
+      "title": "R2 assembly-preview notes",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver/blob/c432c87d76d46302f8d173bc4bb7e9f9db02ba36/manufacturing/R2_A0_2/JLC_ORDER_NOTES.md",
+      "date": "2026-11-07",
+      "notes": "Preparation and preview evidence, not evidence that an assembled R2 was ordered or tested.",
+      "type": "repository"
+    },
+    {
+      "id": "R_TYRE_STATUS",
+      "title": "Tyre gauge handover and sample state",
+      "url": "https://github.com/Brnoutkng/SkidLabz-TyreGauge/blob/fe75912285a8cd8673b403b2005528b4d5bfa257/CURRENT_STATUS.md",
+      "date": "2026-10-20",
+      "notes": "Samples believed received; exact identification and testing not verified.",
+      "type": "repository"
+    },
+    {
+      "id": "R_TYRE_COST_GATE",
+      "title": "Tyre gauge packaged-sensor cost gate",
+      "url": "https://github.com/Brnoutkng/SkidLabz-TyreGauge/blob/fe75912285a8cd8673b403b2005528b4d5bfa257/docs/PACKAGED_TRANSDUCER_SCREEN_A0.md",
+      "date": null,
+      "notes": "A custom precision-sensor route failed economics; this does not reject the complete product opportunity.",
+      "type": "repository"
+    },
+    {
+      "id": "R_TYRE_SCOPE",
+      "title": "Precision tyre gauge scope",
+      "url": "https://github.com/Brnoutkng/SkidLabz-TyreGauge/blob/fe75912285a8cd8673b403b2005528b4d5bfa257/README.md",
+      "date": null,
+      "notes": "Pinned main snapshot; measurement accuracy and viable supply are open.",
+      "type": "repository"
+    },
+    {
+      "id": "R_LOGGER_SCOPE",
+      "title": "RaceLogger scope and validation limits",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/8e39b18ebf1b6e1c363713411570802eb71fe040/README.md",
+      "date": "2026-09-22",
+      "notes": "Main snapshot; newer Dev-1 branch and owner hardware-arrival evidence supersede old physical-status statements.",
+      "type": "repository"
+    },
+    {
+      "id": "R_LOGGER_DEV1",
+      "title": "Minimal Dev-1 personal logger decision",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/e17b089e9e15371a708dfe70c33cae337da74d96/hardware/dev1-minimal/DEV1_ARCHITECTURE.md",
+      "date": "2026-10-01",
+      "notes": "Owner's personal development logger; previous integrated design parked, no commercial release implied.",
+      "type": "repository"
+    },
+    {
+      "id": "R_LOGGER_PACKAGE",
+      "title": "Dev-1 manufacturing package",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/e17b089e9e15371a708dfe70c33cae337da74d96/hardware/dev1-minimal/manufacturing/jlc_dev1/JLC_MANUFACTURING_REVIEW.md",
+      "date": "2026-10-03",
+      "notes": "Manufacturing preparation is established; later board receipt is owner-reported.",
+      "type": "repository"
+    },
+    {
+      "id": "R_LOGWORKS",
+      "title": "LogWorks application and test-day workflow",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceLogger/blob/8e39b18ebf1b6e1c363713411570802eb71fe040/apps/LogWorks/README.md",
+      "date": "2026-09-22",
+      "notes": "Existing application in RaceLogger; historical competition-rule rationale is not a fresh rules-compliance finding.",
+      "type": "repository"
+    },
+    {
+      "id": "R_RACEOS",
+      "title": "Canonical RaceOS firmware",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceOS/blob/f35b4782cf52d0f3c6175e10e0725101eef9080c/README.md",
+      "date": "2026-09-22",
+      "notes": "Implemented internal race-season firmware; no general commercial ECU release inferred.",
+      "type": "repository"
+    },
+    {
+      "id": "R_RACEOS_ENGINE",
+      "title": "RaceOS physical engine-test evidence",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceOS/blob/f35b4782cf52d0f3c6175e10e0725101eef9080c/firmware/RaceOS-Hybrid/docs/H081_CAR_TEST_DAY_PACKAGE_REPORT.txt",
+      "date": null,
+      "notes": "Reports physical stages on 26/28 August; does not establish complete race/track validation of later calibrations.",
+      "type": "repository"
+    },
+    {
+      "id": "R_RACECAL",
+      "title": "RaceCal offline calibration application",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/README.md",
+      "date": null,
+      "notes": "README version header is older than the changelog; use together.",
+      "type": "repository"
+    },
+    {
+      "id": "R_RACECAL_CHANGELOG",
+      "title": "RaceCal implemented and unreleased changes",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/CHANGELOG.md",
+      "date": "2026-09-26",
+      "notes": "Main snapshot includes later unreleased application work.",
+      "type": "repository"
+    },
+    {
+      "id": "R_RACECAL_HISTORY",
+      "title": "RaceCal naming, scope and dropped-feature history",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceCal/blob/99caa3280ce258d828923e0b2811ec3190851bf5/docs/RACECAL_PROJECT_SUMMARY.md",
+      "date": null,
+      "notes": "Historical summary records dated August decisions; later implementation state comes from canonical sources.",
+      "type": "repository"
+    },
+    {
+      "id": "R_FLOWCAL",
+      "title": "FlowCal injector-bench application",
+      "url": "https://github.com/Brnoutkng/SkidLabz-FlowCal/blob/6aa0fd8d321fb8a2d666015ac69675ba7de6a3b6/README.md",
+      "date": "2026-09-08",
+      "notes": "Software exists; owner reactivation and actual bench validation remain distinct.",
+      "type": "repository"
+    },
+    {
+      "id": "R_FLOWCAL_MIGRATION",
+      "title": "FlowCal standalone-repository provenance",
+      "url": "https://github.com/Brnoutkng/SkidLabz-FlowCal/blob/6aa0fd8d321fb8a2d666015ac69675ba7de6a3b6/MIGRATION_PROVENANCE.md",
+      "date": "2026-09-08",
+      "notes": "Repository extraction did not establish hardware/bench validation.",
+      "type": "repository"
+    },
+    {
+      "id": "R_STREET_SCOPE",
+      "title": "Street Hit Pro hardware scope",
+      "url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-Pro/blob/870444df8ace530f1db4a19f12c6696e4a13b055/README.md",
+      "date": "2026-09-14",
+      "notes": "Main is stale relative to hardware branches. Newer owner decisions make hardware primary and averaging optional.",
+      "type": "repository"
+    },
+    {
+      "id": "R_STREET_NEO_PACKAGE",
+      "title": "Street Hit original prototype manufacturing package",
+      "url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-Pro/blob/1d0aad25d196f594766457702179e3709f2cea58/hardware/manufacturing/rev-a/README.md",
+      "date": "2026-09-15",
+      "notes": "Prototype design package on historical branch; no physical product qualification inferred.",
+      "type": "repository"
+    },
+    {
+      "id": "R_STREET_SAM_LAYOUT",
+      "title": "Street Hit simplified hardware checkpoint",
+      "url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-Pro/blob/2ce320a30b13b4340568e2bcb8ce303e2c1aaa41/hardware/REV_A_LAYOUT_NOTES.md",
+      "date": "2026-09-15",
+      "notes": "Unfinished alternative with outstanding routing/errors; not fabrication released.",
+      "type": "repository"
+    },
+    {
+      "id": "R_STREET_APP",
+      "title": "Street Hit analysis core M1",
+      "url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-App/blob/d831ab01ca5e34ebe90b8b1102f5036eed79281f/README.md",
+      "date": "2026-09-16",
+      "notes": "Real RaceBox ingestion exists; production UI and real-world repeatability verdicts do not.",
+      "type": "repository"
+    },
+    {
+      "id": "R_STREET_DATA",
+      "title": "Street Hit repeated-pull evidence gate",
+      "url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-App/blob/d831ab01ca5e34ebe90b8b1102f5036eed79281f/docs/RACEBOX_DATA_REQUEST.md",
+      "date": "2026-09-16",
+      "notes": "Repeated unchanged pulls needed to establish real-world comparison limits; mandatory averaging language is superseded by newer owner direction.",
+      "type": "repository"
+    },
+    {
+      "id": "R_PDM",
+      "title": "PDM feasibility, parked state and resume point",
+      "url": "https://github.com/Brnoutkng/Skidlabz-PDM/blob/1f1f5969c49bd968aabcb7fa5c34fffc4e1a75f8/README.md",
+      "date": "2026-10-13",
+      "notes": "Explicitly parked at go/no-go, not abandoned; no schematic or PCB.",
+      "type": "repository"
+    },
+    {
+      "id": "R_PDM_FEASIBILITY",
+      "title": "PDM feasibility and commercial drivers",
+      "url": "https://github.com/Brnoutkng/Skidlabz-PDM/blob/1f1f5969c49bd968aabcb7fa5c34fffc4e1a75f8/docs/feasibility-and-cogs-2026-10-13.md",
+      "date": "2026-10-13",
+      "notes": "Desk feasibility and estimates only; no physical high-current/thermal validation or quote.",
+      "type": "repository"
+    },
+    {
+      "id": "R_KNOCK_STATUS",
+      "title": "Knock Meter engineering candidate status",
+      "url": "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/docs/PROJECT_STATUS.md",
+      "date": null,
+      "notes": "Contains updates through 26 October; newest owner priority and controls notes supersede older workflow language.",
+      "type": "repository"
+    },
+    {
+      "id": "R_KNOCK_PRIORITY",
+      "title": "Knock Meter latest owner direction",
+      "url": "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/CLAUDE.md",
+      "date": "2026-10-27",
+      "notes": "No separate owner-built test rigs. Battery is a parallel release dependency, not blanket stop.",
+      "type": "repository"
+    },
+    {
+      "id": "R_KNOCK_CONTROLS",
+      "title": "Knock Meter controls and assembly-fit study",
+      "url": "https://github.com/Brnoutkng/SkidLabz-KnockMeter/blob/734f13a260ceda82c307945538f1c2f641ce4dde/docs/engineering/FRONT_CONTROLS_SOURCING_AND_FIT_2026-10-27.md",
+      "date": "2026-10-27",
+      "notes": "Exact controls/footprints, assembly availability and fit remain current engineering work; no layout/order release.",
+      "type": "repository"
+    },
+    {
+      "id": "R_SPRINT_SCOPE",
+      "title": "SprintTach historical requirements baseline",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SprintTach/blob/b434cb3ebe15b130900a18362d1c31acd34502ee/README.md",
+      "date": "2026-09-16",
+      "notes": "Main understates later historical branch work. Product superseded by current RecallTach/RevMax.",
+      "type": "repository"
+    },
+    {
+      "id": "R_SPRINT_PILOT",
+      "title": "SprintTach historical pilot production record",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SprintTach/blob/f58b3cdfb9900cb17b1e0d4e17723f32088ed2ef/hardware/compact-v1/PRODUCTION-STATUS.md",
+      "date": null,
+      "notes": "Records a small pilot in production; exact order date not recorded. Does not qualify current RevMax.",
+      "type": "repository"
+    },
+    {
+      "id": "R_SPRINT_DISPLAYS",
+      "title": "SprintTach historical display decisions",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SprintTach/blob/f58b3cdfb9900cb17b1e0d4e17723f32088ed2ef/hardware/rev2-sourcing/LCD-CANDIDATES.md",
+      "date": null,
+      "notes": "Retains production-supply/readability rejections and unselected candidates; historical, not current RevMax sourcing.",
+      "type": "repository"
+    },
+    {
+      "id": "R_ECU_ARCHIVE",
+      "title": "ECU archive and hybrid-architecture decision",
+      "url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/docs/PROJECT_STATUS.md",
+      "date": "2026-08-11",
+      "notes": "Technical next-work language is historical; standalone repositories are canonical.",
+      "type": "repository"
+    },
+    {
+      "id": "R_ECU_CLEANSHEET",
+      "title": "Frozen clean-sheet firmware archive",
+      "url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/firmware/RaceOS-CleanSheet-Archive/README.md",
+      "date": null,
+      "notes": "Superseded implementation of the same firmware effort, not another active product.",
+      "type": "repository"
+    },
+    {
+      "id": "C-OCT04",
+      "title": "Product feasibility and workshop-tool discussions, 4–5 October 2026",
+      "date": "2026-10-04",
+      "notes": "Recovered user and assistant excerpts. Includes torsion testing, engine workshop instruments, PDM, logger, knock monitoring and explicit market/scope rejections. Whole transcript and conversation URL were not returned.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-OCT20",
+      "title": "Commercial product status and owner rejections, 20 October 2026",
+      "date": "2026-10-20",
+      "notes": "Recovered owner statements reject RaceScales on economics and valve-spring checker on competition and limited sales. These supersede older maybe/ready labels.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-OCT27",
+      "title": "Valve-spring checker removal reaffirmed, 27 October 2026",
+      "date": "2026-10-27",
+      "notes": "Recovered owner instruction: removed from commercial list; do not put it back in the queue.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-OCT02",
+      "title": "Speedway product-fit and setup-tool discussion, 2 October 2026",
+      "date": "2026-10-02",
+      "notes": "Recovered owner comments on dirt tyre-temperature tools, brake-pressure gauges, toe tools and scale retrofit demand. Later broader-market proposals are not evidence of reactivation.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-SEP14",
+      "title": "Initial Speedway product shortlist, 14 September 2026",
+      "date": "2026-09-14",
+      "notes": "Recovered owner shortlist: gauge, scales, alignment and recall tach; dirt tyre temperatures, digital stagger and generic setup app were rejected/parked.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-NOV04",
+      "title": "Commercial review and display/Street Hit decisions, 4 November 2026",
+      "date": "2026-11-04",
+      "notes": "Recovered owner requirements: dash stops at suitable screen sourcing; Street Hit is hardware-led and manufacturing-cost constrained. Side-product and receiver reviews also recovered.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-NOV08",
+      "title": "Product and hardware status review, 8 November 2026",
+      "date": "2026-11-08",
+      "notes": "Recovered status updates for tyre-gauge samples, centre-axle bleeders and ongoing product work. Arrival, selection and physical validation are kept separate.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-NOV12",
+      "title": "Solid-state relay, Motion Raceworks/RIFE and PLEX discussion, 12 November 2026",
+      "date": "2026-11-12",
+      "notes": "Owner proposed a plug-in solid-state relay and requested brand research. The additional accessory, sensor and monitor ideas were assistant suggestions; approval and feasibility are not established.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-NOV15",
+      "title": "RayTech Automotive review request, 15 November 2026",
+      "date": "2026-11-15",
+      "notes": "Owner requested investigation of the brand. Throttle/stack balancing, lambda-plus-RPM recording and related alternatives were research suggestions, not selected development projects.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-NOV17-RECAP",
+      "title": "Recovered recent idea-search recap, 17 November 2026",
+      "date": "2026-11-17",
+      "notes": "Secondary assistant recap names fast tyre-temperature capture, limited scale reader, brake tester, fuel-used display and rod-bolt gauge. Full 16–17 November Looser brainstorm was not retrievable; owner acceptance/rejection must not be invented.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-AUG02-04",
+      "title": "Early software ecosystem and naming discussion, 2–4 August 2026",
+      "date": "2026-08-04",
+      "notes": "RaceCal was owner-selected. CalcLab, TuneVault and other family names/capabilities were assistant proposals unless separately evidenced in actual repositories. Names are not proof of separate products.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-OCT12-TIMING",
+      "title": "MYLAPS live crew timing display decision, 12 October 2026",
+      "date": "2026-10-12",
+      "notes": "Recovered owner rejection: would not sell sufficient units. Research discussed recurring data/API cost, local feeds and support complexity. This was a display concept, not a replacement transponder.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-OCT11-RECAP",
+      "title": "Earlier product-queue recap, 11 October 2026",
+      "date": "2026-10-11",
+      "notes": "Recovered assistant recap mentions digital stagger, generic weather meter and leak-down tester among commercially uninteresting or low-priority ideas. It does not provide a direct owner decision for each.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-SEP25",
+      "title": "Tyre-gauge bleed-valve sourcing, 25 September 2026",
+      "date": "2026-09-25",
+      "notes": "Recovered owner constraints reject physically large industrial valves and commercially unsuitable imported bare cartridges; no approved alternative source established.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-OCT21-22",
+      "title": "Supporting products sourcing discussions, 21–22 October 2026",
+      "date": "2026-10-22",
+      "notes": "Eleven-product side list and sourcing/decision board recovered. Supplier listing prices were not quotes; START/SAMPLE labels were research priorities, not completed purchases.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "C-NOV13-17",
+      "title": "Recent RevMax and receiver progress in available conversation context",
+      "date": "2026-11-17",
+      "notes": "Owner reports adopted case/PCB connector changes, assembly preview work and gasket finalisation. Financial/payment records intentionally excluded. Does not establish production PCBA order placement or finished-product qualification.",
+      "type": "recovered-chat",
+      "url": null
+    },
+    {
+      "id": "L-SIDE",
+      "title": "SkidLabz_Side_Products.md, 21–22 October 2026",
+      "date": "2026-10-22",
+      "notes": "Saved source read in full during this review. Four user-nominated ideas: SP-001 through SP-004. Supplies, quotes, samples and custom-tooling assumptions remain unverified.",
+      "type": "private-file",
+      "url": null
+    },
+    {
+      "id": "L-JOBS",
+      "title": "SkidLabz_Master_Job_List_2026-11-04.md",
+      "date": "2026-11-04",
+      "notes": "Saved source read in full. Confirms hardware arrivals and portfolio holds; dated source, superseded where later evidence exists.",
+      "type": "private-file",
+      "url": null
+    },
+    {
+      "id": "L-BLEEDER",
+      "title": "Sprintcar bleeder feasibility and mechanical concept, 25–26 October 2026",
+      "date": "2026-10-26",
+      "notes": "Source-file excerpts recovered through personal context, not a fresh complete document audit. Records component/architecture holds and rejected valve economics.",
+      "type": "private-file-excerpt",
+      "url": null
+    },
+    {
+      "id": "R-PRO-TACH",
+      "title": "Historical SprintTach future Pro scope",
+      "type": "repository",
+      "date": "2026-09-16",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SprintTach/blob/b434cb3ebe15b130900a18362d1c31acd34502ee/docs/requirements.md",
+      "notes": "Future variants only; current Basic scope is distinct."
+    },
+    {
+      "id": "R-GAUGE-VARIANTS",
+      "title": "TyreGauge sensor study and hypothetical variants",
+      "type": "repository",
+      "date": "2026-10-20",
+      "url": "https://github.com/Brnoutkng/SkidLabz-TyreGauge/blob/fe75912285a8cd8673b403b2005528b4d5bfa257/docs/PRESSURE_SENSOR_DEEP_DIVE_A0.md",
+      "notes": "Research-paper suggestions, not approved additional products."
+    },
+    {
+      "id": "R-TELEMETRY",
+      "title": "RaceOS telemetry candidate and limitations",
+      "type": "repository",
+      "date": "2026-09-03",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceOS/blob/f35b4782cf52d0f3c6175e10e0725101eef9080c/firmware/RaceOS-Hybrid/docs/TELEMETRY_P10_CANDIDATE.md",
+      "notes": "Complete candidate is not physically validated; basic experiments are not complete-system proof."
+    },
+    {
+      "id": "R-REVMAX-FACE",
+      "title": "RevMax front-face manufacturing investigation",
+      "type": "repository",
+      "date": null,
+      "url": "https://github.com/Brnoutkng/SkidLabz-RecallTach/blob/692b0c63cbef3bc12e607dc93f097831f77fb875/mechanical/REVMAX_FRONT_FACE_MANUFACTURING.md",
+      "notes": "Historical process decisions; later procurement and design updates supersede old waiting states."
+    }
+  ],
+  "repositories": [
+    {
+      "name": "SkidLabz-RecallTach",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RecallTach",
+      "main_sha": "692b0c63cbef3bc12e607dc93f097831f77fb875",
+      "main_date": "2026-11-12",
+      "role": "Current RevMax development and production preparation",
+      "additional_branches": []
+    },
+    {
+      "name": "SkidLabz-SpeedwayReceiver",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SpeedwayReceiver",
+      "main_sha": "31a4d1eeeeb7f0ac42b5412249a66eff2172189d",
+      "main_date": "2026-11-02",
+      "role": "Receiver development; main retains older R1 history",
+      "additional_branches": [
+        {
+          "name": "claude/r2-bk4819-carrier",
+          "sha": "c432c87d76d46302f8d173bc4bb7e9f9db02ba36",
+          "date": "2026-11-12",
+          "notes": "Materially newer R2 requirements, board and manufacturing preparation."
+        }
+      ]
+    },
+    {
+      "name": "SkidLabz-RaceLogger",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceLogger",
+      "main_sha": "8e39b18ebf1b6e1c363713411570802eb71fe040",
+      "main_date": "2026-09-22",
+      "role": "Personal logger development and canonical LogWorks application",
+      "additional_branches": [
+        {
+          "name": "claude/awesome-turing-wasmtz",
+          "sha": "e17b089e9e15371a708dfe70c33cae337da74d96",
+          "date": "2026-10-03",
+          "notes": "Current minimal Dev-1 architecture and manufacturing package."
+        },
+        {
+          "name": "claude/racelogger-integrated-pcba-8b92qf",
+          "sha": "6bf5fd5ac33e0e2c6e447dabf1660684aa458a04",
+          "date": "2026-09-30",
+          "notes": "Parked complex integrated hardware route."
+        }
+      ]
+    },
+    {
+      "name": "SkidLabz-TyreGauge",
+      "url": "https://github.com/Brnoutkng/SkidLabz-TyreGauge",
+      "main_sha": "fe75912285a8cd8673b403b2005528b4d5bfa257",
+      "main_date": "2026-10-20",
+      "role": "Precision gauge investigation and sensor/sample evidence",
+      "additional_branches": []
+    },
+    {
+      "name": "SkidLabz-RaceOS",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceOS",
+      "main_sha": "f35b4782cf52d0f3c6175e10e0725101eef9080c",
+      "main_date": "2026-09-22",
+      "role": "Canonical race ECU firmware",
+      "additional_branches": [
+        {
+          "name": "telemetry",
+          "sha": "79409d30c1106f31956a5e392cb4d2047c58d426",
+          "date": null,
+          "notes": "Historical candidate research; not evidence of complete physical validation or engine release."
+        }
+      ]
+    },
+    {
+      "name": "SkidLabz-RaceCal",
+      "url": "https://github.com/Brnoutkng/SkidLabz-RaceCal",
+      "main_sha": "99caa3280ce258d828923e0b2811ec3190851bf5",
+      "main_date": "2026-09-26",
+      "role": "Canonical offline tuning application",
+      "additional_branches": []
+    },
+    {
+      "name": "SkidLabz-FlowCal",
+      "url": "https://github.com/Brnoutkng/SkidLabz-FlowCal",
+      "main_sha": "6aa0fd8d321fb8a2d666015ac69675ba7de6a3b6",
+      "main_date": "2026-09-08",
+      "role": "Standalone injector-bench application; inactive unless reactivated",
+      "additional_branches": []
+    },
+    {
+      "name": "SkidLabz-Street-Hit-Pro",
+      "url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-Pro",
+      "main_sha": "870444df8ace530f1db4a19f12c6696e4a13b055",
+      "main_date": "2026-09-14",
+      "role": "Hardware product; main is stale relative to historical implementation branches",
+      "additional_branches": [
+        {
+          "name": "claude/rev-a-schematic-bom-yyj68i",
+          "sha": "1d0aad25d196f594766457702179e3709f2cea58",
+          "date": "2026-09-15",
+          "notes": "Original hardware prototype manufacturing package."
+        },
+        {
+          "name": "rev-a-sam-m10q-simplified",
+          "sha": "2ce320a30b13b4340568e2bcb8ce303e2c1aaa41",
+          "date": "2026-09-15",
+          "notes": "Stopped unfinished simplification; not manufacturing-released."
+        }
+      ]
+    },
+    {
+      "name": "SkidLabz-Street-Hit-App",
+      "url": "https://github.com/Brnoutkng/SkidLabz-Street-Hit-App",
+      "main_sha": "d831ab01ca5e34ebe90b8b1102f5036eed79281f",
+      "main_date": "2026-09-16",
+      "role": "Companion measurement/analysis engine; not independent commercial product",
+      "additional_branches": []
+    },
+    {
+      "name": "Skidlabz-PDM",
+      "url": "https://github.com/Brnoutkng/Skidlabz-PDM",
+      "main_sha": "1f1f5969c49bd968aabcb7fa5c34fffc4e1a75f8",
+      "main_date": "2026-10-13",
+      "role": "Parked PDM feasibility/architecture record",
+      "additional_branches": []
+    },
+    {
+      "name": "SkidLabz-KnockMeter",
+      "url": "https://github.com/Brnoutkng/SkidLabz-KnockMeter",
+      "main_sha": "734f13a260ceda82c307945538f1c2f641ce4dde",
+      "main_date": "2026-10-26",
+      "role": "Instrument schematic candidate and research; latest notes dated 27 October Melbourne",
+      "additional_branches": [
+        {
+          "name": "claude/trusting-gates-1sxei7",
+          "sha": "0f6504c0346273190699b7d9663cc2324501f35c",
+          "date": null,
+          "notes": "Older candidate; main's later controls/case/owner notes supersede it."
+        }
+      ]
+    },
+    {
+      "name": "SkidLabz-SprintTach",
+      "url": "https://github.com/Brnoutkng/SkidLabz-SprintTach",
+      "main_sha": "b434cb3ebe15b130900a18362d1c31acd34502ee",
+      "main_date": "2026-09-16",
+      "role": "Historical recall-tach predecessor and decision evidence",
+      "additional_branches": [
+        {
+          "name": "claude/pilot-build-5-units",
+          "sha": "a883eea8de5ac265a3d52d502db9cd8c112df785",
+          "date": "2026-09-19",
+          "notes": "Historical segmented-display pilot."
+        },
+        {
+          "name": "claude/sprint-tach-recovery-cai1n4",
+          "sha": "020ede87811b333aba83378fb526033caf682c08",
+          "date": "2026-09-19",
+          "notes": "Historical firmware/recovery and sourcing work."
+        },
+        {
+          "name": "claude/tft-tacho-prototype-v1",
+          "sha": "f58b3cdfb9900cb17b1e0d4e17723f32088ed2ef",
+          "date": "2026-09-21",
+          "notes": "Historical TFT prototype and retained pilot/display decisions; not current RevMax."
+        }
+      ]
+    },
+    {
+      "name": "SkidLabz-ECU-Development",
+      "url": "https://github.com/Brnoutkng/SkidLabz-ECU-Development",
+      "main_sha": "a37441426a518616c0cd13791518f99fda0fda41",
+      "main_date": "2026-11-12",
+      "role": "Historical monorepo and cross-project control host",
+      "additional_branches": [
+        {
+          "name": "claude/raceos-esp32-telemetry-investigation-goylsg",
+          "sha": "d5b45f8b80abb223ed062dae374cf1d6ca135f92",
+          "date": "2026-09-02",
+          "notes": "Historical telemetry investigation; successive candidates are not complete-system validation."
+        }
+      ]
+    }
+  ]
+}
