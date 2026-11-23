@@ -4694,6 +4694,30 @@
       "qualification": "Not a completed product comparison or endorsed competitor classification. Preserve the historical label without inventing a website or product range.",
       "also_listed_in": [],
       "topics": []
+    },
+    {
+      "id": "racewire-solutions",
+      "name": "RaceWire Solutions",
+      "aliases": [
+        "Race Wire Solutions"
+      ],
+      "primary_list": "manufacturers",
+      "section": "electronics",
+      "discussion_context": "Custom motorsport wiring, application-specific relay kits, battery disconnects and installation hardware.",
+      "historical_sources": [
+        "H24-RWS"
+      ],
+      "role": "Custom wiring and own-brand motorsport wiring-kit supplier; also sells third-party connector hardware.",
+      "relationship": "product_benchmark",
+      "website": "https://racewiresolutions.com/",
+      "classification_sources": [
+        "https://racewiresolutions.com/products/racewire-auxillary-relay-pdm-01-standard-8",
+        "https://racewiresolutions.com/collections/racewire-billet-parts"
+      ],
+      "verification_status": "verified-official-catalogue",
+      "qualification": "Relay/fuse PDM-01 is not a programmable solid-state PDM. See the dated research note for benchmarks; no new project adopted.",
+      "also_listed_in": [],
+      "topics": []
     }
   ],
   "exclusions": [

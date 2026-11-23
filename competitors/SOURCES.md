@@ -308,6 +308,12 @@ Private source repository; this public catalogue retains only the general busine
 
 [Pinned source](https://github.com/Brnoutkng/SkidLabz-ECU-Development/blob/a37441426a518616c0cd13791518f99fda0fda41/SKIDLABZ_PROJECT_CONTROL.yaml)
 
+### H24-RWS
+
+**RaceWire Solutions added as a research reference** — 23 November 2026.
+
+Owner identified the company for research. Official catalogue findings are summarised in the RaceWire Solutions note in the research index.
+
 ## Exclusions
 
 ### Component and fabrication suppliers

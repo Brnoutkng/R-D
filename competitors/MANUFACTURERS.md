@@ -67,6 +67,7 @@ Product makers, own-product brands and developers recovered from our work. The r
 | <a id="phormula"></a>**[Phormula](https://phormula.com/)**<br>Also recorded: KS-4 | KS-4 knock-monitor comparison. | Motorsport electronics developer / finished-product brand. | [H10](SOURCES.md#h10) · [H16](SOURCES.md#h16) · [Role evidence](https://phormula.com/) |
 | <a id="race-technology"></a>**[Race Technology](https://www.race-technology.com/)**<br>Also recorded: DL1; DL1 CLUB | DL1 CLUB logger reference. | Motorsport electronics developer / finished-product brand. | [H13](SOURCES.md#h13) · [Role evidence](https://www.race-technology.com/wiki/index.php/DL1MK3/FAQ) |
 | <a id="racepak"></a>**[Racepak](https://www.holley.com/brands/)**<br>Also recorded: Racepak Data; RACEPAKDATA | Earlier performance data-logging brand reference. | Motorsport electronics developer / finished-product brand.<br>Brand retained from earlier market/branding research; this is not a completed current product comparison. | [H18](SOURCES.md#h18) · [Role evidence](https://www.holley.com/brands/) |
+| <a id="racewire-solutions"></a>**[RaceWire Solutions](https://racewiresolutions.com/)**<br>Also recorded: Race Wire Solutions | Custom motorsport wiring, application-specific relay kits, battery disconnects and installation hardware. | Custom wiring and own-brand motorsport wiring-kit supplier; also sells third-party connector hardware.<br>Relay/fuse PDM-01 is not a programmable solid-state PDM. See the dated research note for benchmarks; no new project adopted. | [H24-RWS](SOURCES.md#h24-rws) · [Role evidence](https://racewiresolutions.com/products/racewire-auxillary-relay-pdm-01-standard-8) · [Role evidence 2](https://racewiresolutions.com/collections/racewire-billet-parts) |
 | <a id="racing-electronics"></a>**[Racing Electronics](https://racingelectronics.com/)**<br>Also recorded: REceiver PRO | REceiver PRO race-control receiver reference. | Motorsport electronics developer / finished-product brand. | [H11](SOURCES.md#h11) · [Role evidence](https://racingelectronics.com/collections/promo-code-exclusions/products/receiver-pro-miniature-uhf-for-professional-racers) |
 | <a id="stack"></a>**[Stack](https://www.stackltd.com/)** | Instrumentation/dash and race-tool market reference. | Motorsport electronics developer / finished-product brand. | [H03](SOURCES.md#h03) · [Role evidence](https://www.stackltd.com/product_thumbs.html) |
 | <a id="zeitronix"></a>**[Zeitronix](https://zeitronix.com/)**<br>Also recorded: ZT-2; ZT-4 | ZT-2/ZT-4 wideband/logging comparison. | Motorsport electronics developer / finished-product brand. | [H13](SOURCES.md#h13) · [Role evidence](https://zeitronix.com/) |
@@ -278,7 +279,7 @@ Recovered from an early business/brand research list. They were not a completed 
 
 ## Other historical names without a competitor classification
 
-These additional mentions are preserved for search continuity, outside the 207 business/brand records. They are not assigned a maker, reseller or OEM relationship.
+These additional mentions are preserved for search continuity, outside the 208 business/brand records. They are not assigned a maker, reseller or OEM relationship.
 
 | Recovered names | Context and limitation | History |
 |---|---|---|

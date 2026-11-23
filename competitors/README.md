@@ -9,7 +9,7 @@ Each record says why the name came up, preserves useful aliases/product names, l
 
 ## Coverage
 
-The review recovered **207 business, brand and historical reference records**: **44 primarily filed with sellers** and **163 filed with product makers/developers and their related historical references**. This is not a count of verified competing companies: the second group includes software, OEM sourcing leads, legacy brands and unresolved names, each visibly separated.
+The review recovered **208 business, brand and historical reference records**: **44 primarily filed with sellers** and **164 filed with product makers/developers and their related historical references**. This is not a count of verified competing companies: the second group includes software, OEM sourcing leads, legacy brands and unresolved names, each visibly separated.
 
 The evidence comprises recovered chat summaries, saved research and relevant source documents from the existing review of 13 accessible development repositories. It is not a complete transcript export of every chat. Newly found names should be added with their historical context rather than assumed to have been discussed before.
 

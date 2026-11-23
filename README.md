@@ -35,7 +35,7 @@ The review includes the material that could be recovered. It is not a complete e
 
 The [competitor register](competitors/README.md) keeps the recovered business names in two places: **[resellers/distributors](competitors/RESELLERS.md)** and **[manufacturers/product brands](competitors/MANUFACTURERS.md)**. Each record gives the discussion context, aliases, role evidence and qualifications. Businesses with both roles are cross-listed from one underlying record.
 
-The initial recovery contains **207 business, brand and historical reference records**. These include software, adjacent markets, OEM sourcing leads and unresolved older names in clearly labelled sections; they are not 207 verified competing companies. [Competitor sources and name corrections](competitors/SOURCES.md) preserve the evidence, including Tel-Tac/OTP, Rugged Radios/Nitro Bee and parent-brand relationships.
+The register contains **208 business, brand and historical reference records**. These include software, adjacent markets, OEM sourcing leads and unresolved older names in clearly labelled sections; they are not 207 verified competing companies. [Competitor sources and name corrections](competitors/SOURCES.md) preserve the evidence, including Tel-Tac/OTP, Rugged Radios/Nitro Bee and parent-brand relationships.
 
 ## Technical forums and product research
 

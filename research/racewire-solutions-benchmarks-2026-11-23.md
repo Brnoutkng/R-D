@@ -1,0 +1,11 @@
+# RaceWire Solutions: motorsport wiring benchmarks
+
+Reviewed 23 November 2026. [Official catalogue](https://racewiresolutions.com/). RaceWire Solutions supplies race-car wiring systems and installation hardware, with a strong US drag/street focus. Catalogue prices below are US retail snapshots, not Australian landed prices or evidence of sales.
+
+| Benchmark | What the catalogue actually shows | Relevance to SkidLabz |
+|---|---|---|
+| [PDM-01 eight-relay module](https://racewiresolutions.com/products/racewire-auxillary-relay-pdm-01-standard-8) and [PowerCore3](https://racewiresolutions.com/products/powercore3-fueltech-series) | PDM-01 bundles a conventional relay/fuse block, Deutsch input connector and output harness. PowerCore3 is configurable by application with optional keypad and selectively uses solid-state outputs. The homepage lists the PowerCore3 FuelTech series at US$1,295. | For the parked [PDM, RD-011](../ideas/pdm.md), compare install time and serviceability against a prewired relay kit, not just channel count versus a programmable PDM. |
+| [Solid-state and continuous-duty battery disconnects](https://racewiresolutions.com/) | The catalogue lists a US$390 solid-state kit and a US$265 [continuous-duty relay option](https://racewiresolutions.com/products/rws-continuous-duty-disconnect). | Useful competitor positioning. Neither is the socket-fit [plug-in SSR, RD-022](../ideas/plug-in-ssr.md). Pricing is not a reason to reopen it, and catalogue claims are not certification. |
+| [Billet installation hardware](https://racewiresolutions.com/collections/racewire-billet-parts) and [Deutsch bulkhead kits](https://racewiresolutions.com/products/deutsch-bulkhead-panel-connectors) | US$40 Deutsch firewall plate, US$45 USB pass-through and US$315 Type-K EGT quick-disconnect firewall plate; connector kits include mating pieces, contacts and boots. | Most transferable idea: sell a complete, clean installation, with the mount, hardware and mating connector in the box. The EGT plate is an accessory benchmark for [RD-025](../ideas/egt-monitor.md), not evidence to start an EGT product. |
+
+**Disposition:** Reference only. The application-specific bundles and install hardware are more useful precedents for SkidLabz than the premium full-car wiring systems. No new project or change to an existing status.
