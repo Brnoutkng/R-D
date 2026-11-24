@@ -74,7 +74,7 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 
 | Idea | Where it stands | Stage reached | Repository | Why / remaining gate |
 | --- | --- | --- | --- | --- |
-| [RD-117 — Pit helmet warmer](ideas/pit-helmet-warmer.md) | Research only | Owner-proposed concept; research requested, no design or prototype | No dedicated repo found | Steven reports recurring visor fogging and believes existing helmet warmers are expensive or difficult to obtain. Availability, broader demand and effectiveness remain to be independently checked; this is not a development commitment. |
+| [RD-117 — Pit helmet warmer](ideas/pit-helmet-warmer.md) | Research only | Two commercial benchmarks checked; no prototype | No dedicated repo found | Parked for owner review. Heated stands and bags exist; no exact low-power fanless stand verified. Demand and benefit against visor fog are unproven. |
 | [RD-121 — Driver cooling equipment](ideas/driver-cooling.md) | Dropped — scope/owner decision | New assistant suggestion declined; no development established | No dedicated repo found | Steven rejected this suggestion as too mechanical and potentially safety/approval-oriented for his intended scope. Specific approval requirements were not established. |
 
 ## Supporting resale products
