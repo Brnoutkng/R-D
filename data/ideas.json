@@ -3903,6 +3903,45 @@
         "R-MR-MODULE-RPM-SWITCH"
       ],
       "reviewed_on": "2026-11-28"
+    },
+    {
+      "id": "RD-124",
+      "slug": "programmable-carb-ignition",
+      "name": "Programmable ignition box for carburetted engines",
+      "aliases": [
+        "Programmable ignition box",
+        "Ignition-only controller"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "future-option",
+      "stage": "Owner idea and initial competitor check; no prototype",
+      "summary": "A standalone MSD-style ignition box for carburetted engines, with a user-programmable timing curve. An onboard manifold absolute pressure (MAP) sensor is a possible option for load-based timing.",
+      "reason": "Direct and adjacent products already offer programmable timing and integrated MAP. No first application, competitive advantage or development approval has been established.",
+      "repo": null,
+      "repo_state": "R&D idea only; no dedicated hardware build.",
+      "evidence_date": "2026-11-28",
+      "basis": "Owner proposal and manufacturer documentation.",
+      "confidence": "High for the idea and published benchmarks; demand and development feasibility unverified",
+      "next_step": "If revisited, identify one target engine/trigger setup and whether the product must replace the ignition box or only control timing with existing ignition hardware.",
+      "reopen_trigger": "A specific use case with an advantage in fit, setup or total installed cost over existing products and a credible validation path.",
+      "boundaries": [
+        "No architecture, MAP range, target price or release decision selected.",
+        "Do not treat a timing-only add-on as interchangeable with a replacement capacitive-discharge ignition.",
+        "No development or purchasing implied by the register entry."
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "decision": "Owner raised a programmable MSD-style box for carburetted engines. Captured as a future option, not a build commitment."
+        }
+      ],
+      "source_ids": [
+        "C-NOV28-CARB-IGNITION",
+        "R-MSD-ULTRA-6AL-PLUS",
+        "R-CB-BLACK-BOX"
+      ],
+      "reviewed_on": "2026-11-28"
     }
   ]
 }

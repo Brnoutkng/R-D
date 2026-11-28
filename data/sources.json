@@ -599,6 +599,30 @@
       "date": "2026-11-28",
       "url": "https://mrmodule.com.au/product/shift-light-controller/",
       "notes": "An Australian standalone RPM-activated output benchmark; the listing does not establish sales volume."
+    },
+    {
+      "id": "C-NOV28-CARB-IGNITION",
+      "title": "Programmable carburetted-engine ignition idea",
+      "type": "owner discussion",
+      "date": "2026-11-28",
+      "url": null,
+      "notes": "Concept only; the owner has not committed to building it."
+    },
+    {
+      "id": "R-MSD-ULTRA-6AL-PLUS",
+      "title": "MSD Ultra 6AL Plus",
+      "type": "manufacturer documentation",
+      "date": "2026-11-28",
+      "url": "https://www.holley.com/products/ignition/ignition_boxes/street_and_strip/6_series_performance_ignition_boxes/parts/65233",
+      "notes": "Direct capacitive-discharge benchmark with onboard MAP and an RPM-by-load timing table."
+    },
+    {
+      "id": "R-CB-BLACK-BOX",
+      "title": "CB Performance Black Box",
+      "type": "manufacturer documentation",
+      "date": "2026-11-28",
+      "url": "https://www.cbperformance.com/product-p/2013.htm",
+      "notes": "Adjacent distributor timing control module with an integrated MAP sensor."
     }
   ],
   "repositories": [

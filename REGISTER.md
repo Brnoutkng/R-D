@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**77 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**78 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -71,6 +71,7 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-120 — Brake-fluid testing tool](ideas/brake-fluid-tester.md) | Dropped — scope/owner decision | Suggestion discussed and declined for current shortlist; no development established | No dedicated repo found | Owner rejected the current suggestion as infrequently needed and competing with common testers he estimates at approximately $2.80. |
 | [RD-122 — Methanol fuel fault-finder](ideas/methanol-fault-finder.md) | Investigation / samples | Bench feasibility plan documented; no prototype or test results | No dedicated repo found | A comparative capacitive measurement is worth a small bench trial, but normal fuel and temperature variation may obscure the signal. No validated water detection limit or in-service engine cutoff has been established. |
 | [RD-123 — Adjustable RPM switch](ideas/adjustable-rpm-switch.md) | Future option | Owner idea only; no prototype or development approval | No dedicated repo found | The first application, buyer demand and advantage over existing switches are not established. |
+| [RD-124 — Programmable ignition box for carburetted engines](ideas/programmable-carb-ignition.md) | Future option | Owner idea and initial competitor check; no prototype | No dedicated repo found | Direct and adjacent products already offer programmable timing and integrated MAP. No first application, competitive advantage or development approval has been established. |
 
 ## Pit equipment
 

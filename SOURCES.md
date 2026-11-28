@@ -738,3 +738,31 @@ Type: manufacturer listing. Source date: 2026-11-28.
 [Open source](https://mrmodule.com.au/product/shift-light-controller/)
 
 An Australian standalone RPM-activated output benchmark; the listing does not establish sales volume.
+
+### C-NOV28-CARB-IGNITION
+
+**Programmable carburetted-engine ignition idea**
+
+Type: owner discussion. Source date: 2026-11-28.
+
+Concept only; the owner has not committed to building it.
+
+### R-MSD-ULTRA-6AL-PLUS
+
+**MSD Ultra 6AL Plus**
+
+Type: manufacturer documentation. Source date: 2026-11-28.
+
+[Open source](https://www.holley.com/products/ignition/ignition_boxes/street_and_strip/6_series_performance_ignition_boxes/parts/65233)
+
+Direct capacitive-discharge benchmark with onboard MAP and an RPM-by-load timing table.
+
+### R-CB-BLACK-BOX
+
+**CB Performance Black Box**
+
+Type: manufacturer documentation. Source date: 2026-11-28.
+
+[Open source](https://www.cbperformance.com/product-p/2013.htm)
+
+Adjacent distributor timing control module with an integrated MAP sensor.
