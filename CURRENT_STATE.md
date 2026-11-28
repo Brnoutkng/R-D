@@ -27,7 +27,7 @@ The catalogue contains **129 entries** and **45 detailed approach decisions**, a
 - **[Direct-fire ignition conversion](ideas/direct-fire-conversion.md):** future option. Retained distributor sensing or standalone crank trigger; target engine and ignition mode open.
 - **[Carbon-fibre sprintcar throttle bellcrank](ideas/carbon-throttle-bellcrank.md)** and **[carbon-fibre sprintcar steering box mounts](ideas/carbon-steering-box-mounts.md):** working owner-machined prototypes. Router time blocked repeat production; outsourced small-batch manufacture is unresolved.
 - **[Sprintcar torsion bar retainers](ideas/torsion-bar-retainers.md):** owner-made prototypes in use; printed threads held the design back. Aluminium body with carbon end plates is an untested commercial option.
-- **[Motorsport action camera mount](ideas/motorsport-action-camera-mount.md):** future option. Benchmark JOES; fitment and independent secondary retention are the points to test.
+- **[Motorsport action camera mount](ideas/motorsport-action-camera-mount.md):** future option. Harris billet rollbar mount is the form reference; fitment and independent secondary retention are the points to test.
 
 ## Latest owner direction
 

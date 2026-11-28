@@ -856,3 +856,13 @@ Type: sanctioning body rulebook. Source date: not individually established.
 [Open source](https://www.speedwayaustralia.org/media.ashx/speedway-australia-rulebook.pdf)
 
 Section 3.4.5 requires secure mounting. It is not product approval and does not replace class or event rules.
+
+### R-HARRIS-BILLET-CAMERA
+
+**Harris GoPro Billet Rollbar Mount**
+
+Type: supplier listing. Source date: 2026-11-28.
+
+[Open source](https://harrisraceradios.com/products/gopro-billet-rollbar-mount)
+
+Product selected by the owner as the form reference. The earlier JOES comparison is the owner's description, not a claim that Harris sells a JOES product.

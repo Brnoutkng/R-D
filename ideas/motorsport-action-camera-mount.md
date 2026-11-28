@@ -16,15 +16,15 @@
 
 ## Idea
 
-A secure action-camera mounting kit for race cars, with a low-profile mechanical mount and independent secondary retention as a candidate design.
+A secure action-camera mounting kit for race cars. The Harris billet rollbar mount, which the owner identifies as similar to the earlier JOES style, is the form reference. Independent secondary retention remains a candidate feature.
 
 ## Why it is at this status
 
-The owner has struggled to find mounts he trusts and cites JOES as a credible benchmark. Other dedicated mounts exist; any advantage must be demonstrated for the complete camera-to-car assembly.
+The owner has struggled to find mounts he trusts and selected the Harris billet mount as the relevant design reference rather than the newer JOES swivel-and-pivot assembly. Any advantage must be demonstrated for the complete camera-to-car assembly.
 
 ## Next useful step
 
-If revisited, pick one camera and installation position; compare JOES with a low-profile mount that can retain the camera even if the primary mount separates.
+If revisited, pick one camera and mounting position and benchmark fit and retention against the Harris billet rollbar mount.
 
 ## What would justify reopening or advancing it
 
@@ -45,7 +45,8 @@ GoPro race car mount, Roll-cage camera mount
 | Date | Decision / evidence |
 | --- | --- |
 | 2026-11-28 | Owner raised a secure GoPro/action-camera mount after struggling to find suitable examples; JOES is the initial comparison. |
+| 2026-11-28 | Owner clarified that the Harris billet rollbar mount is the intended style reference and described it as the earlier JOES style. The newer JOES assembly is an adjacent comparison only. |
 
 ## Sources
 
-[C-NOV28-CAMERA-MOUNT](../SOURCES.md#c-nov28-camera-mount), [R-JOES-ACTION-CAMERA](../SOURCES.md#r-joes-action-camera), [R-SPEEDWAY-AU-CAMERA](../SOURCES.md#r-speedway-au-camera)
+[C-NOV28-CAMERA-MOUNT](../SOURCES.md#c-nov28-camera-mount), [R-JOES-ACTION-CAMERA](../SOURCES.md#r-joes-action-camera), [R-SPEEDWAY-AU-CAMERA](../SOURCES.md#r-speedway-au-camera), [R-HARRIS-BILLET-CAMERA](../SOURCES.md#r-harris-billet-camera)
