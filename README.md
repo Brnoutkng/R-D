@@ -23,11 +23,11 @@ A shared record of the ideas we have discussed, where each one reached, and why 
 
 ## What is in this register
 
-The catalogue now contains **122 entries**, covering **13 accessible development repositories**, relevant branches and recovered chat discussions. It also preserves **45 detailed decisions** about rejected, superseded or deferred approaches.
+The catalogue now contains **123 entries**, covering **13 accessible development repositories**, relevant branches and recovered chat discussions. It also preserves **45 detailed decisions** about rejected, superseded or deferred approaches.
 
-The [main register](REGISTER.md) contains **76 records** with their current or recorded disposition. A separate [research suggestions page](RESEARCH_SUGGESTIONS.md) preserves **46 historical suggestions that were not established as adopted projects**.
+The [main register](REGISTER.md) contains **77 records** with their current or recorded disposition. A separate [research suggestions page](RESEARCH_SUGGESTIONS.md) preserves **46 historical suggestions that were not established as adopted projects**.
 
-Those 121 entries include commercial product ideas, internal workshop and race tools, companion software, variants, accessories, resale opportunities, historical projects and suggestions that were never adopted. They are **not 121 active products**.
+Those 123 entries include commercial product ideas, internal workshop and race tools, companion software, variants, accessories, resale opportunities, historical projects and suggestions that were never adopted. They are **not 123 active products**.
 
 The review includes the material that could be recovered. It is not a complete export of every past chat, deleted branch or private discussion. Missing dates and uncertain decisions remain explicit.
 

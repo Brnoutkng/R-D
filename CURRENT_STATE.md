@@ -2,7 +2,7 @@
 
 **Register review: 17 November 2026 — Australia/Melbourne**
 
-The catalogue contains **122 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **76 records**; another **46 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
+The catalogue contains **123 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **77 records**; another **46 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
 
 ## Main projects and tools
 
@@ -22,6 +22,7 @@ The catalogue contains **122 entries** and **45 detailed approach decisions**, a
 ## New investigation · 28 November 2026
 
 - **[Methanol fuel fault-finder](ideas/methanol-fault-finder.md):** comparative trackside diagnostic. Bench plan documented; wait to bundle parts with another order. No instrument results or engine cutoff established.
+- **[Adjustable RPM switch](ideas/adjustable-rpm-switch.md):** idea only. First application and demand are undecided.
 
 ## Latest owner direction
 

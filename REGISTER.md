@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**76 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**77 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -70,12 +70,13 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-119 — Preset tyre inflator](ideas/preset-tyre-inflator.md) | Dropped — scope/owner decision | Suggestion discussed and declined for current shortlist; no development established | No dedicated repo found | Owner rejected it for the current shortlist because it competes with what he sees as an approximately $5 chuck plus an existing gauge. |
 | [RD-120 — Brake-fluid testing tool](ideas/brake-fluid-tester.md) | Dropped — scope/owner decision | Suggestion discussed and declined for current shortlist; no development established | No dedicated repo found | Owner rejected the current suggestion as infrequently needed and competing with common testers he estimates at approximately $2.80. |
 | [RD-122 — Methanol fuel fault-finder](ideas/methanol-fault-finder.md) | Investigation / samples | Bench feasibility plan documented; no prototype or test results | No dedicated repo found | A comparative capacitive measurement is worth a small bench trial, but normal fuel and temperature variation may obscure the signal. No validated water detection limit or in-service engine cutoff has been established. |
+| [RD-123 — Adjustable RPM switch](ideas/adjustable-rpm-switch.md) | Future option | Owner idea only; no prototype or development approval | No dedicated repo found | The first application, buyer demand and advantage over existing switches are not established. |
 
 ## Pit equipment
 
 | Idea | Where it stands | Stage reached | Repository | Why / remaining gate |
 | --- | --- | --- | --- | --- |
-| [RD-117 — Pit helmet warmer](ideas/pit-helmet-warmer.md) | Research only | Two commercial benchmarks checked; no prototype | No dedicated repo found | Parked for owner review. Heated stands and bags exist; no exact low-power fanless stand verified. Demand and benefit against visor fog are unproven. |
+| [RD-117 — Pit helmet warmer](ideas/pit-helmet-warmer.md) | Research only | Owner-proposed concept; research requested, no design or prototype | No dedicated repo found | Steven reports recurring visor fogging and believes existing helmet warmers are expensive or difficult to obtain. Availability, broader demand and effectiveness remain to be independently checked; this is not a development commitment. |
 | [RD-121 — Driver cooling equipment](ideas/driver-cooling.md) | Dropped — scope/owner decision | New assistant suggestion declined; no development established | No dedicated repo found | Steven rejected this suggestion as too mechanical and potentially safety/approval-oriented for his intended scope. Specific approval requirements were not established. |
 
 ## Supporting resale products

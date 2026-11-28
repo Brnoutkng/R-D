@@ -3865,6 +3865,44 @@
         "R-METHANOL-CAP-SENSOR"
       ],
       "reviewed_on": "2026-11-28"
+    },
+    {
+      "id": "RD-123",
+      "slug": "adjustable-rpm-switch",
+      "name": "Adjustable RPM switch",
+      "aliases": [
+        "RPM-activated switch",
+        "Engine speed switch"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "future-option",
+      "stage": "Owner idea only; no prototype or development approval",
+      "summary": "A standalone switch that changes an electrical output at a user-set engine RPM.",
+      "reason": "The first application, buyer demand and advantage over existing switches are not established.",
+      "repo": null,
+      "repo_state": "R&D idea only; no dedicated development repository or hardware build.",
+      "evidence_date": "2026-11-28",
+      "basis": "Owner proposal and an initial market comparison.",
+      "confidence": "High for the idea; use case, requirements and demand unverified",
+      "next_step": "If revisited, identify the first use case and whether it requires one threshold or separate on/off RPM settings.",
+      "reopen_trigger": "An identified use case and a credible price, ease-of-use or fit advantage over existing options.",
+      "boundaries": [
+        "No application or electrical specification selected.",
+        "Separate from the historical standalone shift light suggestion (RD-093).",
+        "Listing this idea does not authorise development or purchasing."
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "decision": "Owner asked to capture the idea in the register; what it would switch remains undecided."
+        }
+      ],
+      "source_ids": [
+        "C-NOV28-RPM-SWITCH",
+        "R-MR-MODULE-RPM-SWITCH"
+      ],
+      "reviewed_on": "2026-11-28"
     }
   ]
 }

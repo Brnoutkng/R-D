@@ -583,6 +583,22 @@
       "date": null,
       "url": "https://www.ti.com/product/FDC2214",
       "notes": "Supports the measurement principle only; does not establish performance in methanol samples."
+    },
+    {
+      "id": "C-NOV28-RPM-SWITCH",
+      "title": "Adjustable RPM switch idea",
+      "type": "owner discussion",
+      "date": "2026-11-28",
+      "url": null,
+      "notes": "Owner raised a simple adjustable RPM switch for the ideas register. No use case or development decision was established."
+    },
+    {
+      "id": "R-MR-MODULE-RPM-SWITCH",
+      "title": "Mr Module Shift Light Controller",
+      "type": "manufacturer listing",
+      "date": "2026-11-28",
+      "url": "https://mrmodule.com.au/product/shift-light-controller/",
+      "notes": "An Australian standalone RPM-activated output benchmark; the listing does not establish sales volume."
     }
   ],
   "repositories": [

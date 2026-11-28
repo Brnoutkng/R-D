@@ -720,3 +720,21 @@ Type: manufacturer documentation. Source date: not individually established.
 [Open source](https://www.ti.com/product/FDC2214)
 
 Supports the measurement principle only; does not establish performance in methanol samples.
+
+### C-NOV28-RPM-SWITCH
+
+**Adjustable RPM switch idea**
+
+Type: owner discussion. Source date: 2026-11-28.
+
+Owner raised a simple adjustable RPM switch for the ideas register. No use case or development decision was established.
+
+### R-MR-MODULE-RPM-SWITCH
+
+**Mr Module Shift Light Controller**
+
+Type: manufacturer listing. Source date: 2026-11-28.
+
+[Open source](https://mrmodule.com.au/product/shift-light-controller/)
+
+An Australian standalone RPM-activated output benchmark; the listing does not establish sales volume.
