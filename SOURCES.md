@@ -702,3 +702,21 @@ Steven judged a dedicated tuning meter not a mainstream win because of modern EF
 Type: direct owner voice discussion. Source date: 2026-11-17.
 
 Steven considered newly suggested driver cooling too mechanical and potentially safety/approval-oriented. No specific approval requirement was verified. This does not reject the separate pit helmet-warmer idea.
+
+### C-NOV28-METHANOL-FAULT-FINDER
+
+**Methanol fault-finder scope and bench decision**
+
+Type: owner discussion and feasibility review. Source date: 2026-11-28.
+
+Owner described a comparative trackside diagnostic and deferred standalone purchasing. The detailed bench plan is retained privately. No water concentration or instrument performance was established.
+
+### R-METHANOL-CAP-SENSOR
+
+**Texas Instruments FDC2214 capacitance converter**
+
+Type: manufacturer documentation. Source date: not individually established.
+
+[Open source](https://www.ti.com/product/FDC2214)
+
+Supports the measurement principle only; does not establish performance in methanol samples.

@@ -2,7 +2,7 @@
 
 **Register review: 17 November 2026 — Australia/Melbourne**
 
-The catalogue contains **121 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **75 records**; another **46 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
+The catalogue contains **122 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **76 records**; another **46 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
 
 ## Main projects and tools
 
@@ -18,6 +18,10 @@ The catalogue contains **121 entries** and **45 detailed approach decisions**, a
 | [RaceLogger](ideas/racelogger.md) | Active personal development tool; boards reported received. | Programming, bring-up and complete-system capture validation. Commercialization is a separate future decision. |
 | [LogWorks](ideas/logworks.md), [RaceOS](ideas/raceos.md), [RaceCal](ideas/racecal.md) | Active internal race-season tools. | Preserve useful operation and resolve actual tuning/logging problems. Older commit dates do not make these parked products. |
 | [FlowCal](ideas/flowcal.md) | Software developed; inactive unless reactivated. | Real injector-bench need and complete physical acceptance. Separate from the proposed digital flow-bench processor. |
+
+## New investigation · 28 November 2026
+
+- **[Methanol fuel fault-finder](ideas/methanol-fault-finder.md):** comparative trackside diagnostic. Bench plan documented; wait to bundle parts with another order. No instrument results or engine cutoff established.
 
 ## Latest owner direction
 

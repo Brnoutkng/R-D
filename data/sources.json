@@ -567,6 +567,22 @@
       "date": "2026-11-17",
       "url": null,
       "notes": "Steven considered newly suggested driver cooling too mechanical and potentially safety/approval-oriented. No specific approval requirement was verified. This does not reject the separate pit helmet-warmer idea."
+    },
+    {
+      "id": "C-NOV28-METHANOL-FAULT-FINDER",
+      "title": "Methanol fault-finder scope and bench decision",
+      "type": "owner discussion and feasibility review",
+      "date": "2026-11-28",
+      "url": null,
+      "notes": "Owner described a comparative trackside diagnostic and deferred standalone purchasing. The detailed bench plan is retained privately. No water concentration or instrument performance was established."
+    },
+    {
+      "id": "R-METHANOL-CAP-SENSOR",
+      "title": "Texas Instruments FDC2214 capacitance converter",
+      "type": "manufacturer documentation",
+      "date": null,
+      "url": "https://www.ti.com/product/FDC2214",
+      "notes": "Supports the measurement principle only; does not establish performance in methanol samples."
     }
   ],
   "repositories": [

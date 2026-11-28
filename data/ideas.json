@@ -3827,6 +3827,44 @@
         "C-NOV17-DRIVER-COOLING"
       ],
       "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "RD-122",
+      "slug": "methanol-fault-finder",
+      "name": "Methanol fuel fault-finder",
+      "aliases": [
+        "Methanol moisture tester",
+        "Wet methanol checker"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "investigation",
+      "stage": "Bench feasibility plan documented; no prototype or test results",
+      "summary": "A quick electronic check for suspect methanol during race-night fault finding. Compare a capped sample with known-good fuel before chasing ignition or injection faults.",
+      "reason": "A comparative capacitive measurement is worth a small bench trial, but normal fuel and temperature variation may obscure the signal. No validated water detection limit or in-service engine cutoff has been established.",
+      "repo": null,
+      "repo_state": "R&D record only; no dedicated development repository or hardware build.",
+      "evidence_date": "2026-11-28",
+      "basis": "Owner-reported trackside troubleshooting experience and desk feasibility review.",
+      "confidence": "High for the intended use and purchase decision; performance and demand unverified",
+      "next_step": "Bundle a populated capacitance-sensor breakout, temperature sensor and electrode foil into a future parts order. Use a single fixed sample holder and log repeat readings on a laptop; no separate order or custom hardware for the first trial.",
+      "reopen_trigger": "Advance only if suspect and fresh samples can be distinguished repeatably despite normal fuel and temperature variation, with a response quick enough for trackside troubleshooting.",
+      "boundaries": [
+        "Comparison only until validated: not a calibrated water-percentage reading, scrutineering test or safe-to-race decision.",
+        "Capped samples only for bench feasibility; no powered in-tank probe or deliberately contaminated fuel in an engine.",
+        "Keep the working RevMax tester intact. No screen, custom PCB or second sensor channel in the first trial."
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "decision": "Retained the trackside fault-finder concept. Wait to combine the bench parts with a future order rather than paying separate freight."
+        }
+      ],
+      "source_ids": [
+        "C-NOV28-METHANOL-FAULT-FINDER",
+        "R-METHANOL-CAP-SENSOR"
+      ],
+      "reviewed_on": "2026-11-28"
     }
   ]
 }

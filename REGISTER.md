@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**75 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**76 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -69,6 +69,7 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-118 — Chassis noise finder](ideas/chassis-noise-finder.md) | Dropped — scope/owner decision | Assistant suggestion discussed and declined; no development established | No dedicated repo found | Steven rejected this suggestion as an occasional workshop-use tool rather than a core, frequently needed race-day product. He is seeking recurring essential electronics useful across motorsport disciplines. |
 | [RD-119 — Preset tyre inflator](ideas/preset-tyre-inflator.md) | Dropped — scope/owner decision | Suggestion discussed and declined for current shortlist; no development established | No dedicated repo found | Owner rejected it for the current shortlist because it competes with what he sees as an approximately $5 chuck plus an existing gauge. |
 | [RD-120 — Brake-fluid testing tool](ideas/brake-fluid-tester.md) | Dropped — scope/owner decision | Suggestion discussed and declined for current shortlist; no development established | No dedicated repo found | Owner rejected the current suggestion as infrequently needed and competing with common testers he estimates at approximately $2.80. |
+| [RD-122 — Methanol fuel fault-finder](ideas/methanol-fault-finder.md) | Investigation / samples | Bench feasibility plan documented; no prototype or test results | No dedicated repo found | A comparative capacitive measurement is worth a small bench trial, but normal fuel and temperature variation may obscure the signal. No validated water detection limit or in-service engine cutoff has been established. |
 
 ## Pit equipment
 
