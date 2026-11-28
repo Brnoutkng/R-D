@@ -4062,6 +4062,45 @@
         "C-NOV28-ROUTED-CARBON-PROTOTYPES"
       ],
       "reviewed_on": "2026-11-28"
+    },
+    {
+      "id": "RD-128",
+      "slug": "torsion-bar-retainers",
+      "name": "Sprintcar torsion bar retainers",
+      "aliases": [
+        "Carbon torsion bar retainers",
+        "Sprintcar torsion stop retainers"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "future-option",
+      "stage": "Owner-made prototypes in use; aluminium-body variant proposed only",
+      "summary": "Sprintcar torsion bar retainers prototyped using printed PA12-CF and machined carbon-fibre plate. The proposed commercial variant uses an aluminium body with carbon end plates.",
+      "reason": "The owner still uses the prototypes but was not confident in the threaded printed section and did not pursue it for production. The aluminium-body variant has not been qualified.",
+      "repo": null,
+      "repo_state": "R&D record only; no production package confirmed.",
+      "evidence_date": "2026-11-28",
+      "basis": "Owner report of actual prototype use and a proposed commercial variant; SCCA rulebook reference.",
+      "confidence": "High for what the owner reported; production readiness, market demand and exact class eligibility unverified",
+      "next_step": "If revisited, assess the aluminium-body variant against the existing prototype and confirm what material and configuration the intended class accepts before commissioning a sample.",
+      "reopen_trigger": "A manufacturable, affordable variant with confirmed class eligibility and a qualified validation plan for the finished retention assembly.",
+      "boundaries": [
+        "This is a retention device, not the torsion bar tester.",
+        "The aluminium-body variant is a proposal, not a tested replacement. Do not infer that putting the threads in metal qualifies the complete assembly.",
+        "SCCA rule 8.9(iii) addresses front torsion stop/bar retention and leaves suitability to the scrutineer; the rule does not name this design or establish a carbon-material exception.",
+        "No outreach, quotes or purchases authorised by the entry."
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "decision": "Record the existing prototypes and retain the aluminium-body, carbon-end-plate version as the preferred commercial idea to assess."
+        }
+      ],
+      "source_ids": [
+        "C-NOV28-TORSION-RETAINERS",
+        "R-SCCA-TORSION-RETENTION"
+      ],
+      "reviewed_on": "2026-11-28"
     }
   ]
 }

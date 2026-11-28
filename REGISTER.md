@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**81 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**82 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -75,6 +75,7 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-125 — Direct-fire ignition conversion for carburetted engines](ideas/direct-fire-conversion.md) | Future option | Owner idea and initial technical comparison; no prototype | No dedicated repo found | Feasibility depends on the stock trigger pattern, desired ignition mode and installation requirements. No target engine, architecture or development commitment selected. |
 | [RD-126 — Carbon-fibre sprintcar throttle bellcrank](ideas/carbon-throttle-bellcrank.md) | Paused — sourcing | Owner-machined prototype used and tested for years; production not established | No dedicated repo found | The owner could make working prototypes on his CNC router, but the process took too much of his time for production. Outside manufacture is unresolved. |
 | [RD-127 — Carbon-fibre sprintcar steering box mounts](ideas/carbon-steering-box-mounts.md) | Paused — sourcing | Owner-machined working prototypes; production not established | No dedicated repo found | The home-router process took too much owner time for repeat production. New manufacturing contacts may provide an outsourced small-batch route. |
+| [RD-128 — Sprintcar torsion bar retainers](ideas/torsion-bar-retainers.md) | Future option | Owner-made prototypes in use; aluminium-body variant proposed only | No dedicated repo found | The owner still uses the prototypes but was not confident in the threaded printed section and did not pursue it for production. The aluminium-body variant has not been qualified. |
 
 ## Pit equipment
 

@@ -663,6 +663,22 @@
       "date": "2026-11-28",
       "url": null,
       "notes": "Owner reports working carbon prototypes made on his CNC router. Hands-on machining time was the production blocker; outsourced qualification and commercial supply are not established."
+    },
+    {
+      "id": "C-NOV28-TORSION-RETAINERS",
+      "title": "Owner-built sprintcar torsion bar retainers",
+      "type": "owner discussion",
+      "date": "2026-11-28",
+      "url": null,
+      "notes": "Owner-built PA12-CF and machined carbon plate prototypes remain in use. Printed threads were a concern. An aluminium body with carbon end plates was proposed for a possible commercial version."
+    },
+    {
+      "id": "R-SCCA-TORSION-RETENTION",
+      "title": "SCCA rulebook: front torsion stop/bar retention, section 8.9(iii)",
+      "type": "sanctioning body rulebook",
+      "date": null,
+      "url": "https://www.sravic.com.au/_files/ugd/553d51_de07a15910bb418c8d65bbf973545e3b.pdf#page=60",
+      "notes": "Sets front torsion stop/bar retention requirements and assigns suitability assessment to the scrutineer. Does not approve this product or settle its material eligibility."
     }
   ],
   "repositories": [
