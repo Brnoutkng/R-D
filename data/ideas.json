@@ -3928,7 +3928,8 @@
       "boundaries": [
         "No architecture, MAP range, target price or release decision selected.",
         "Do not treat a timing-only add-on as interchangeable with a replacement capacitive-discharge ignition.",
-        "No development or purchasing implied by the register entry."
+        "No development or purchasing implied by the register entry.",
+        "See RD-125 for the separate distributorless multi-coil retrofit concept."
       ],
       "history": [
         {
@@ -3940,6 +3941,46 @@
         "C-NOV28-CARB-IGNITION",
         "R-MSD-ULTRA-6AL-PLUS",
         "R-CB-BLACK-BOX"
+      ],
+      "reviewed_on": "2026-11-28"
+    },
+    {
+      "id": "RD-125",
+      "slug": "direct-fire-conversion",
+      "name": "Direct-fire ignition conversion for carburetted engines",
+      "aliases": [
+        "Distributorless ignition conversion",
+        "Multi-coil ignition retrofit"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "future-option",
+      "stage": "Owner idea and initial technical comparison; no prototype",
+      "summary": "Retrofit a carburetted engine to use electronically controlled coils instead of distributing spark through the cap and rotor. Consider retaining the distributor as a position sensor or using a dedicated crank trigger.",
+      "reason": "Feasibility depends on the stock trigger pattern, desired ignition mode and installation requirements. No target engine, architecture or development commitment selected.",
+      "repo": null,
+      "repo_state": "R&D idea only; no dedicated hardware build.",
+      "evidence_date": "2026-11-28",
+      "basis": "Owner proposal and manufacturer trigger and ignition documentation.",
+      "confidence": "High for the idea and general trigger distinction; engine compatibility and commercial viability unverified",
+      "next_step": "If revisited, select one candidate engine and establish what position and cycle information its stock distributor provides before choosing the trigger and coil architecture.",
+      "reopen_trigger": "A specific engine family with a practical trigger, coil and harness package and an advantage over existing distributorless conversions.",
+      "boundaries": [
+        "Standard distributor pickup compatibility is engine dependent; a simple repeating pulse train does not itself identify the firing cylinder.",
+        "Keep wasted spark and fully sequential direct fire distinct. Sequential ignition needs full engine-cycle position information.",
+        "Related to the programmable carburetted-engine ignition box (RD-124), but not a requirement for that product.",
+        "No development or purchasing implied."
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "decision": "Owner proposed direct-fire conversion as a separate future option. Keep distributor-based sensing and dedicated crank triggering open."
+        }
+      ],
+      "source_ids": [
+        "C-NOV28-DIRECT-FIRE",
+        "R-HALTECH-TRIGGER-SYNC",
+        "R-ELECTROMOTIVE-XDI"
       ],
       "reviewed_on": "2026-11-28"
     }

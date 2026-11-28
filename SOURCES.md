@@ -766,3 +766,31 @@ Type: manufacturer documentation. Source date: 2026-11-28.
 [Open source](https://www.cbperformance.com/product-p/2013.htm)
 
 Adjacent distributor timing control module with an integrated MAP sensor.
+
+### C-NOV28-DIRECT-FIRE
+
+**Direct-fire ignition conversion idea**
+
+Type: owner discussion. Source date: 2026-11-28.
+
+Owner raised the distributor pickup and dedicated crank trigger as alternatives; no engine or architecture selected.
+
+### R-HALTECH-TRIGGER-SYNC
+
+**Haltech trigger and cycle synchronisation**
+
+Type: manufacturer documentation. Source date: 2026-11-28.
+
+[Open source](https://support.haltech.com/portal/en/kb/articles/trigger-elite)
+
+Distinguishes cam-driven and crank-driven triggers and full engine-cycle synchronisation.
+
+### R-ELECTROMOTIVE-XDI
+
+**Electromotive XDi distributorless ignition**
+
+Type: manufacturer documentation. Source date: 2026-11-28.
+
+[Open source](https://electromotive.com/our-products/xdi-ignition/)
+
+Existing crank-triggered distributorless ignition benchmark aimed at carburetted and mechanically injected engines.

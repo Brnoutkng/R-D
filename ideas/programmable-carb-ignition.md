@@ -39,6 +39,7 @@ Programmable ignition box, Ignition-only controller
 - No architecture, MAP range, target price or release decision selected.
 - Do not treat a timing-only add-on as interchangeable with a replacement capacitive-discharge ignition.
 - No development or purchasing implied by the register entry.
+- See RD-125 for the separate distributorless multi-coil retrofit concept.
 
 ## Decision history
 
