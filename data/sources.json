@@ -679,6 +679,30 @@
       "date": null,
       "url": "https://www.sravic.com.au/_files/ugd/553d51_de07a15910bb418c8d65bbf973545e3b.pdf#page=60",
       "notes": "Sets front torsion stop/bar retention requirements and assigns suitability assessment to the scrutineer. Does not approve this product or settle its material eligibility."
+    },
+    {
+      "id": "C-NOV28-CAMERA-MOUNT",
+      "title": "Motorsport action-camera mount idea",
+      "type": "owner discussion",
+      "date": "2026-11-28",
+      "url": null,
+      "notes": "Owner reported difficulty finding a suitable mount and named JOES as a benchmark; no prototype or development decision."
+    },
+    {
+      "id": "R-JOES-ACTION-CAMERA",
+      "title": "JOES GoPro Tube Mount",
+      "type": "manufacturer listing",
+      "date": "2026-11-28",
+      "url": "https://www.joesracing.com/product/tube-clamp-style-gopro-mount-complete-assembly/",
+      "notes": "Mechanical clamp with swivel and pivot adjustment, offered in three fixed tube diameters."
+    },
+    {
+      "id": "R-SPEEDWAY-AU-CAMERA",
+      "title": "Speedway Australia rulebook: in-car cameras",
+      "type": "sanctioning body rulebook",
+      "date": null,
+      "url": "https://www.speedwayaustralia.org/media.ashx/speedway-australia-rulebook.pdf",
+      "notes": "Section 3.4.5 requires secure mounting. It is not product approval and does not replace class or event rules."
     }
   ],
   "repositories": [

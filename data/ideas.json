@@ -4101,6 +4101,45 @@
         "R-SCCA-TORSION-RETENTION"
       ],
       "reviewed_on": "2026-11-28"
+    },
+    {
+      "id": "RD-129",
+      "slug": "motorsport-action-camera-mount",
+      "name": "Motorsport action camera mount",
+      "aliases": [
+        "GoPro race car mount",
+        "Roll-cage camera mount"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "future-option",
+      "stage": "Owner idea with competitor and rule references; no prototype",
+      "summary": "A secure action-camera mounting kit for race cars, with a low-profile mechanical mount and independent secondary retention as a candidate design.",
+      "reason": "The owner has struggled to find mounts he trusts and cites JOES as a credible benchmark. Other dedicated mounts exist; any advantage must be demonstrated for the complete camera-to-car assembly.",
+      "repo": null,
+      "repo_state": "R&D record only; no dedicated build confirmed.",
+      "evidence_date": "2026-11-28",
+      "basis": "Owner experience, manufacturer documentation and published competition rules.",
+      "confidence": "High for the reported problem and benchmark features; fitment, retention and demand unverified",
+      "next_step": "If revisited, pick one camera and installation position; compare JOES with a low-profile mount that can retain the camera even if the primary mount separates.",
+      "reopen_trigger": "An identified fitment or retention advantage, realistic small-batch cost, and a credible test plan covering primary and secondary retention.",
+      "boundaries": [
+        "Candidate only: no design, supplier, approval or batch committed.",
+        "Secondary retention should connect the camera or suitably retained housing to a separate permitted vehicle attachment, rather than only to the primary clamp.",
+        "Confirm location and fastening against the applicable class rules and verify head clearance, exit clearance, vibration and retention before sale. Do not claim blanket race approval."
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "decision": "Owner raised a secure GoPro/action-camera mount after struggling to find suitable examples; JOES is the initial comparison."
+        }
+      ],
+      "source_ids": [
+        "C-NOV28-CAMERA-MOUNT",
+        "R-JOES-ACTION-CAMERA",
+        "R-SPEEDWAY-AU-CAMERA"
+      ],
+      "reviewed_on": "2026-11-28"
     }
   ]
 }

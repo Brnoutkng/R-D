@@ -828,3 +828,31 @@ Type: sanctioning body rulebook. Source date: not individually established.
 [Open source](https://www.sravic.com.au/_files/ugd/553d51_de07a15910bb418c8d65bbf973545e3b.pdf#page=60)
 
 Sets front torsion stop/bar retention requirements and assigns suitability assessment to the scrutineer. Does not approve this product or settle its material eligibility.
+
+### C-NOV28-CAMERA-MOUNT
+
+**Motorsport action-camera mount idea**
+
+Type: owner discussion. Source date: 2026-11-28.
+
+Owner reported difficulty finding a suitable mount and named JOES as a benchmark; no prototype or development decision.
+
+### R-JOES-ACTION-CAMERA
+
+**JOES GoPro Tube Mount**
+
+Type: manufacturer listing. Source date: 2026-11-28.
+
+[Open source](https://www.joesracing.com/product/tube-clamp-style-gopro-mount-complete-assembly/)
+
+Mechanical clamp with swivel and pivot adjustment, offered in three fixed tube diameters.
+
+### R-SPEEDWAY-AU-CAMERA
+
+**Speedway Australia rulebook: in-car cameras**
+
+Type: sanctioning body rulebook. Source date: not individually established.
+
+[Open source](https://www.speedwayaustralia.org/media.ashx/speedway-australia-rulebook.pdf)
+
+Section 3.4.5 requires secure mounting. It is not product approval and does not replace class or event rules.
