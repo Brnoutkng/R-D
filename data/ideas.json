@@ -3983,6 +3983,43 @@
         "R-ELECTROMOTIVE-XDI"
       ],
       "reviewed_on": "2026-11-28"
+    },
+    {
+      "id": "RD-126",
+      "slug": "carbon-throttle-bellcrank",
+      "name": "Carbon-fibre sprintcar throttle bellcrank",
+      "aliases": [
+        "Carbon throttle bellcrank",
+        "Sprintcar throttle bell crank"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-sourcing",
+      "stage": "Existing part used and tested for years by the owner; production not established",
+      "summary": "A carbon-fibre throttle-linkage bellcrank for sprintcars, based on an existing part the owner has used and tested over several years.",
+      "reason": "Manufacturing was the earlier blocker. New manufacturing contacts may make the existing design worth revisiting, but production supply, cost and part consistency are not established.",
+      "repo": null,
+      "repo_state": "R&D record only; no dedicated repository or production package confirmed.",
+      "evidence_date": "2026-11-28",
+      "basis": "Owner report of prior use, testing and manufacturing blocker.",
+      "confidence": "High for what the owner reported; independent validation and production readiness not established",
+      "next_step": "If revisited, start from the existing part and drawings if available. Establish whether a supplier can reproduce it in an affordable small batch before investing in redesign.",
+      "reopen_trigger": "A credible small-batch manufacturing route that can reproduce the existing part consistently, with production samples checked before sale.",
+      "boundaries": [
+        "Owner experience applies to the existing part, not to a new supplier's production parts.",
+        "The throttle linkage is safety-critical; verify production fit, durability and free return to idle before release.",
+        "No supplier contact, quote request or purchase approved by this entry."
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "decision": "Owner identified the existing carbon throttle bellcrank as worth reconsidering now that new manufacturing contacts are available."
+        }
+      ],
+      "source_ids": [
+        "C-NOV28-CARBON-BELLCRANK"
+      ],
+      "reviewed_on": "2026-11-28"
     }
   ]
 }

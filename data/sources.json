@@ -647,6 +647,14 @@
       "date": "2026-11-28",
       "url": "https://electromotive.com/our-products/xdi-ignition/",
       "notes": "Existing crank-triggered distributorless ignition benchmark aimed at carburetted and mechanically injected engines."
+    },
+    {
+      "id": "C-NOV28-CARBON-BELLCRANK",
+      "title": "Carbon-fibre sprintcar throttle bellcrank",
+      "type": "owner discussion",
+      "date": "2026-11-28",
+      "url": null,
+      "notes": "Owner reported years of use and testing. Manufacturing was the blocker; newer contacts may justify revisiting it. Production qualification is not established."
     }
   ],
   "repositories": [

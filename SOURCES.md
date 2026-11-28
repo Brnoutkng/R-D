@@ -794,3 +794,11 @@ Type: manufacturer documentation. Source date: 2026-11-28.
 [Open source](https://electromotive.com/our-products/xdi-ignition/)
 
 Existing crank-triggered distributorless ignition benchmark aimed at carburetted and mechanically injected engines.
+
+### C-NOV28-CARBON-BELLCRANK
+
+**Carbon-fibre sprintcar throttle bellcrank**
+
+Type: owner discussion. Source date: 2026-11-28.
+
+Owner reported years of use and testing. Manufacturing was the blocker; newer contacts may justify revisiting it. Production qualification is not established.
