@@ -5,7 +5,7 @@
 | Field | Record |
 | --- | --- |
 | Status | **Paused — sourcing** |
-| Stage reached | Existing part used and tested for years by the owner; production not established |
+| Stage reached | Owner-machined prototype used and tested for years; production not established |
 | Kind | product |
 | Repository | No dedicated development repo found |
 | Repository state | R&D record only; no dedicated repository or production package confirmed. |
@@ -20,7 +20,7 @@ A carbon-fibre throttle-linkage bellcrank for sprintcars, based on an existing p
 
 ## Why it is at this status
 
-Manufacturing was the earlier blocker. New manufacturing contacts may make the existing design worth revisiting, but production supply, cost and part consistency are not established.
+The owner could make working prototypes on his CNC router, but the process took too much of his time for production. Outside manufacture is unresolved.
 
 ## Next useful step
 
@@ -45,7 +45,8 @@ Carbon throttle bellcrank, Sprintcar throttle bell crank
 | Date | Decision / evidence |
 | --- | --- |
 | 2026-11-28 | Owner identified the existing carbon throttle bellcrank as worth reconsidering now that new manufacturing contacts are available. |
+| 2026-11-28 | Owner clarified the blocker was hands-on manufacturing time on his router, not whether the prototype worked. |
 
 ## Sources
 
-[C-NOV28-CARBON-BELLCRANK](../SOURCES.md#c-nov28-carbon-bellcrank)
+[C-NOV28-CARBON-BELLCRANK](../SOURCES.md#c-nov28-carbon-bellcrank), [C-NOV28-ROUTED-CARBON-PROTOTYPES](../SOURCES.md#c-nov28-routed-carbon-prototypes)

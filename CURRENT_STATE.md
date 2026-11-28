@@ -2,7 +2,7 @@
 
 **Register review: 17 November 2026 — Australia/Melbourne**
 
-The catalogue contains **126 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **80 records**; another **46 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
+The catalogue contains **127 entries** and **45 detailed approach decisions**, assembled from **13 accessible development repositories**, relevant branches and recovered chats. The main register has **81 records**; another **46 historical unadopted suggestions** are retained separately. Individual evidence dates vary; this page is a catalogue snapshot, not a statement that every project was checked physically today.
 
 ## Main projects and tools
 
@@ -25,7 +25,7 @@ The catalogue contains **126 entries** and **45 detailed approach decisions**, a
 - **[Adjustable RPM switch](ideas/adjustable-rpm-switch.md):** idea only. First application and demand are undecided.
 - **[Programmable carburetted-engine ignition](ideas/programmable-carb-ignition.md):** future option. Existing boxes already offer onboard MAP and timing tables; no build commitment.
 - **[Direct-fire ignition conversion](ideas/direct-fire-conversion.md):** future option. Retained distributor sensing or standalone crank trigger; target engine and ignition mode open.
-- **[Carbon-fibre sprintcar throttle bellcrank](ideas/carbon-throttle-bellcrank.md):** owner-used for years; manufacturing was the blocker. New contacts make a small-batch route worth reconsidering.
+- **[Carbon-fibre sprintcar throttle bellcrank](ideas/carbon-throttle-bellcrank.md)** and **[carbon-fibre sprintcar steering box mounts](ideas/carbon-steering-box-mounts.md):** working owner-machined prototypes. Router time blocked repeat production; outsourced small-batch manufacture is unresolved.
 
 ## Latest owner direction
 

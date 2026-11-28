@@ -3995,9 +3995,9 @@
       "category": "Workshop and race tools",
       "kind": "product",
       "status": "paused-sourcing",
-      "stage": "Existing part used and tested for years by the owner; production not established",
+      "stage": "Owner-machined prototype used and tested for years; production not established",
       "summary": "A carbon-fibre throttle-linkage bellcrank for sprintcars, based on an existing part the owner has used and tested over several years.",
-      "reason": "Manufacturing was the earlier blocker. New manufacturing contacts may make the existing design worth revisiting, but production supply, cost and part consistency are not established.",
+      "reason": "The owner could make working prototypes on his CNC router, but the process took too much of his time for production. Outside manufacture is unresolved.",
       "repo": null,
       "repo_state": "R&D record only; no dedicated repository or production package confirmed.",
       "evidence_date": "2026-11-28",
@@ -4014,10 +4014,52 @@
         {
           "date": "2026-11-28",
           "decision": "Owner identified the existing carbon throttle bellcrank as worth reconsidering now that new manufacturing contacts are available."
+        },
+        {
+          "date": "2026-11-28",
+          "decision": "Owner clarified the blocker was hands-on manufacturing time on his router, not whether the prototype worked."
         }
       ],
       "source_ids": [
-        "C-NOV28-CARBON-BELLCRANK"
+        "C-NOV28-CARBON-BELLCRANK",
+        "C-NOV28-ROUTED-CARBON-PROTOTYPES"
+      ],
+      "reviewed_on": "2026-11-28"
+    },
+    {
+      "id": "RD-127",
+      "slug": "carbon-steering-box-mounts",
+      "name": "Carbon-fibre sprintcar steering box mounts",
+      "aliases": [
+        "Carbon sprint steering box mounts",
+        "Carbon steering box brackets"
+      ],
+      "category": "Workshop and race tools",
+      "kind": "product",
+      "status": "paused-sourcing",
+      "stage": "Owner-machined working prototypes; production not established",
+      "summary": "Carbon-fibre steering box mounts for sprintcars. The owner made working prototypes on his CNC router.",
+      "reason": "The home-router process took too much owner time for repeat production. New manufacturing contacts may provide an outsourced small-batch route.",
+      "repo": null,
+      "repo_state": "R&D record only; no production package confirmed.",
+      "evidence_date": "2026-11-28",
+      "basis": "Owner report of prior prototype manufacture and use.",
+      "confidence": "High for the owner report; production readiness and commercial demand unverified",
+      "next_step": "If revisited, start with the existing parts and files. Establish whether a supplier can reproduce them without bringing the labour back in-house.",
+      "reopen_trigger": "A credible small-batch manufacturing route with suitable cost, repeatability, and a qualified validation plan for the finished steering mounts.",
+      "boundaries": [
+        "Prototype success is not qualification of outsourced parts.",
+        "Steering mounts are safety-critical. Verify applicable class rules and qualify the finished parts before release.",
+        "No outreach, quotes, or purchases authorised by the entry."
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "decision": "Owner asked to retain the concept, noting working prototypes and time-consuming machining as the production blocker."
+        }
+      ],
+      "source_ids": [
+        "C-NOV28-ROUTED-CARBON-PROTOTYPES"
       ],
       "reviewed_on": "2026-11-28"
     }

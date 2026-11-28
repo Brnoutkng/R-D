@@ -802,3 +802,11 @@ Existing crank-triggered distributorless ignition benchmark aimed at carburetted
 Type: owner discussion. Source date: 2026-11-28.
 
 Owner reported years of use and testing. Manufacturing was the blocker; newer contacts may justify revisiting it. Production qualification is not established.
+
+### C-NOV28-ROUTED-CARBON-PROTOTYPES
+
+**Owner-machined sprintcar carbon prototypes**
+
+Type: owner discussion. Source date: 2026-11-28.
+
+Owner reports working carbon prototypes made on his CNC router. Hands-on machining time was the production blocker; outsourced qualification and commercial supply are not established.

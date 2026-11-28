@@ -4,7 +4,7 @@ Reviewed 2026-11-17 · Australia/Melbourne
 
 This is the place to check what was considered, how far it got, why it stopped and what would justify another look.
 
-**80 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
+**81 primary records** are listed here. **46 unadopted research/naming records** are in [Research suggestions](RESEARCH_SUGGESTIONS.md). These are catalogue records, not a count of active products.
 
 [Home](README.md) · [Detailed decisions](DECISIONS.md) · [Corrections and uncertainty](RECONCILIATION.md) · [Sources and coverage](SOURCES.md)
 
@@ -73,7 +73,8 @@ Status describes the decision to proceed, pause or stop. Stage describes work ac
 | [RD-123 — Adjustable RPM switch](ideas/adjustable-rpm-switch.md) | Future option | Owner idea only; no prototype or development approval | No dedicated repo found | The first application, buyer demand and advantage over existing switches are not established. |
 | [RD-124 — Programmable ignition box for carburetted engines](ideas/programmable-carb-ignition.md) | Future option | Owner idea and initial competitor check; no prototype | No dedicated repo found | Direct and adjacent products already offer programmable timing and integrated MAP. No first application, competitive advantage or development approval has been established. |
 | [RD-125 — Direct-fire ignition conversion for carburetted engines](ideas/direct-fire-conversion.md) | Future option | Owner idea and initial technical comparison; no prototype | No dedicated repo found | Feasibility depends on the stock trigger pattern, desired ignition mode and installation requirements. No target engine, architecture or development commitment selected. |
-| [RD-126 — Carbon-fibre sprintcar throttle bellcrank](ideas/carbon-throttle-bellcrank.md) | Paused — sourcing | Existing part used and tested for years by the owner; production not established | No dedicated repo found | Manufacturing was the earlier blocker. New manufacturing contacts may make the existing design worth revisiting, but production supply, cost and part consistency are not established. |
+| [RD-126 — Carbon-fibre sprintcar throttle bellcrank](ideas/carbon-throttle-bellcrank.md) | Paused — sourcing | Owner-machined prototype used and tested for years; production not established | No dedicated repo found | The owner could make working prototypes on his CNC router, but the process took too much of his time for production. Outside manufacture is unresolved. |
+| [RD-127 — Carbon-fibre sprintcar steering box mounts](ideas/carbon-steering-box-mounts.md) | Paused — sourcing | Owner-machined working prototypes; production not established | No dedicated repo found | The home-router process took too much owner time for repeat production. New manufacturing contacts may provide an outsourced small-batch route. |
 
 ## Pit equipment
 
